@@ -5,13 +5,15 @@
 <body>
 <script type="text/javascript">
 function onSongLoaded(player, songName, songLength) {
-    console.log("Song '" + songName + "' ready to be played (" + songLength + " orders).");
-    player.play();
+	console.log("Song '" + songName + "' ready to be played (" + songLength + " orders).");
+	player.play();
 }
 
-var modPlayer = new ScripTracker();
-modPlayer.on(ScripTracker.Events.playerReady, onSongLoaded);
-modPlayer.load("MENU.MOD");
+(function() {
+	var modPlayer = new ScripTracker();
+	modPlayer.on(ScripTracker.Events.playerReady, onSongLoaded);
+	modPlayer.load("MENU.MOD");
+})();
 </script>
 </body>
 </html>
