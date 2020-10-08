@@ -46,7 +46,7 @@
                 data.forEach(function (item) {
                     markers.addLayer(L.marker([-item.MapY + 4000, item.MapX]));
                 });
-                markers.addTo(map);
+                markers.addTo(map).bindPopup(label);
                 control.addOverlay(markers, label);
             });
         }
