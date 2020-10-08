@@ -44,7 +44,7 @@
             $.getJSON("data/" + layer + ".json", function (data) {
                 var markers = L.markerClusterGroup.layerSupport();
                 data.forEach(function (item) {
-                    markers.addLayer(L.marker([item.MapY, item.MapX]));
+                    markers.addLayer(L.marker([-item.MapY + 4000, item.MapX]));
                 });
                 markers.addTo(map);
                 control.addOverlay(markers, label);
