@@ -1,0 +1,1496 @@
+[
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -327503.4375,
+    "Y": 67079.90625,
+    "Z": -12744.630859,
+    "MapX": 777.997925,
+    "MapY": 2073.73877
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -327277.03125,
+    "Y": 66837.804688,
+    "Z": -12904.738281,
+    "MapX": 778.998779,
+    "MapY": 2072.664063
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -327144.5625,
+    "Y": 66712.414063,
+    "Z": -12983.193359,
+    "MapX": 779.584351,
+    "MapY": 2072.107178
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -324465.5,
+    "Y": 68611.71875,
+    "Z": -13203.751953,
+    "MapX": 791.427124,
+    "MapY": 2080.538818
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -324206.125,
+    "Y": 68993.875,
+    "Z": -13119.675781,
+    "MapX": 792.57373,
+    "MapY": 2082.235352
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -323313.9375,
+    "Y": 68716.132813,
+    "Z": -13830.175781,
+    "MapX": 796.517639,
+    "MapY": 2081.002441
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -254933.078125,
+    "Y": 118166.921875,
+    "Z": -16149.154297,
+    "MapX": 1098.79541,
+    "MapY": 2300.529541
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -254800,
+    "Y": 118145.96875,
+    "Z": -16243.87793,
+    "MapX": 1099.383667,
+    "MapY": 2300.436523
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -254479.5,
+    "Y": 118599.015625,
+    "Z": -16419.603516,
+    "MapX": 1100.800537,
+    "MapY": 2302.447754
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -254209.046875,
+    "Y": 118973.3125,
+    "Z": -16571.619141,
+    "MapX": 1101.995972,
+    "MapY": 2304.109375
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -254064.109375,
+    "Y": 119110.9375,
+    "Z": -16686.085938,
+    "MapX": 1102.636719,
+    "MapY": 2304.720215
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -253700,
+    "Y": 119447.09375,
+    "Z": -16967.556641,
+    "MapX": 1104.246216,
+    "MapY": 2306.212646
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -252942.296875,
+    "Y": 121339.757813,
+    "Z": -17302.402344,
+    "MapX": 1107.595703,
+    "MapY": 2314.614746
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -252842.6875,
+    "Y": 121027.554688,
+    "Z": -17420.570313,
+    "MapX": 1108.036011,
+    "MapY": 2313.22876
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -252645.1875,
+    "Y": 121284.5625,
+    "Z": -17495.0625,
+    "MapX": 1108.909058,
+    "MapY": 2314.369629
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -254052.8125,
+    "Y": 16871.373047,
+    "Z": -18295.673828,
+    "MapX": 1102.686523,
+    "MapY": 1850.847656
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -254000,
+    "Y": 16718.488281,
+    "Z": -18365.697266,
+    "MapX": 1102.920166,
+    "MapY": 1850.168945
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -253381.828125,
+    "Y": 18312.611328,
+    "Z": -16620.333984,
+    "MapX": 1105.65271,
+    "MapY": 1857.245728
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -253147.140625,
+    "Y": 17576.5625,
+    "Z": -17954.521484,
+    "MapX": 1106.690186,
+    "MapY": 1853.978271
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -252853.15625,
+    "Y": 16930.349609,
+    "Z": -18165.587891,
+    "MapX": 1107.989746,
+    "MapY": 1851.109375
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -252783.3125,
+    "Y": 17049.681641,
+    "Z": -18087.154297,
+    "MapX": 1108.298462,
+    "MapY": 1851.639282
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -252135.109375,
+    "Y": 17239.173828,
+    "Z": -17728.076172,
+    "MapX": 1111.163818,
+    "MapY": 1852.480469
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -251703.96875,
+    "Y": 17532.25,
+    "Z": -17506.660156,
+    "MapX": 1113.069702,
+    "MapY": 1853.781494
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -257900,
+    "Y": -65361.992188,
+    "Z": -17069.9375,
+    "MapX": 1085.680176,
+    "MapY": 1485.788696
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -257958.46875,
+    "Y": -65186.910156,
+    "Z": -17033.486328,
+    "MapX": 1085.421631,
+    "MapY": 1486.565918
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -258440.71875,
+    "Y": -65400,
+    "Z": -16631.492188,
+    "MapX": 1083.289917,
+    "MapY": 1485.619995
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -258500,
+    "Y": -65179.492188,
+    "Z": -16620.271484,
+    "MapX": 1083.027832,
+    "MapY": 1486.598877
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -258690.0625,
+    "Y": -65165.679688,
+    "Z": -16477.675781,
+    "MapX": 1082.187744,
+    "MapY": 1486.660156
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -263179.71875,
+    "Y": -57547.613281,
+    "Z": -16053.796875,
+    "MapX": 1062.341064,
+    "MapY": 1520.479126
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -263423.59375,
+    "Y": -58536.808594,
+    "Z": -14012.691406,
+    "MapX": 1061.263062,
+    "MapY": 1516.087646
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -263490.6875,
+    "Y": -58014.828125,
+    "Z": -14681.101563,
+    "MapX": 1060.966553,
+    "MapY": 1518.405029
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -263698.0625,
+    "Y": -56989.652344,
+    "Z": -15936.117188,
+    "MapX": 1060.049805,
+    "MapY": 1522.956055
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -263756.25,
+    "Y": -56756.238281,
+    "Z": -16003.825195,
+    "MapX": 1059.79248,
+    "MapY": 1523.992188
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -264602.8125,
+    "Y": -57465.257813,
+    "Z": -13935.783203,
+    "MapX": 1056.050293,
+    "MapY": 1520.844727
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -264761.15625,
+    "Y": -57476.164063,
+    "Z": -13972.646484,
+    "MapX": 1055.350342,
+    "MapY": 1520.796265
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -260277.578125,
+    "Y": -61448.136719,
+    "Z": -16716.652344,
+    "MapX": 1075.170044,
+    "MapY": 1503.163574
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -260344.703125,
+    "Y": -61231.070313,
+    "Z": -16752.740234,
+    "MapX": 1074.873291,
+    "MapY": 1504.127075
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -260647.296875,
+    "Y": -60689.457031,
+    "Z": -16743.582031,
+    "MapX": 1073.535645,
+    "MapY": 1506.531494
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -261863.78125,
+    "Y": -61400,
+    "Z": -15944.094727,
+    "MapX": 1068.158203,
+    "MapY": 1503.377197
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -265113.59375,
+    "Y": -60621.183594,
+    "Z": -13973.832031,
+    "MapX": 1053.79248,
+    "MapY": 1506.834595
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -266628.03125,
+    "Y": -57468.476563,
+    "Z": -15336.216797,
+    "MapX": 1047.0979,
+    "MapY": 1520.830444
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -266566.28125,
+    "Y": -57330.265625,
+    "Z": -15385.707031,
+    "MapX": 1047.37085,
+    "MapY": 1521.44397
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -261715.34375,
+    "Y": -67324.078125,
+    "Z": -14561.34668,
+    "MapX": 1068.814453,
+    "MapY": 1477.078491
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -261700,
+    "Y": -67111.101563,
+    "Z": -14629.603516,
+    "MapX": 1068.882202,
+    "MapY": 1478.023926
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -260859.484375,
+    "Y": -67414.742188,
+    "Z": -14800.580078,
+    "MapX": 1072.597656,
+    "MapY": 1476.675781
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -260812.203125,
+    "Y": -67255.804688,
+    "Z": -14879.667969,
+    "MapX": 1072.806641,
+    "MapY": 1477.38147
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -264287.84375,
+    "Y": -60753.125,
+    "Z": -13944.025391,
+    "MapX": 1057.442627,
+    "MapY": 1506.248901
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -262152.25,
+    "Y": -62785.238281,
+    "Z": -15434.933594,
+    "MapX": 1066.883057,
+    "MapY": 1497.227539
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -262070.296875,
+    "Y": -61459.679688,
+    "Z": -16008.720703,
+    "MapX": 1067.245361,
+    "MapY": 1503.112183
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -210309.375,
+    "Y": -88618.117188,
+    "Z": -15354.195313,
+    "MapX": 1296.054565,
+    "MapY": 1382.547607
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -209066.484375,
+    "Y": -88131.742188,
+    "Z": -15588.333984,
+    "MapX": 1301.548828,
+    "MapY": 1384.706787
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -209021.515625,
+    "Y": -88274.414063,
+    "Z": -15676.891602,
+    "MapX": 1301.747559,
+    "MapY": 1384.073486
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -208549.375,
+    "Y": -86775.90625,
+    "Z": -15177.575195,
+    "MapX": 1303.834717,
+    "MapY": 1390.72583
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -208368.09375,
+    "Y": -86675.34375,
+    "Z": -15218.041016,
+    "MapX": 1304.636108,
+    "MapY": 1391.172119
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -208301.59375,
+    "Y": -87357.789063,
+    "Z": -15474.695313,
+    "MapX": 1304.930054,
+    "MapY": 1388.1427
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -208262.390625,
+    "Y": -87048.367188,
+    "Z": -15366.49707,
+    "MapX": 1305.103271,
+    "MapY": 1389.516235
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -208176.125,
+    "Y": -87429.367188,
+    "Z": -15561.832031,
+    "MapX": 1305.484619,
+    "MapY": 1387.824829
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -207917.1875,
+    "Y": -86648.148438,
+    "Z": -15364.895508,
+    "MapX": 1306.629272,
+    "MapY": 1391.292847
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -207876.734375,
+    "Y": -88071.070313,
+    "Z": -15885.756836,
+    "MapX": 1306.808105,
+    "MapY": 1384.976196
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -207876.515625,
+    "Y": -86766.726563,
+    "Z": -15415.857422,
+    "MapX": 1306.809082,
+    "MapY": 1390.766479
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -207815.046875,
+    "Y": -87956.460938,
+    "Z": -15865.742188,
+    "MapX": 1307.080811,
+    "MapY": 1385.484863
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -207187.1875,
+    "Y": -86340.203125,
+    "Z": -15596.359375,
+    "MapX": 1309.856201,
+    "MapY": 1392.660034
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -207146.40625,
+    "Y": -87770.851563,
+    "Z": -16023.311523,
+    "MapX": 1310.036621,
+    "MapY": 1386.30896
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -207097.734375,
+    "Y": -86435.742188,
+    "Z": -15669.34375,
+    "MapX": 1310.251709,
+    "MapY": 1392.23584
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -206896.1875,
+    "Y": -86382.695313,
+    "Z": -15735.548828,
+    "MapX": 1311.142578,
+    "MapY": 1392.471313
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -153181.140625,
+    "Y": 127557.148438,
+    "Z": -15010.023438,
+    "MapX": 1548.590088,
+    "MapY": 2342.215576
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -153268.015625,
+    "Y": 127950.546875,
+    "Z": -14909.185547,
+    "MapX": 1548.206055,
+    "MapY": 2343.961914
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -156548.5625,
+    "Y": 125721.476563,
+    "Z": -14499.058594,
+    "MapX": 1533.704468,
+    "MapY": 2334.066406
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -154429.0625,
+    "Y": 125716.796875,
+    "Z": -14445.427734,
+    "MapX": 1543.07373,
+    "MapY": 2334.045654
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -153951.046875,
+    "Y": 126886.664063,
+    "Z": -14519.948242,
+    "MapX": 1545.186768,
+    "MapY": 2339.239014
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -153556.25,
+    "Y": 128215.648438,
+    "Z": -14720.527344,
+    "MapX": 1546.931885,
+    "MapY": 2345.138916
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -153375.8125,
+    "Y": 128309.992188,
+    "Z": -14826.755859,
+    "MapX": 1547.729492,
+    "MapY": 2345.557617
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -153307.34375,
+    "Y": 127625.976563,
+    "Z": -14938.56543,
+    "MapX": 1548.032227,
+    "MapY": 2342.520996
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -183037.828125,
+    "Y": 68045.1875,
+    "Z": -15804.961914,
+    "MapX": 1416.608643,
+    "MapY": 2078.023926
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -182860.109375,
+    "Y": 68087.921875,
+    "Z": -15830.641602,
+    "MapX": 1417.394287,
+    "MapY": 2078.213623
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -182133.046875,
+    "Y": 68488.421875,
+    "Z": -16119.075195,
+    "MapX": 1420.608154,
+    "MapY": 2079.991455
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -182100,
+    "Y": 68250.875,
+    "Z": -15973.931641,
+    "MapX": 1420.754272,
+    "MapY": 2078.937012
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -181880.65625,
+    "Y": 67887.507813,
+    "Z": -15772.842773,
+    "MapX": 1421.723877,
+    "MapY": 2077.32373
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -181762.109375,
+    "Y": 67804.078125,
+    "Z": -15728.196289,
+    "MapX": 1422.247803,
+    "MapY": 2076.953613
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -181575.984375,
+    "Y": 67662.195313,
+    "Z": -15637.703125,
+    "MapX": 1423.070679,
+    "MapY": 2076.32373
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -180228.5625,
+    "Y": 68212.726563,
+    "Z": -15566.743164,
+    "MapX": 1429.026855,
+    "MapY": 2078.767578
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -180100,
+    "Y": 68258.882813,
+    "Z": -15533.819336,
+    "MapX": 1429.595215,
+    "MapY": 2078.972412
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -187912.3125,
+    "Y": -27213.992188,
+    "Z": -17308.46875,
+    "MapX": 1395.060791,
+    "MapY": 1655.139282
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -187777.84375,
+    "Y": -26805.300781,
+    "Z": -17420.990234,
+    "MapX": 1395.655273,
+    "MapY": 1656.953491
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -186543.28125,
+    "Y": -25343.285156,
+    "Z": -17878.826172,
+    "MapX": 1401.112671,
+    "MapY": 1663.44397
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -186492.203125,
+    "Y": -25992.199219,
+    "Z": -17248.515625,
+    "MapX": 1401.338501,
+    "MapY": 1660.563232
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -185536.640625,
+    "Y": -25332.308594,
+    "Z": -17117.003906,
+    "MapX": 1405.5625,
+    "MapY": 1663.492554
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -86239.265625,
+    "Y": 171870.8125,
+    "Z": -11635.119141,
+    "MapX": 1844.506958,
+    "MapY": 2538.9375
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -86142.484375,
+    "Y": 172031.09375,
+    "Z": -11545.521484,
+    "MapX": 1844.93457,
+    "MapY": 2539.648926
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -85158.875,
+    "Y": 173282.546875,
+    "Z": -11600.375977,
+    "MapX": 1849.282715,
+    "MapY": 2545.20459
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -84802.867188,
+    "Y": 172544.453125,
+    "Z": -11905.660156,
+    "MapX": 1850.856445,
+    "MapY": 2541.927979
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -84626.796875,
+    "Y": 172556.0625,
+    "Z": -11992.033203,
+    "MapX": 1851.634766,
+    "MapY": 2541.979492
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -83760.398438,
+    "Y": 173263.953125,
+    "Z": -12330.71582,
+    "MapX": 1855.464722,
+    "MapY": 2545.12207
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -83700,
+    "Y": 173028.3125,
+    "Z": -12374.351563,
+    "MapX": 1855.731689,
+    "MapY": 2544.075928
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -83682.515625,
+    "Y": 174845.4375,
+    "Z": -12246.328125,
+    "MapX": 1855.809082,
+    "MapY": 2552.142822
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -83500,
+    "Y": 174827.984375,
+    "Z": -12337.59375,
+    "MapX": 1856.615845,
+    "MapY": 2552.065186
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -83430.5625,
+    "Y": 174583.328125,
+    "Z": -12349.888672,
+    "MapX": 1856.922729,
+    "MapY": 2550.979248
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -82948.8125,
+    "Y": 174800,
+    "Z": -12530.168945,
+    "MapX": 1859.052368,
+    "MapY": 2551.940918
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": -83281.96875,
+    "Y": 175937.859375,
+    "Z": -12223.555664,
+    "MapX": 1857.57959,
+    "MapY": 2556.992432
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 66741.015625,
+    "Y": 110900.390625,
+    "Z": -12594.374023,
+    "MapX": 2520.756592,
+    "MapY": 2268.270996
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 67522.742188,
+    "Y": 112062.929688,
+    "Z": -12535.966797,
+    "MapX": 2524.212402,
+    "MapY": 2273.432129
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 71369.359375,
+    "Y": 113000,
+    "Z": -12429.275391,
+    "MapX": 2541.216309,
+    "MapY": 2277.591797
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 71747.859375,
+    "Y": 113147.742188,
+    "Z": -12652.604492,
+    "MapX": 2542.889648,
+    "MapY": 2278.247803
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 72273.664063,
+    "Y": 111313.234375,
+    "Z": -12368.759766,
+    "MapX": 2545.213867,
+    "MapY": 2270.104004
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 72521.882813,
+    "Y": 112059.164063,
+    "Z": -12437.719727,
+    "MapX": 2546.310791,
+    "MapY": 2273.415283
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 72587.421875,
+    "Y": 111684.984375,
+    "Z": -12352.998047,
+    "MapX": 2546.600586,
+    "MapY": 2271.75415
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 72621.117188,
+    "Y": 111510.328125,
+    "Z": -12290.512695,
+    "MapX": 2546.749512,
+    "MapY": 2270.979004
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 72755.796875,
+    "Y": 111819.601563,
+    "Z": -12319.525391,
+    "MapX": 2547.345215,
+    "MapY": 2272.351807
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 89469.75,
+    "Y": -318.856537,
+    "Z": -14875.671875,
+    "MapX": 2621.229004,
+    "MapY": 1774.535034
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 88083.953125,
+    "Y": 1018.29187,
+    "Z": -15283.198242,
+    "MapX": 2615.103027,
+    "MapY": 1780.471069
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 88162.296875,
+    "Y": 862.291138,
+    "Z": -15312.491211,
+    "MapX": 2615.449707,
+    "MapY": 1779.778442
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 88164.015625,
+    "Y": 1389.039551,
+    "Z": -15164.336914,
+    "MapX": 2615.457031,
+    "MapY": 1782.116943
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 88757.03125,
+    "Y": 906.109619,
+    "Z": -15023.302734,
+    "MapX": 2618.078613,
+    "MapY": 1779.9729
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 88869.523438,
+    "Y": 1010.930603,
+    "Z": -14900.412109,
+    "MapX": 2618.575684,
+    "MapY": 1780.438354
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 92571.179688,
+    "Y": -5425.708984,
+    "Z": -14941.09375,
+    "MapX": 2634.938965,
+    "MapY": 1751.864136
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 92913.789063,
+    "Y": -6280.679199,
+    "Z": -16097.017578,
+    "MapX": 2636.453369,
+    "MapY": 1748.068604
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 93085.382813,
+    "Y": -6360.843262,
+    "Z": -16040.601563,
+    "MapX": 2637.211914,
+    "MapY": 1747.712769
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 94160.8125,
+    "Y": -6089.678711,
+    "Z": -14903.279297,
+    "MapX": 2641.96582,
+    "MapY": 1748.916504
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 94302.359375,
+    "Y": -6035.314941,
+    "Z": -14880.827148,
+    "MapX": 2642.591553,
+    "MapY": 1749.157959
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 94734.34375,
+    "Y": -8624.381836,
+    "Z": -16555.591797,
+    "MapX": 2644.501221,
+    "MapY": 1737.664307
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 92048.09375,
+    "Y": -2203.967773,
+    "Z": -14937.537109,
+    "MapX": 2632.626709,
+    "MapY": 1766.166382
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 95406.921875,
+    "Y": -7322.230957,
+    "Z": -15303.326172,
+    "MapX": 2647.474365,
+    "MapY": 1743.444824
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 175964.15625,
+    "Y": 125202.359375,
+    "Z": -16632.373047,
+    "MapX": 3003.577637,
+    "MapY": 2331.761963
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 177841.203125,
+    "Y": 123668.546875,
+    "Z": -17225.292969,
+    "MapX": 3011.875244,
+    "MapY": 2324.952881
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 177929.171875,
+    "Y": 123570.476563,
+    "Z": -17267.228516,
+    "MapX": 3012.264404,
+    "MapY": 2324.517578
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 152722,
+    "Y": 172730.046875,
+    "Z": -15645.291992,
+    "MapX": 2900.835938,
+    "MapY": 2542.751953
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 191987.21875,
+    "Y": 8066.987793,
+    "Z": -14683.899414,
+    "MapX": 3074.407959,
+    "MapY": 1811.762207
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 192157.84375,
+    "Y": 8099.999023,
+    "Z": -14617.050781,
+    "MapX": 3075.162109,
+    "MapY": 1811.908936
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 192929.5,
+    "Y": 8255.833984,
+    "Z": -14528.776367,
+    "MapX": 3078.573242,
+    "MapY": 1812.600586
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 193853.5,
+    "Y": 7032.785645,
+    "Z": -14315.193359,
+    "MapX": 3082.657715,
+    "MapY": 1807.171143
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 194232.21875,
+    "Y": 6985.875977,
+    "Z": -14078.988281,
+    "MapX": 3084.332031,
+    "MapY": 1806.962891
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 112439.28125,
+    "Y": -88871.46875,
+    "Z": -10924.350586,
+    "MapX": 2722.765869,
+    "MapY": 1381.422974
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 112208.1875,
+    "Y": -89119.398438,
+    "Z": -11004.4375,
+    "MapX": 2721.744385,
+    "MapY": 1380.322266
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 113261.710938,
+    "Y": -92151.851563,
+    "Z": -12334.657227,
+    "MapX": 2726.401367,
+    "MapY": 1366.860352
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 113126.664063,
+    "Y": -90122.984375,
+    "Z": -11469.12793,
+    "MapX": 2725.804443,
+    "MapY": 1375.867065
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 113143.796875,
+    "Y": -92078.53125,
+    "Z": -12377.255859,
+    "MapX": 2725.880371,
+    "MapY": 1367.185791
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 112926.84375,
+    "Y": -91700,
+    "Z": -12194.433594,
+    "MapX": 2724.921387,
+    "MapY": 1368.866211
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 112872.210938,
+    "Y": -91466.359375,
+    "Z": -12020.529297,
+    "MapX": 2724.679688,
+    "MapY": 1369.903442
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 112089.664063,
+    "Y": -90168.023438,
+    "Z": -11469.887695,
+    "MapX": 2721.220459,
+    "MapY": 1375.667114
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 111350.273438,
+    "Y": -90129.617188,
+    "Z": -12123.09375,
+    "MapX": 2717.952148,
+    "MapY": 1375.837524
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 111534.8125,
+    "Y": -90158.34375,
+    "Z": -12032.600586,
+    "MapX": 2718.767822,
+    "MapY": 1375.710083
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 111603.585938,
+    "Y": -90396.414063,
+    "Z": -12067.344727,
+    "MapX": 2719.071777,
+    "MapY": 1374.653198
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 167667.90625,
+    "Y": -64757.117188,
+    "Z": -14658.640625,
+    "MapX": 2966.904053,
+    "MapY": 1488.473877
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 167825.984375,
+    "Y": -64816.234375,
+    "Z": -14550.394531,
+    "MapX": 2967.603027,
+    "MapY": 1488.211304
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 168082.453125,
+    "Y": -64006.472656,
+    "Z": -14948.916992,
+    "MapX": 2968.736816,
+    "MapY": 1491.806274
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 168164.1875,
+    "Y": -64165.941406,
+    "Z": -14822.822266,
+    "MapX": 2969.0979,
+    "MapY": 1491.098267
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 168748.5,
+    "Y": -64142.515625,
+    "Z": -14811.424805,
+    "MapX": 2971.680908,
+    "MapY": 1491.202393
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 168864.515625,
+    "Y": -64035.164063,
+    "Z": -14860.910156,
+    "MapX": 2972.193848,
+    "MapY": 1491.678955
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 171539.921875,
+    "Y": -63030.90625,
+    "Z": -14509.52832,
+    "MapX": 2984.020508,
+    "MapY": 1496.136963
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 242482.796875,
+    "Y": 102046.664063,
+    "Z": -11775.148438,
+    "MapX": 3297.623779,
+    "MapY": 2228.966797
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 242712.8125,
+    "Y": 101812.8125,
+    "Z": -11776.072266,
+    "MapX": 3298.640381,
+    "MapY": 2227.928711
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 243026.765625,
+    "Y": 101324.398438,
+    "Z": -11880.74707,
+    "MapX": 3300.028076,
+    "MapY": 2225.760498
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 244730.953125,
+    "Y": 101359.3125,
+    "Z": -11622.859375,
+    "MapX": 3307.561523,
+    "MapY": 2225.915527
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 245407.578125,
+    "Y": 102531.515625,
+    "Z": -11797.439453,
+    "MapX": 3310.55249,
+    "MapY": 2231.119141
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 254467.125,
+    "Y": 104051.609375,
+    "Z": -10808.303711,
+    "MapX": 3350.600342,
+    "MapY": 2237.867188
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 254777.515625,
+    "Y": 104406.640625,
+    "Z": -10907.275391,
+    "MapX": 3351.972412,
+    "MapY": 2239.443359
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 253961.484375,
+    "Y": 105391.210938,
+    "Z": -10831.839844,
+    "MapX": 3348.365234,
+    "MapY": 2243.814209
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 253842.484375,
+    "Y": 105660.585938,
+    "Z": -10882.21875,
+    "MapX": 3347.839355,
+    "MapY": 2245.01001
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 252190.265625,
+    "Y": 106882.84375,
+    "Z": -11235.463867,
+    "MapX": 3340.5354,
+    "MapY": 2250.436035
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 256658.359375,
+    "Y": 106266.882813,
+    "Z": -11767.568359,
+    "MapX": 3360.286865,
+    "MapY": 2247.70166
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 256707.375,
+    "Y": 106919.828125,
+    "Z": -11887.197266,
+    "MapX": 3360.503418,
+    "MapY": 2250.600098
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 256865.984375,
+    "Y": 107358.929688,
+    "Z": -11963.104492,
+    "MapX": 3361.20459,
+    "MapY": 2252.549561
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 258649.96875,
+    "Y": 104683.789063,
+    "Z": -11806.849609,
+    "MapX": 3369.09082,
+    "MapY": 2240.673828
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 258898.921875,
+    "Y": 104524.585938,
+    "Z": -11838.100586,
+    "MapX": 3370.191406,
+    "MapY": 2239.967041
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 246344.4375,
+    "Y": 103429.851563,
+    "Z": -11487.253906,
+    "MapX": 3314.694092,
+    "MapY": 2235.107178
+  },
+  {
+    "Material": "Ore_Gold",
+    "Mesh": "SM_rock_resource_Gold_01",
+    "X": 246068.96875,
+    "Y": 103450.296875,
+    "Z": -11590.991211,
+    "MapX": 3313.476563,
+    "MapY": 2235.197998
+  }
+]

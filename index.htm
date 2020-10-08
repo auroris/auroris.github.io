@@ -1,19 +1,55 @@
 <html>
 <head>
-<script type="text/javascript" src="scriptracker-1.1.1.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster.layersupport@2.0.1/dist/leaflet.markercluster.layersupport.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style type="text/css">
+        #map {
+            height: 100%;
+        }
+    </style>
 </head>
 <body>
-<script type="text/javascript">
-function onSongLoaded(player, songName, songLength) {
-	console.log("Song '" + songName + "' ready to be played (" + songLength + " orders).");
-	player.play();
-}
+    <div id="map"></div>
+    <script type="text/javascript">
+        var map = L.map('map', {
+            crs: L.CRS.Simple,
+            minZoom: -2,
+            maxZoom: 3
+        });
+        var bounds = [[0, 0], [4000, 4000]];
+        var image = L.imageOverlay('siptah.png', bounds).addTo(map);
+        var baseMap = { "Isle of Siptah": image };
+        map.fitBounds(bounds);
 
-(function() {
-	var modPlayer = new ScripTracker();
-	modPlayer.on(ScripTracker.Events.playerReady, onSongLoaded);
-	modPlayer.load("MENU.MOD");
-})();
-</script>
+        var control = L.control.layers(baseMap);
+        control.addTo(map);
+
+        addLayer("blackice", "Black Ice");
+        addLayer("brimstone", "Brimstone");
+        addLayer("coal", "Coal");
+        addLayer("crystal", "Crystal");
+        addLayer("gold", "Gold");
+        addLayer("gold_pickup", "Gold (Pickups)");
+        addLayer("gossamer", "Gossamer");
+        addLayer("iron", "Iron");
+        addLayer("silver", "Silver");
+        addLayer("silver_pickup", "Silver (Pickups)");
+        addLayer("starmetal", "Star Metal");
+
+        function addLayer(layer, label) {
+            $.getJSON("data/" + layer + ".json", function (data) {
+                var markers = L.markerClusterGroup.layerSupport();
+                data.forEach(function (item) {
+                    markers.addLayer(L.marker([item.MapY, item.MapX]));
+                });
+                markers.addTo(map);
+                control.addOverlay(markers, label);
+            });
+        }
+    </script>
 </body>
 </html>

@@ -1,0 +1,4853 @@
+[
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -332437,
+    "Y": 227449,
+    "Z": -10841.714844,
+    "MapX": 756.189087,
+    "MapY": 2785.666016
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -333450.8125,
+    "Y": 225965.65625,
+    "Z": -10412.007813,
+    "MapX": 751.70752,
+    "MapY": 2779.081055
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -333778.25,
+    "Y": 226700.109375,
+    "Z": -10805.036133,
+    "MapX": 750.260132,
+    "MapY": 2782.341553
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -334214.90625,
+    "Y": 227980.375,
+    "Z": -9700.646484,
+    "MapX": 748.329834,
+    "MapY": 2788.024902
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -336840.375,
+    "Y": 225767.359375,
+    "Z": -14978.171875,
+    "MapX": 736.723999,
+    "MapY": 2778.200684
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -338985.75,
+    "Y": 225214.234375,
+    "Z": -15334.28125,
+    "MapX": 727.240356,
+    "MapY": 2775.745117
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -339624.5,
+    "Y": 225449.921875,
+    "Z": -15336.083984,
+    "MapX": 724.416748,
+    "MapY": 2776.791504
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -342054.5625,
+    "Y": 226523.078125,
+    "Z": -15463.805664,
+    "MapX": 713.674622,
+    "MapY": 2781.555664
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -343176.5,
+    "Y": 226036.234375,
+    "Z": -15658.617188,
+    "MapX": 708.715088,
+    "MapY": 2779.394287
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -349650.09375,
+    "Y": 230439.96875,
+    "Z": -15061.787109,
+    "MapX": 680.098572,
+    "MapY": 2798.943848
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -346838.96875,
+    "Y": 230761.03125,
+    "Z": -14774.416016,
+    "MapX": 692.525146,
+    "MapY": 2800.369141
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -343449.5625,
+    "Y": 226559.421875,
+    "Z": -15583.188477,
+    "MapX": 707.508057,
+    "MapY": 2781.716797
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -362615.6875,
+    "Y": 174137,
+    "Z": -16222.402344,
+    "MapX": 622.784119,
+    "MapY": 2548.997803
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -362000,
+    "Y": 173283.640625,
+    "Z": -16451.048828,
+    "MapX": 625.505798,
+    "MapY": 2545.209473
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -357659.25,
+    "Y": 174104.75,
+    "Z": -16762.609375,
+    "MapX": 644.694092,
+    "MapY": 2548.854492
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -357044.875,
+    "Y": 173245.578125,
+    "Z": -16760.003906,
+    "MapX": 647.409912,
+    "MapY": 2545.040527
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -354240.0625,
+    "Y": 173400,
+    "Z": -16023.304688,
+    "MapX": 659.808594,
+    "MapY": 2545.726074
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -353583.6875,
+    "Y": 173332.8125,
+    "Z": -15717.37793,
+    "MapX": 662.710083,
+    "MapY": 2545.427734
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -348608.875,
+    "Y": 173294.046875,
+    "Z": -12628.548828,
+    "MapX": 684.701294,
+    "MapY": 2545.255615
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -348441.25,
+    "Y": 172573.546875,
+    "Z": -12383.681641,
+    "MapX": 685.442261,
+    "MapY": 2542.057129
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -342094.4375,
+    "Y": 173760.171875,
+    "Z": -13030.811523,
+    "MapX": 713.498413,
+    "MapY": 2547.324951
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -331281.65625,
+    "Y": 79470.5,
+    "Z": -14997.192383,
+    "MapX": 761.296326,
+    "MapY": 2128.744141
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -329869.5,
+    "Y": 76483.984375,
+    "Z": -13961.745117,
+    "MapX": 767.538757,
+    "MapY": 2115.486328
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -329249.375,
+    "Y": 78414.523438,
+    "Z": -14455.290039,
+    "MapX": 770.280029,
+    "MapY": 2124.056641
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -328593.375,
+    "Y": 78331.5625,
+    "Z": -14249.496094,
+    "MapX": 773.179871,
+    "MapY": 2123.688232
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -328400,
+    "Y": 77552.179688,
+    "Z": -13877.107422,
+    "MapX": 774.034668,
+    "MapY": 2120.228271
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -328187.9375,
+    "Y": 81012.046875,
+    "Z": -15011.164063,
+    "MapX": 774.972107,
+    "MapY": 2135.587646
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -327043.5,
+    "Y": 81473.039063,
+    "Z": -14939.954102,
+    "MapX": 780.031067,
+    "MapY": 2137.634033
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -324206.9375,
+    "Y": 82957.34375,
+    "Z": -14460.203125,
+    "MapX": 792.570129,
+    "MapY": 2144.223389
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -322817.59375,
+    "Y": 84318.953125,
+    "Z": -13961.611328,
+    "MapX": 798.711731,
+    "MapY": 2150.268066
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -243441.375,
+    "Y": 157579.390625,
+    "Z": -17923.261719,
+    "MapX": 1149.594482,
+    "MapY": 2475.493408
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -243625.203125,
+    "Y": 158374.3125,
+    "Z": -17748.527344,
+    "MapX": 1148.781982,
+    "MapY": 2479.022461
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -244878.859375,
+    "Y": 156521.140625,
+    "Z": -17923.941406,
+    "MapX": 1143.240112,
+    "MapY": 2470.795654
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -249246.515625,
+    "Y": 107949.179688,
+    "Z": -17914.433594,
+    "MapX": 1123.932861,
+    "MapY": 2255.169922
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -248800,
+    "Y": 106672.40625,
+    "Z": -17796.554688,
+    "MapX": 1125.906738,
+    "MapY": 2249.501953
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -248472.453125,
+    "Y": 105967.5,
+    "Z": -17741.40625,
+    "MapX": 1127.354614,
+    "MapY": 2246.372559
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247874.421875,
+    "Y": 109300,
+    "Z": -18649.269531,
+    "MapX": 1129.998291,
+    "MapY": 2261.166504
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247424.34375,
+    "Y": 107400,
+    "Z": -18168.050781,
+    "MapX": 1131.987793,
+    "MapY": 2252.731934
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -246300,
+    "Y": 109482.617188,
+    "Z": -19334.886719,
+    "MapX": 1136.958008,
+    "MapY": 2261.977295
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -246860.046875,
+    "Y": 110745.726563,
+    "Z": -18952.287109,
+    "MapX": 1134.482178,
+    "MapY": 2267.584473
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -227605.84375,
+    "Y": 107527.15625,
+    "Z": -12864.642578,
+    "MapX": 1219.595459,
+    "MapY": 2253.296387
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -228013.03125,
+    "Y": 107585.90625,
+    "Z": -12898.552734,
+    "MapX": 1217.795654,
+    "MapY": 2253.557129
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -227879.671875,
+    "Y": 107709.765625,
+    "Z": -12921.998047,
+    "MapX": 1218.38501,
+    "MapY": 2254.106934
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -227023,
+    "Y": 108125.96875,
+    "Z": -12949.704102,
+    "MapX": 1222.171997,
+    "MapY": 2255.95459
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -227930.046875,
+    "Y": 107821.890625,
+    "Z": -12953.948242,
+    "MapX": 1218.162354,
+    "MapY": 2254.604736
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -226788.421875,
+    "Y": 108454.898438,
+    "Z": -12977.374023,
+    "MapX": 1223.208984,
+    "MapY": 2257.415039
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -227097.390625,
+    "Y": 107913.25,
+    "Z": -12906.509766,
+    "MapX": 1221.84314,
+    "MapY": 2255.010254
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -227251.703125,
+    "Y": 107775.789063,
+    "Z": -12912.152344,
+    "MapX": 1221.161011,
+    "MapY": 2254.400146
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -242159.953125,
+    "Y": 148070.90625,
+    "Z": -19347.988281,
+    "MapX": 1155.259033,
+    "MapY": 2433.282471
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -242269.40625,
+    "Y": 147909.671875,
+    "Z": -19401.246094,
+    "MapX": 1154.775146,
+    "MapY": 2432.56665
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -241756.953125,
+    "Y": 146857.203125,
+    "Z": -19471.277344,
+    "MapX": 1157.040527,
+    "MapY": 2427.894531
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -230230.484375,
+    "Y": 147369.609375,
+    "Z": -15299.617188,
+    "MapX": 1207.993286,
+    "MapY": 2430.169189
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -230668.34375,
+    "Y": 147478.28125,
+    "Z": -15420.980469,
+    "MapX": 1206.057739,
+    "MapY": 2430.651611
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -254634.5,
+    "Y": 15444.757813,
+    "Z": -18665.970703,
+    "MapX": 1100.115234,
+    "MapY": 1844.514404
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -252400,
+    "Y": 12426.623047,
+    "Z": -19187.759766,
+    "MapX": 1109.99292,
+    "MapY": 1831.116089
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -258189.59375,
+    "Y": 16046.375,
+    "Z": -18555.03125,
+    "MapX": 1084.399902,
+    "MapY": 1847.185303
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -253500,
+    "Y": 91541.984375,
+    "Z": -18765.048828,
+    "MapX": 1105.130371,
+    "MapY": 2182.333252
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -253635.265625,
+    "Y": 93371.171875,
+    "Z": -18672.904297,
+    "MapX": 1104.532471,
+    "MapY": 2190.453613
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -254288.78125,
+    "Y": 93447.960938,
+    "Z": -18452.652344,
+    "MapX": 1101.643555,
+    "MapY": 2190.794434
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -202438.375,
+    "Y": 77441.601563,
+    "Z": -12182.121094,
+    "MapX": 1330.848389,
+    "MapY": 2119.737305
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -202860.703125,
+    "Y": 79314.78125,
+    "Z": -11879.703125,
+    "MapX": 1328.981445,
+    "MapY": 2128.052979
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -203484.703125,
+    "Y": 75981.515625,
+    "Z": -11914.188477,
+    "MapX": 1326.223022,
+    "MapY": 2113.255615
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -249252.40625,
+    "Y": 98462.875,
+    "Z": -18053.347656,
+    "MapX": 1123.90686,
+    "MapY": 2213.057129
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -253200,
+    "Y": 91000,
+    "Z": -18835.158203,
+    "MapX": 1106.456543,
+    "MapY": 2179.927246
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -253448.515625,
+    "Y": 92567.773438,
+    "Z": -18787.183594,
+    "MapX": 1105.35791,
+    "MapY": 2186.887207
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -203806.1875,
+    "Y": 76684.507813,
+    "Z": -11879.289063,
+    "MapX": 1324.802002,
+    "MapY": 2116.376465
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -202081.140625,
+    "Y": 61518.636719,
+    "Z": -13854.850586,
+    "MapX": 1332.42749,
+    "MapY": 2049.050537
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -202037.71875,
+    "Y": 58266.378906,
+    "Z": -14738.532227,
+    "MapX": 1332.619385,
+    "MapY": 2034.612793
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -202661.703125,
+    "Y": 59138.300781,
+    "Z": -14386.652344,
+    "MapX": 1329.861084,
+    "MapY": 2038.483398
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -242829.96875,
+    "Y": 84300,
+    "Z": -17743.041016,
+    "MapX": 1152.297241,
+    "MapY": 2150.183838
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -243451.125,
+    "Y": 80975.890625,
+    "Z": -17440.228516,
+    "MapX": 1149.551514,
+    "MapY": 2135.427246
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -244237.765625,
+    "Y": 82962.242188,
+    "Z": -17892.761719,
+    "MapX": 1146.074097,
+    "MapY": 2144.245117
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -246265.359375,
+    "Y": 84471.453125,
+    "Z": -19503.724609,
+    "MapX": 1137.111084,
+    "MapY": 2150.945068
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -248460.46875,
+    "Y": 80973.898438,
+    "Z": -19241.742188,
+    "MapX": 1127.407593,
+    "MapY": 2135.418457
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -248400,
+    "Y": 77566.765625,
+    "Z": -18765.107422,
+    "MapX": 1127.674927,
+    "MapY": 2120.292969
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -248448.296875,
+    "Y": 76551.695313,
+    "Z": -18811.701172,
+    "MapX": 1127.461426,
+    "MapY": 2115.786865
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -248600,
+    "Y": 78356.671875,
+    "Z": -18886.695313,
+    "MapX": 1126.790771,
+    "MapY": 2123.799805
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -249257.578125,
+    "Y": 78442.414063,
+    "Z": -19087.480469,
+    "MapX": 1123.884033,
+    "MapY": 2124.180176
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -246990.0625,
+    "Y": 73260.773438,
+    "Z": -14900.458008,
+    "MapX": 1133.907471,
+    "MapY": 2101.17749
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -251271.71875,
+    "Y": 69473.960938,
+    "Z": -17492.105469,
+    "MapX": 1114.980469,
+    "MapY": 2084.366699
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -252399.21875,
+    "Y": 67410.703125,
+    "Z": -17212.037109,
+    "MapX": 1109.996338,
+    "MapY": 2075.207031
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -254215.015625,
+    "Y": 67936.976563,
+    "Z": -17852.0625,
+    "MapX": 1101.969604,
+    "MapY": 2077.543457
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -218481.390625,
+    "Y": 26569.105469,
+    "Z": -14339.1875,
+    "MapX": 1259.930176,
+    "MapY": 1893.898926
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -218200,
+    "Y": 26040.480469,
+    "Z": -14586.420898,
+    "MapX": 1261.174072,
+    "MapY": 1891.552124
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -217072.421875,
+    "Y": 26527.576172,
+    "Z": -14618.40332,
+    "MapX": 1266.158569,
+    "MapY": 1893.7146
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -210800,
+    "Y": 28936.205078,
+    "Z": -13038.579102,
+    "MapX": 1293.885742,
+    "MapY": 1904.407104
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -211322.03125,
+    "Y": 34465.039063,
+    "Z": -11722.94043,
+    "MapX": 1291.578125,
+    "MapY": 1928.951294
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -212100,
+    "Y": 38752.679688,
+    "Z": -13212.237305,
+    "MapX": 1288.13916,
+    "MapY": 1947.985474
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -210790.171875,
+    "Y": 38879.882813,
+    "Z": -13443.15332,
+    "MapX": 1293.929199,
+    "MapY": 1948.550049
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -213472.671875,
+    "Y": 41517.445313,
+    "Z": -13811.827148,
+    "MapX": 1282.071289,
+    "MapY": 1960.259033
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -213197.359375,
+    "Y": 41000,
+    "Z": -13716.839844,
+    "MapX": 1283.28833,
+    "MapY": 1957.961914
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -212068,
+    "Y": 41480.625,
+    "Z": -13973.074219,
+    "MapX": 1288.280518,
+    "MapY": 1960.095581
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -207854.90625,
+    "Y": 24327.845703,
+    "Z": -16221.993164,
+    "MapX": 1306.904541,
+    "MapY": 1883.949219
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -207427.203125,
+    "Y": 22442.042969,
+    "Z": -16822.896484,
+    "MapX": 1308.795166,
+    "MapY": 1875.577637
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -206300,
+    "Y": 24500.119141,
+    "Z": -16471.845703,
+    "MapX": 1313.778076,
+    "MapY": 1884.714111
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -209906.65625,
+    "Y": 36493.335938,
+    "Z": -12784.53418,
+    "MapX": 1297.834839,
+    "MapY": 1937.955566
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -209277.546875,
+    "Y": 38422.445313,
+    "Z": -13329.689453,
+    "MapX": 1300.615723,
+    "MapY": 1946.519409
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -208621.15625,
+    "Y": 38341.621094,
+    "Z": -13398.87207,
+    "MapX": 1303.517334,
+    "MapY": 1946.160645
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -208426.078125,
+    "Y": 37545.488281,
+    "Z": -13214.330078,
+    "MapX": 1304.379639,
+    "MapY": 1942.626465
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -208182.921875,
+    "Y": 35998.667969,
+    "Z": -12800.962891,
+    "MapX": 1305.45459,
+    "MapY": 1935.759521
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -207051.59375,
+    "Y": 36483.789063,
+    "Z": -12917.319336,
+    "MapX": 1310.455566,
+    "MapY": 1937.913086
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -207080.796875,
+    "Y": 43766.5,
+    "Z": -14658.716797,
+    "MapX": 1310.326538,
+    "MapY": 1970.243408
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -204644.46875,
+    "Y": 25455.521484,
+    "Z": -16319.892578,
+    "MapX": 1321.096436,
+    "MapY": 1888.955322
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -203988.609375,
+    "Y": 25211.384766,
+    "Z": -16378.474609,
+    "MapX": 1323.995605,
+    "MapY": 1887.871582
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -201839.484375,
+    "Y": 25760.509766,
+    "Z": -16389.560547,
+    "MapX": 1333.49585,
+    "MapY": 1890.309326
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -204887.15625,
+    "Y": 36492.949219,
+    "Z": -12574.6875,
+    "MapX": 1320.02356,
+    "MapY": 1937.953857
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -204255.546875,
+    "Y": 38422.574219,
+    "Z": -13467.862305,
+    "MapX": 1322.815674,
+    "MapY": 1946.52002
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -203600,
+    "Y": 38343.808594,
+    "Z": -13384.488281,
+    "MapX": 1325.713379,
+    "MapY": 1946.17041
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -203420.9375,
+    "Y": 37534.710938,
+    "Z": -13030.375,
+    "MapX": 1326.504883,
+    "MapY": 1942.578613
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -241224.28125,
+    "Y": 91759.945313,
+    "Z": -20044.248047,
+    "MapX": 1159.395264,
+    "MapY": 2183.300781
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -241268.96875,
+    "Y": 91576.960938,
+    "Z": -20024.375,
+    "MapX": 1159.197632,
+    "MapY": 2182.488525
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -241390.171875,
+    "Y": 91451.609375,
+    "Z": -20049.744141,
+    "MapX": 1158.661865,
+    "MapY": 2181.932129
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -239985.53125,
+    "Y": 76499.070313,
+    "Z": -15173.985352,
+    "MapX": 1164.871094,
+    "MapY": 2115.553223
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -239504.78125,
+    "Y": 76304.28125,
+    "Z": -14981.331055,
+    "MapX": 1166.996216,
+    "MapY": 2114.688477
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -239240.25,
+    "Y": 76318.5,
+    "Z": -14939.529297,
+    "MapX": 1168.165527,
+    "MapY": 2114.751709
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247842,
+    "Y": 70743.148438,
+    "Z": -16701.900391,
+    "MapX": 1130.141602,
+    "MapY": 2090.000977
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247806.203125,
+    "Y": 70908.84375,
+    "Z": -16667.195313,
+    "MapX": 1130.299805,
+    "MapY": 2090.736328
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247941.875,
+    "Y": 71062.132813,
+    "Z": -16762.613281,
+    "MapX": 1129.699951,
+    "MapY": 2091.416992
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247944.84375,
+    "Y": 71409.242188,
+    "Z": -16740.294922,
+    "MapX": 1129.68689,
+    "MapY": 2092.958008
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278972.78125,
+    "Y": 68197.320313,
+    "Z": -19243.769531,
+    "MapX": 992.527832,
+    "MapY": 2078.699219
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278846.6875,
+    "Y": 68406.375,
+    "Z": -19303.304688,
+    "MapX": 993.085205,
+    "MapY": 2079.627197
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278403.6875,
+    "Y": 69054.125,
+    "Z": -19545.654297,
+    "MapX": 995.043579,
+    "MapY": 2082.50293
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -279682.375,
+    "Y": 81917.84375,
+    "Z": -18246.591797,
+    "MapX": 989.391113,
+    "MapY": 2139.608887
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280206.625,
+    "Y": 82415.734375,
+    "Z": -18092.443359,
+    "MapX": 987.073608,
+    "MapY": 2141.819092
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280472.15625,
+    "Y": 81022.632813,
+    "Z": -18388.910156,
+    "MapX": 985.899841,
+    "MapY": 2135.634766
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280590.125,
+    "Y": 80686.835938,
+    "Z": -18412.039063,
+    "MapX": 985.378357,
+    "MapY": 2134.144043
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280316.25,
+    "Y": 80184.65625,
+    "Z": -18533.773438,
+    "MapX": 986.588989,
+    "MapY": 2131.914551
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280593.15625,
+    "Y": 80995.65625,
+    "Z": -18341.410156,
+    "MapX": 985.36499,
+    "MapY": 2135.514893
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280487.625,
+    "Y": 81208.085938,
+    "Z": -18330.322266,
+    "MapX": 985.831421,
+    "MapY": 2136.458008
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280583.1875,
+    "Y": 81269.359375,
+    "Z": -18267.171875,
+    "MapX": 985.409058,
+    "MapY": 2136.72998
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280319.15625,
+    "Y": 82109.023438,
+    "Z": -18224.667969,
+    "MapX": 986.576172,
+    "MapY": 2140.45752
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -280121.8125,
+    "Y": 82231.53125,
+    "Z": -18167.619141,
+    "MapX": 987.448547,
+    "MapY": 2141.001465
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278873.9375,
+    "Y": 81667.75,
+    "Z": -18175.517578,
+    "MapX": 992.964783,
+    "MapY": 2138.498535
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278892.25,
+    "Y": 80935.664063,
+    "Z": -18414.263672,
+    "MapX": 992.883789,
+    "MapY": 2135.248535
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278993.78125,
+    "Y": 80793.78125,
+    "Z": -18486.337891,
+    "MapX": 992.435059,
+    "MapY": 2134.618652
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278726.59375,
+    "Y": 80274.039063,
+    "Z": -18502.306641,
+    "MapX": 993.616089,
+    "MapY": 2132.311523
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -243866.53125,
+    "Y": 28529.273438,
+    "Z": -10605.460938,
+    "MapX": 1147.715088,
+    "MapY": 1902.600586
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -244234.515625,
+    "Y": 27999.666016,
+    "Z": -10527.125,
+    "MapX": 1146.088379,
+    "MapY": 1900.249634
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -255565.75,
+    "Y": 30922.335938,
+    "Z": -15669.345703,
+    "MapX": 1095.998657,
+    "MapY": 1913.224243
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -255722.296875,
+    "Y": 30328.224609,
+    "Z": -15834.47168,
+    "MapX": 1095.306641,
+    "MapY": 1910.58667
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -256468.21875,
+    "Y": 27847.726563,
+    "Z": -16002.96875,
+    "MapX": 1092.009277,
+    "MapY": 1899.574951
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -278947.59375,
+    "Y": 6082.464844,
+    "Z": -19528.050781,
+    "MapX": 992.63916,
+    "MapY": 1802.952393
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -277867.75,
+    "Y": 6524.649414,
+    "Z": -19427.113281,
+    "MapX": 997.412598,
+    "MapY": 1804.915405
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -233337.046875,
+    "Y": 33376.546875,
+    "Z": -11820.708008,
+    "MapX": 1194.260742,
+    "MapY": 1924.119141
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -234233.96875,
+    "Y": 33396.15625,
+    "Z": -11773.611328,
+    "MapX": 1190.295898,
+    "MapY": 1924.206299
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -234538.78125,
+    "Y": 33437.460938,
+    "Z": -11734.984375,
+    "MapX": 1188.948486,
+    "MapY": 1924.389648
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -236672.125,
+    "Y": 47631.992188,
+    "Z": -9079.897461,
+    "MapX": 1179.518066,
+    "MapY": 1987.403442
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -237584.859375,
+    "Y": 47796.289063,
+    "Z": -9047.301758,
+    "MapX": 1175.483276,
+    "MapY": 1988.132813
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -204800.34375,
+    "Y": 35348.777344,
+    "Z": -12285.250977,
+    "MapX": 1320.407227,
+    "MapY": 1932.874512
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -205001.5625,
+    "Y": 35225.648438,
+    "Z": -12292.74707,
+    "MapX": 1319.517822,
+    "MapY": 1932.327881
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -204687.34375,
+    "Y": 36435.988281,
+    "Z": -12558.631836,
+    "MapX": 1320.906738,
+    "MapY": 1937.700928
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -204054.75,
+    "Y": 36691.878906,
+    "Z": -12633.584961,
+    "MapX": 1323.703247,
+    "MapY": 1938.836914
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -220970.8125,
+    "Y": 7226.51123,
+    "Z": -12158.844727,
+    "MapX": 1248.925781,
+    "MapY": 1808.03125
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -220816.953125,
+    "Y": 7150.521973,
+    "Z": -12211.989258,
+    "MapX": 1249.605835,
+    "MapY": 1807.693726
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -219846.609375,
+    "Y": 6503.960449,
+    "Z": -12361.150391,
+    "MapX": 1253.895264,
+    "MapY": 1804.823486
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -217202.78125,
+    "Y": 6623.664063,
+    "Z": -12706.671875,
+    "MapX": 1265.582275,
+    "MapY": 1805.354858
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -216838.703125,
+    "Y": 6699.024902,
+    "Z": -12768.78125,
+    "MapX": 1267.19165,
+    "MapY": 1805.689575
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -219281.921875,
+    "Y": 9113.665039,
+    "Z": -12981.768555,
+    "MapX": 1256.391357,
+    "MapY": 1816.408936
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -218994.34375,
+    "Y": 9630.042969,
+    "Z": -13163.845703,
+    "MapX": 1257.662598,
+    "MapY": 1818.701172
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -202903.9375,
+    "Y": 15110.924805,
+    "Z": -17361.183594,
+    "MapX": 1328.790283,
+    "MapY": 1843.032471
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -257096.59375,
+    "Y": -68496.585938,
+    "Z": -17122.097656,
+    "MapX": 1089.231689,
+    "MapY": 1471.873169
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -257653.515625,
+    "Y": -55900,
+    "Z": -20474.736328,
+    "MapX": 1086.769775,
+    "MapY": 1527.793335
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -273426.03125,
+    "Y": -4339.220703,
+    "Z": -13218.775391,
+    "MapX": 1017.047241,
+    "MapY": 1756.687378
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -273274.0625,
+    "Y": -4365.268555,
+    "Z": -13206.332031,
+    "MapX": 1017.719055,
+    "MapY": 1756.571777
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -273021.46875,
+    "Y": -4191.728516,
+    "Z": -13274.470703,
+    "MapX": 1018.835632,
+    "MapY": 1757.342041
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247192.53125,
+    "Y": -13655.150391,
+    "Z": -18055.267578,
+    "MapX": 1133.012451,
+    "MapY": 1715.331177
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -246918.8125,
+    "Y": -13432.712891,
+    "Z": -18089.28125,
+    "MapX": 1134.222412,
+    "MapY": 1716.318604
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -246139.359375,
+    "Y": -12964.740234,
+    "Z": -17842.205078,
+    "MapX": 1137.667969,
+    "MapY": 1718.395996
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -246258.4375,
+    "Y": -12734.407227,
+    "Z": -17935.996094,
+    "MapX": 1137.141602,
+    "MapY": 1719.418579
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -241086.75,
+    "Y": -17017.632813,
+    "Z": -17964.822266,
+    "MapX": 1160.003174,
+    "MapY": 1700.404053
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -240124.8125,
+    "Y": -16623.599609,
+    "Z": -18092.796875,
+    "MapX": 1164.255371,
+    "MapY": 1702.153198
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -232597.234375,
+    "Y": -21831.304688,
+    "Z": -16559.626953,
+    "MapX": 1197.531006,
+    "MapY": 1679.034668
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -232871.796875,
+    "Y": -21733.089844,
+    "Z": -16489.402344,
+    "MapX": 1196.317383,
+    "MapY": 1679.470581
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -232036.984375,
+    "Y": -20599.400391,
+    "Z": -17066.990234,
+    "MapX": 1200.00769,
+    "MapY": 1684.503418
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -231741.484375,
+    "Y": -20294.726563,
+    "Z": -17165.142578,
+    "MapX": 1201.313965,
+    "MapY": 1685.855957
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -231849.421875,
+    "Y": -20381.046875,
+    "Z": -17149.080078,
+    "MapX": 1200.836792,
+    "MapY": 1685.472778
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -232246.90625,
+    "Y": -20356.128906,
+    "Z": -17139.328125,
+    "MapX": 1199.07959,
+    "MapY": 1685.583496
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -255223.09375,
+    "Y": -47574.933594,
+    "Z": -20079.628906,
+    "MapX": 1097.513428,
+    "MapY": 1564.750854
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -260977.171875,
+    "Y": -50759.097656,
+    "Z": -17422.337891,
+    "MapX": 1072.077393,
+    "MapY": 1550.615479
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -260247.15625,
+    "Y": -54668.765625,
+    "Z": -16949.212891,
+    "MapX": 1075.304443,
+    "MapY": 1533.259277
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247877.40625,
+    "Y": -66435.085938,
+    "Z": -18682.339844,
+    "MapX": 1129.984985,
+    "MapY": 1481.02478
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247725.015625,
+    "Y": -66361.726563,
+    "Z": -18657.798828,
+    "MapX": 1130.658691,
+    "MapY": 1481.350586
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -247501.359375,
+    "Y": -66908.867188,
+    "Z": -18616.367188,
+    "MapX": 1131.647339,
+    "MapY": 1478.921631
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -239684.59375,
+    "Y": -60715.617188,
+    "Z": -17532.056641,
+    "MapX": 1166.201416,
+    "MapY": 1506.415283
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -239642.6875,
+    "Y": -60975.261719,
+    "Z": -17521.068359,
+    "MapX": 1166.386719,
+    "MapY": 1505.262695
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -239712.78125,
+    "Y": -61089.363281,
+    "Z": -17561.4375,
+    "MapX": 1166.076782,
+    "MapY": 1504.756104
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -162071.265625,
+    "Y": 138763.5,
+    "Z": -17926.34375,
+    "MapX": 1509.29126,
+    "MapY": 2391.964111
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -166309.96875,
+    "Y": 139470.140625,
+    "Z": -17523.556641,
+    "MapX": 1490.554199,
+    "MapY": 2395.101074
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -167842.578125,
+    "Y": 139281.125,
+    "Z": -17357.027344,
+    "MapX": 1483.779297,
+    "MapY": 2394.261963
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -180724.609375,
+    "Y": 83438.570313,
+    "Z": -16824.033203,
+    "MapX": 1426.834229,
+    "MapY": 2146.359863
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -187400,
+    "Y": 82454.757813,
+    "Z": -15675.989258,
+    "MapX": 1397.325562,
+    "MapY": 2141.992188
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -188800,
+    "Y": 81700,
+    "Z": -15353.126953,
+    "MapX": 1391.136841,
+    "MapY": 2138.641602
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -197043.59375,
+    "Y": 86492.328125,
+    "Z": -13416.229492,
+    "MapX": 1354.696045,
+    "MapY": 2159.91626
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -199297.171875,
+    "Y": 78426.265625,
+    "Z": -13796.02832,
+    "MapX": 1344.734131,
+    "MapY": 2124.108643
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198638.515625,
+    "Y": 78348.335938,
+    "Z": -14093.638672,
+    "MapX": 1347.645752,
+    "MapY": 2123.762695
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198490.21875,
+    "Y": 76535.015625,
+    "Z": -13891.828125,
+    "MapX": 1348.30127,
+    "MapY": 2115.712891
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198447.765625,
+    "Y": 77552.234375,
+    "Z": -13998.098633,
+    "MapX": 1348.488892,
+    "MapY": 2120.228516
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -194263.546875,
+    "Y": 58452.839844,
+    "Z": -15213.932617,
+    "MapX": 1366.985229,
+    "MapY": 2035.44043
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -193600,
+    "Y": 58377.089844,
+    "Z": -15205.972656,
+    "MapX": 1369.918457,
+    "MapY": 2035.104248
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -193471.3125,
+    "Y": 56562.222656,
+    "Z": -15612.072266,
+    "MapX": 1370.487305,
+    "MapY": 2027.047363
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -193198.125,
+    "Y": 56036.183594,
+    "Z": -15781.970703,
+    "MapX": 1371.694946,
+    "MapY": 2024.712158
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -192073.203125,
+    "Y": 56526.789063,
+    "Z": -15788.727539,
+    "MapX": 1376.667725,
+    "MapY": 2026.890137
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -193462.015625,
+    "Y": 61582.804688,
+    "Z": -14368.96875,
+    "MapX": 1370.52832,
+    "MapY": 2049.335449
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -193441.375,
+    "Y": 62600,
+    "Z": -13811.72168,
+    "MapX": 1370.619629,
+    "MapY": 2053.851074
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -192664.328125,
+    "Y": 74100,
+    "Z": -15093.34082,
+    "MapX": 1374.054688,
+    "MapY": 2104.903076
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -192049.84375,
+    "Y": 73254.835938,
+    "Z": -15326.962891,
+    "MapX": 1376.770996,
+    "MapY": 2101.151123
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -190728.71875,
+    "Y": 73418.140625,
+    "Z": -15776.580078,
+    "MapX": 1382.61084,
+    "MapY": 2101.875977
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -194676.484375,
+    "Y": 75423.507813,
+    "Z": -14875.259766,
+    "MapX": 1365.159912,
+    "MapY": 2110.77832
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -194004.640625,
+    "Y": 75163.796875,
+    "Z": -14978.800781,
+    "MapX": 1368.129639,
+    "MapY": 2109.625488
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -191867.859375,
+    "Y": 75747.375,
+    "Z": -15709.817383,
+    "MapX": 1377.575439,
+    "MapY": 2112.216309
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -188500,
+    "Y": 56000,
+    "Z": -16520.314453,
+    "MapX": 1392.463013,
+    "MapY": 2024.551514
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -187427.1875,
+    "Y": 57443.152344,
+    "Z": -16463.443359,
+    "MapX": 1397.205322,
+    "MapY": 2030.958252
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -188474.765625,
+    "Y": 61026.980469,
+    "Z": -15069.75,
+    "MapX": 1392.574585,
+    "MapY": 2046.86792
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -187655.28125,
+    "Y": 74111.289063,
+    "Z": -16827.085938,
+    "MapX": 1396.197021,
+    "MapY": 2104.953125
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -187039.796875,
+    "Y": 73254.625,
+    "Z": -16959.197266,
+    "MapX": 1398.917725,
+    "MapY": 2101.150146
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -184622.421875,
+    "Y": 60448.058594,
+    "Z": -15118.389648,
+    "MapX": 1409.603882,
+    "MapY": 2044.297852
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -183192.9375,
+    "Y": 71006.539063,
+    "Z": -17005.949219,
+    "MapX": 1415.922852,
+    "MapY": 2091.170166
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -179864.0625,
+    "Y": 71496.140625,
+    "Z": -16737.619141,
+    "MapX": 1430.638184,
+    "MapY": 2093.34375
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -157954.234375,
+    "Y": 53389.679688,
+    "Z": -16847.314453,
+    "MapX": 1527.490601,
+    "MapY": 2012.963623
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -157370.03125,
+    "Y": 53510.703125,
+    "Z": -16904.457031,
+    "MapX": 1530.073242,
+    "MapY": 2013.500854
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -134621.03125,
+    "Y": 61228.976563,
+    "Z": -17412.992188,
+    "MapX": 1630.635132,
+    "MapY": 2047.764526
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -134199.59375,
+    "Y": 61594.078125,
+    "Z": -17538.328125,
+    "MapX": 1632.498047,
+    "MapY": 2049.385254
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -134063.234375,
+    "Y": 61750.804688,
+    "Z": -17602.941406,
+    "MapX": 1633.10083,
+    "MapY": 2050.081055
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -133656.21875,
+    "Y": 62193.089844,
+    "Z": -17740.070313,
+    "MapX": 1634.900024,
+    "MapY": 2052.044678
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -162437.28125,
+    "Y": 59192.796875,
+    "Z": -18205.193359,
+    "MapX": 1507.67334,
+    "MapY": 2038.725342
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -162802.046875,
+    "Y": 58774.132813,
+    "Z": -18404.693359,
+    "MapX": 1506.060791,
+    "MapY": 2036.866699
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -163196.265625,
+    "Y": 58767.457031,
+    "Z": -18472.949219,
+    "MapX": 1504.318115,
+    "MapY": 2036.837158
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -168344.046875,
+    "Y": 55389.253906,
+    "Z": -18411.011719,
+    "MapX": 1481.5625,
+    "MapY": 2021.840332
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -167838.53125,
+    "Y": 58346.867188,
+    "Z": -18548.179688,
+    "MapX": 1483.797119,
+    "MapY": 2034.969971
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -188437.046875,
+    "Y": -23500.001953,
+    "Z": -18427.089844,
+    "MapX": 1392.741333,
+    "MapY": 1671.626831
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -192100,
+    "Y": -26235.964844,
+    "Z": -17972.978516,
+    "MapX": 1376.549194,
+    "MapY": 1659.481079
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -196857.515625,
+    "Y": -29270.203125,
+    "Z": -17282.203125,
+    "MapX": 1355.518555,
+    "MapY": 1646.01123
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -197838.203125,
+    "Y": -30714.222656,
+    "Z": -15011.140625,
+    "MapX": 1351.183472,
+    "MapY": 1639.600708
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -200440.390625,
+    "Y": 22978.667969,
+    "Z": -17170.332031,
+    "MapX": 1339.68042,
+    "MapY": 1877.959717
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -199275.546875,
+    "Y": 18424.445313,
+    "Z": -18760.957031,
+    "MapX": 1344.829712,
+    "MapY": 1857.742188
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198623.046875,
+    "Y": 18349.277344,
+    "Z": -18872.068359,
+    "MapX": 1347.714111,
+    "MapY": 1857.408447
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -199914.3125,
+    "Y": 21532.654297,
+    "Z": -17741.064453,
+    "MapX": 1342.006104,
+    "MapY": 1871.540527
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -199282.53125,
+    "Y": 23452.259766,
+    "Z": -17278.804688,
+    "MapX": 1344.798828,
+    "MapY": 1880.062256
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198629.3125,
+    "Y": 23377.871094,
+    "Z": -17474.59375,
+    "MapX": 1347.686401,
+    "MapY": 1879.731934
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198482.640625,
+    "Y": 21575.634766,
+    "Z": -18285.8125,
+    "MapX": 1348.334717,
+    "MapY": 1871.731445
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198456.171875,
+    "Y": 22592.619141,
+    "Z": -17741.53125,
+    "MapX": 1348.451782,
+    "MapY": 1876.246094
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198200,
+    "Y": 21040.953125,
+    "Z": -18601.585938,
+    "MapX": 1349.584106,
+    "MapY": 1869.357666
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -197052.71875,
+    "Y": 21515.164063,
+    "Z": -18693.519531,
+    "MapX": 1354.655762,
+    "MapY": 1871.462891
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -196321.109375,
+    "Y": 34478.886719,
+    "Z": -13741.006836,
+    "MapX": 1357.889771,
+    "MapY": 1929.012817
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -197647.640625,
+    "Y": 39100,
+    "Z": -14008.293945,
+    "MapX": 1352.025879,
+    "MapY": 1949.527344
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -197047.640625,
+    "Y": 38252.363281,
+    "Z": -14004.197266,
+    "MapX": 1354.678223,
+    "MapY": 1945.764404
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -195729.78125,
+    "Y": 38417,
+    "Z": -14397.060547,
+    "MapX": 1360.503662,
+    "MapY": 1946.495361
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -199656.578125,
+    "Y": 40413.101563,
+    "Z": -13888.273438,
+    "MapX": 1343.145264,
+    "MapY": 1955.356445
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -199017.8125,
+    "Y": 40182.191406,
+    "Z": -14034.257813,
+    "MapX": 1345.968994,
+    "MapY": 1954.331543
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -196853.625,
+    "Y": 40735.097656,
+    "Z": -14466.053711,
+    "MapX": 1355.535767,
+    "MapY": 1956.786011
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -194909.203125,
+    "Y": 26512.484375,
+    "Z": -15371.674805,
+    "MapX": 1364.131104,
+    "MapY": 1893.647461
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -193478.78125,
+    "Y": 26548.925781,
+    "Z": -15727.898438,
+    "MapX": 1370.454346,
+    "MapY": 1893.809326
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -192089.96875,
+    "Y": 33800,
+    "Z": -15464.540039,
+    "MapX": 1376.593506,
+    "MapY": 1925.999023
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -192658.953125,
+    "Y": 39114.886719,
+    "Z": -15067.59375,
+    "MapX": 1374.078369,
+    "MapY": 1949.593506
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -134360.515625,
+    "Y": 47990.359375,
+    "Z": -16183.912109,
+    "MapX": 1631.786743,
+    "MapY": 1988.994385
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -134169.375,
+    "Y": 48013.539063,
+    "Z": -16119.224609,
+    "MapX": 1632.631714,
+    "MapY": 1989.097168
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -134093.734375,
+    "Y": 48508.171875,
+    "Z": -16080.097656,
+    "MapX": 1632.966064,
+    "MapY": 1991.292969
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -133924.203125,
+    "Y": 48618.59375,
+    "Z": -16035.966797,
+    "MapX": 1633.715454,
+    "MapY": 1991.783203
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -132962.90625,
+    "Y": 48619.742188,
+    "Z": -15788.349609,
+    "MapX": 1637.964966,
+    "MapY": 1991.78833
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -114682.710938,
+    "Y": 40981.105469,
+    "Z": -17598.695313,
+    "MapX": 1718.772461,
+    "MapY": 1957.878174
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -112759.117188,
+    "Y": 10956.496094,
+    "Z": -16389.605469,
+    "MapX": 1727.275757,
+    "MapY": 1824.589722
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -113008.679688,
+    "Y": 10689.03418,
+    "Z": -16459.378906,
+    "MapX": 1726.172607,
+    "MapY": 1823.402344
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -119620.015625,
+    "Y": 4589.999023,
+    "Z": -17035.703125,
+    "MapX": 1696.947266,
+    "MapY": 1796.326904
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -118799.109375,
+    "Y": 5985.161133,
+    "Z": -16992.953125,
+    "MapX": 1700.575928,
+    "MapY": 1802.520386
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -118821.335938,
+    "Y": 6495.72168,
+    "Z": -17044.869141,
+    "MapX": 1700.477661,
+    "MapY": 1804.786987
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -122855.484375,
+    "Y": -8211.473633,
+    "Z": -18946.5625,
+    "MapX": 1682.644775,
+    "MapY": 1739.497314
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -122397.804688,
+    "Y": -7255.942383,
+    "Z": -18984.763672,
+    "MapX": 1684.667969,
+    "MapY": 1743.739136
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -122218.890625,
+    "Y": -7328.299805,
+    "Z": -19037.765625,
+    "MapX": 1685.458862,
+    "MapY": 1743.417969
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -122124.554688,
+    "Y": -6988.385742,
+    "Z": -18968.136719,
+    "MapX": 1685.875854,
+    "MapY": 1744.92688
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -121721.265625,
+    "Y": -6459.205078,
+    "Z": -18884.833984,
+    "MapX": 1687.658569,
+    "MapY": 1747.276123
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -121386.8125,
+    "Y": -6277.290039,
+    "Z": -18869.164063,
+    "MapX": 1689.136963,
+    "MapY": 1748.08374
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -121611.273438,
+    "Y": -24742.193359,
+    "Z": -18008.322266,
+    "MapX": 1688.144775,
+    "MapY": 1666.112427
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -120943.890625,
+    "Y": -23976.445313,
+    "Z": -18056.142578,
+    "MapX": 1691.094971,
+    "MapY": 1669.511841
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -120727.90625,
+    "Y": -23864.398438,
+    "Z": -18067.34375,
+    "MapX": 1692.049683,
+    "MapY": 1670.009033
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -120458.140625,
+    "Y": -23983.646484,
+    "Z": -18036.521484,
+    "MapX": 1693.242188,
+    "MapY": 1669.479736
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -141380.609375,
+    "Y": -42542.078125,
+    "Z": -17259.765625,
+    "MapX": 1600.754395,
+    "MapY": 1587.093262
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -200667.578125,
+    "Y": 14554.541992,
+    "Z": -17920.117188,
+    "MapX": 1338.676147,
+    "MapY": 1840.562622
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -200632.1875,
+    "Y": 14729.924805,
+    "Z": -17981.464844,
+    "MapX": 1338.832642,
+    "MapY": 1841.341064
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -201005.171875,
+    "Y": 15218.041992,
+    "Z": -18008.568359,
+    "MapX": 1337.183838,
+    "MapY": 1843.508057
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198474.640625,
+    "Y": 13168.875,
+    "Z": -18143.117188,
+    "MapX": 1348.370117,
+    "MapY": 1834.411133
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -199546.84375,
+    "Y": 14013.712891,
+    "Z": -18071.882813,
+    "MapX": 1343.630371,
+    "MapY": 1838.161621
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -195648.53125,
+    "Y": -15392.90332,
+    "Z": -18523.824219,
+    "MapX": 1360.862793,
+    "MapY": 1707.616699
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -195282.234375,
+    "Y": -15601.999023,
+    "Z": -18492.863281,
+    "MapX": 1362.482178,
+    "MapY": 1706.688477
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -167951.28125,
+    "Y": -23512.574219,
+    "Z": -20050.347656,
+    "MapX": 1483.298584,
+    "MapY": 1671.570923
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -168359.390625,
+    "Y": -23527.720703,
+    "Z": -19976.951172,
+    "MapX": 1481.494629,
+    "MapY": 1671.503784
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -195707.75,
+    "Y": -66549.125,
+    "Z": -16297.310547,
+    "MapX": 1360.601074,
+    "MapY": 1480.518677
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -198157.828125,
+    "Y": -64002.699219,
+    "Z": -15705.057617,
+    "MapX": 1349.770508,
+    "MapY": 1491.82312
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -189640.640625,
+    "Y": -69552.070313,
+    "Z": -15507.814453,
+    "MapX": 1387.420898,
+    "MapY": 1467.187622
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -186848.78125,
+    "Y": -69231.65625,
+    "Z": -16298.672852,
+    "MapX": 1399.762207,
+    "MapY": 1468.609985
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -84900,
+    "Y": 171514.828125,
+    "Z": -12029.975586,
+    "MapX": 1850.427124,
+    "MapY": 2537.357178
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -84294.078125,
+    "Y": 173449.859375,
+    "Z": -12013.791016,
+    "MapX": 1853.105591,
+    "MapY": 2545.947266
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -83642.984375,
+    "Y": 173357.015625,
+    "Z": -12395.026367,
+    "MapX": 1855.983643,
+    "MapY": 2545.535156
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -8432.410156,
+    "Y": 132133.015625,
+    "Z": -17115.070313,
+    "MapX": 2188.452148,
+    "MapY": 2362.529297
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -8303.503906,
+    "Y": 131711.875,
+    "Z": -17135.5,
+    "MapX": 2189.022217,
+    "MapY": 2360.659668
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -72381.96875,
+    "Y": 161944.90625,
+    "Z": -16482.535156,
+    "MapX": 1905.763062,
+    "MapY": 2494.873291
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -72787.671875,
+    "Y": 161717.4375,
+    "Z": -16259.109375,
+    "MapX": 1903.969604,
+    "MapY": 2493.863525
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -77316.945313,
+    "Y": 161261.34375,
+    "Z": -14746.391602,
+    "MapX": 1883.947998,
+    "MapY": 2491.838867
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -77758.625,
+    "Y": 161033.015625,
+    "Z": -14589.416016,
+    "MapX": 1881.995483,
+    "MapY": 2490.825195
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -55632.230469,
+    "Y": 160202.5625,
+    "Z": -18421.578125,
+    "MapX": 1979.80542,
+    "MapY": 2487.138672
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -55548.308594,
+    "Y": 160211.25,
+    "Z": -18429.800781,
+    "MapX": 1980.17627,
+    "MapY": 2487.177002
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -55221.066406,
+    "Y": 160208.15625,
+    "Z": -18392.175781,
+    "MapX": 1981.622925,
+    "MapY": 2487.16333
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -53831.371094,
+    "Y": 162071.125,
+    "Z": -18500.726563,
+    "MapX": 1987.766113,
+    "MapY": 2495.433594
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -59248.089844,
+    "Y": 47951.910156,
+    "Z": -19316.222656,
+    "MapX": 1963.821411,
+    "MapY": 1988.82373
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -57400.910156,
+    "Y": 47434.644531,
+    "Z": -19468.845703,
+    "MapX": 1971.986938,
+    "MapY": 1986.527344
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -56268.425781,
+    "Y": 49489.796875,
+    "Z": -19037.0625,
+    "MapX": 1976.99292,
+    "MapY": 1995.650879
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -59605.566406,
+    "Y": 50394.433594,
+    "Z": -19552.34375,
+    "MapX": 1962.241211,
+    "MapY": 1999.666748
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -56829.6875,
+    "Y": 50744.140625,
+    "Z": -19271.550781,
+    "MapX": 1974.511963,
+    "MapY": 2001.219238
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -58640.59375,
+    "Y": 58337.324219,
+    "Z": -19654.714844,
+    "MapX": 1966.506836,
+    "MapY": 2034.927734
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -58441.113281,
+    "Y": 57558.886719,
+    "Z": -19631.042969,
+    "MapX": 1967.38855,
+    "MapY": 2031.471924
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -59005.515625,
+    "Y": 60220.703125,
+    "Z": -19474.302734,
+    "MapX": 1964.893799,
+    "MapY": 2043.288574
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -54900,
+    "Y": 56520.664063,
+    "Z": -19420.669922,
+    "MapX": 1983.042236,
+    "MapY": 2026.862915
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -53469.460938,
+    "Y": 56530.539063,
+    "Z": -19716.878906,
+    "MapX": 1989.365845,
+    "MapY": 2026.906738
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -53175.234375,
+    "Y": 56000,
+    "Z": -19527.775391,
+    "MapX": 1990.666382,
+    "MapY": 2024.551514
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -52030.117188,
+    "Y": 56469.882813,
+    "Z": -19412.8125,
+    "MapX": 1995.728394,
+    "MapY": 2026.637451
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -46300.65625,
+    "Y": 54466.808594,
+    "Z": -19140.855469,
+    "MapX": 2021.055542,
+    "MapY": 2017.745361
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -44641.296875,
+    "Y": 45443.242188,
+    "Z": -18850.037109,
+    "MapX": 2028.390747,
+    "MapY": 1977.687012
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -44018.320313,
+    "Y": 45220.210938,
+    "Z": -19026.742188,
+    "MapX": 2031.144775,
+    "MapY": 1976.696777
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -41857.367188,
+    "Y": 45759.046875,
+    "Z": -19542.646484,
+    "MapX": 2040.697021,
+    "MapY": 1979.088867
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -44286.234375,
+    "Y": 53418.273438,
+    "Z": -19104.792969,
+    "MapX": 2029.960205,
+    "MapY": 2013.090576
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -43652.027344,
+    "Y": 53347.96875,
+    "Z": -19246.697266,
+    "MapX": 2032.763916,
+    "MapY": 2012.778442
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -43495.277344,
+    "Y": 51520.851563,
+    "Z": -18967.330078,
+    "MapX": 2033.456787,
+    "MapY": 2004.667236
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -43443.378906,
+    "Y": 52555.710938,
+    "Z": -19081.876953,
+    "MapX": 2033.686157,
+    "MapY": 2009.261353
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -44645.851563,
+    "Y": 55454.148438,
+    "Z": -19493.236328,
+    "MapX": 2028.370728,
+    "MapY": 2022.128418
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -39641.390625,
+    "Y": 50408.480469,
+    "Z": -19426.951172,
+    "MapX": 2050.493164,
+    "MapY": 1999.729126
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -39620.125,
+    "Y": 55430.269531,
+    "Z": -19282.035156,
+    "MapX": 2050.586914,
+    "MapY": 2022.022461
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -38980.171875,
+    "Y": 55200,
+    "Z": -19170.515625,
+    "MapX": 2053.415771,
+    "MapY": 2021.000122
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -2308.847656,
+    "Y": 89871.53125,
+    "Z": -16234.199219,
+    "MapX": 2215.521484,
+    "MapY": 2174.91748
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -6744.64502,
+    "Y": 85670.429688,
+    "Z": -16751.513672,
+    "MapX": 2195.913086,
+    "MapY": 2156.267578
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -6581.262207,
+    "Y": 85966.671875,
+    "Z": -16711.599609,
+    "MapX": 2196.635254,
+    "MapY": 2157.582764
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -5440.42334,
+    "Y": 76954.484375,
+    "Z": -16974.083984,
+    "MapX": 2201.678223,
+    "MapY": 2117.574951
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -7738.844238,
+    "Y": 75759.789063,
+    "Z": -16806.443359,
+    "MapX": 2191.518066,
+    "MapY": 2112.27124
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -87892.359375,
+    "Y": 43950.328125,
+    "Z": -17947.835938,
+    "MapX": 1837.199341,
+    "MapY": 1971.059326
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -87287.453125,
+    "Y": 43757.515625,
+    "Z": -17890.710938,
+    "MapX": 1839.873413,
+    "MapY": 1970.203491
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -87779.617188,
+    "Y": 42859.308594,
+    "Z": -17376.662109,
+    "MapX": 1837.697632,
+    "MapY": 1966.216064
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -33451.558594,
+    "Y": -53433.1875,
+    "Z": -19038.785156,
+    "MapX": 2077.85498,
+    "MapY": 1538.744263
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -42000,
+    "Y": -51762.273438,
+    "Z": -17166.386719,
+    "MapX": 2040.06665,
+    "MapY": 1546.161865
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -37849.09375,
+    "Y": -55662.175781,
+    "Z": -19075.128906,
+    "MapX": 2058.415771,
+    "MapY": 1528.849121
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -36319.984375,
+    "Y": -55519.984375,
+    "Z": -19025.167969,
+    "MapX": 2065.175293,
+    "MapY": 1529.480225
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -38475.128906,
+    "Y": -53464.921875,
+    "Z": -19041.701172,
+    "MapX": 2055.648438,
+    "MapY": 1538.603394
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -30801.679688,
+    "Y": -56101.679688,
+    "Z": -17085.425781,
+    "MapX": 2089.568848,
+    "MapY": 1526.897949
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -30446.796875,
+    "Y": -57044.457031,
+    "Z": -17151.185547,
+    "MapX": 2091.137451,
+    "MapY": 1522.712646
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -34888.78125,
+    "Y": -53472.683594,
+    "Z": -18933.324219,
+    "MapX": 2071.501953,
+    "MapY": 1538.56897
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -34237.441406,
+    "Y": -51568.15625,
+    "Z": -18931.601563,
+    "MapX": 2074.380859,
+    "MapY": 1547.023682
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -100228.296875,
+    "Y": -56770.4375,
+    "Z": -18740.117188,
+    "MapX": 1782.668213,
+    "MapY": 1523.929199
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -94531.875,
+    "Y": -52196.183594,
+    "Z": -17269.603516,
+    "MapX": 1807.849365,
+    "MapY": 1544.235718
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -94428.578125,
+    "Y": -51675.132813,
+    "Z": -17191.734375,
+    "MapX": 1808.30603,
+    "MapY": 1546.548828
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -92958.632813,
+    "Y": -54777.042969,
+    "Z": -18304.535156,
+    "MapX": 1814.803955,
+    "MapY": 1532.778442
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -93113.570313,
+    "Y": -54579.191406,
+    "Z": -18223.773438,
+    "MapX": 1814.119019,
+    "MapY": 1533.65686
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -47712.410156,
+    "Y": -40118.84375,
+    "Z": -19461.574219,
+    "MapX": 2014.814941,
+    "MapY": 1597.850708
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -40271.714844,
+    "Y": -47039.996094,
+    "Z": -19475.519531,
+    "MapX": 2047.706543,
+    "MapY": 1567.12561
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -33095.085938,
+    "Y": -45477.875,
+    "Z": -19169.167969,
+    "MapX": 2079.430908,
+    "MapY": 1574.060303
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -33134.195313,
+    "Y": -45361.042969,
+    "Z": -19151.144531,
+    "MapX": 2079.257813,
+    "MapY": 1574.578979
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -33381.140625,
+    "Y": -45030.460938,
+    "Z": -19127.513672,
+    "MapX": 2078.166504,
+    "MapY": 1576.046509
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -33953.609375,
+    "Y": -44190.265625,
+    "Z": -19055.619141,
+    "MapX": 2075.635742,
+    "MapY": 1579.776489
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -45253.566406,
+    "Y": -14680.219727,
+    "Z": -19061.023438,
+    "MapX": 2025.684326,
+    "MapY": 1710.780518
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -40769.601563,
+    "Y": -13524.513672,
+    "Z": -19083.378906,
+    "MapX": 2045.505615,
+    "MapY": 1715.911011
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -37841.632813,
+    "Y": -62070.773438,
+    "Z": -18949.533203,
+    "MapX": 2058.44873,
+    "MapY": 1500.399292
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -37965.464844,
+    "Y": -62263.273438,
+    "Z": -18994.417969,
+    "MapX": 2057.901367,
+    "MapY": 1499.5448
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -37983.652344,
+    "Y": -61827.519531,
+    "Z": -18977.90625,
+    "MapX": 2057.820801,
+    "MapY": 1501.479248
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": -37827.628906,
+    "Y": -61762.773438,
+    "Z": -18930.943359,
+    "MapX": 2058.510742,
+    "MapY": 1501.766724
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 60749.804688,
+    "Y": 170016.4375,
+    "Z": -13293.416992,
+    "MapX": 2494.272461,
+    "MapY": 2530.705322
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 66204.140625,
+    "Y": 156678.828125,
+    "Z": -12407.595703,
+    "MapX": 2518.383301,
+    "MapY": 2471.495605
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 95886.585938,
+    "Y": 171808.28125,
+    "Z": -14700.78125,
+    "MapX": 2649.594727,
+    "MapY": 2538.659912
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 65671.78125,
+    "Y": 160635.28125,
+    "Z": -12952.19043,
+    "MapX": 2516.030273,
+    "MapY": 2489.05957
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 73171.304688,
+    "Y": 105754.757813,
+    "Z": -11661.620117,
+    "MapX": 2549.181641,
+    "MapY": 2245.428223
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 77181.984375,
+    "Y": 104307.046875,
+    "Z": -10070.089844,
+    "MapX": 2566.911133,
+    "MapY": 2239.001221
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 76419.234375,
+    "Y": 108354.335938,
+    "Z": -10923.723633,
+    "MapX": 2563.539307,
+    "MapY": 2256.968506
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 76597.828125,
+    "Y": 107566.757813,
+    "Z": -10805.798828,
+    "MapX": 2564.328613,
+    "MapY": 2253.472168
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 89219.710938,
+    "Y": 93922.851563,
+    "Z": -10069.849609,
+    "MapX": 2620.123779,
+    "MapY": 2192.902588
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 92381.46875,
+    "Y": 89107.007813,
+    "Z": -10435.269531,
+    "MapX": 2634.100342,
+    "MapY": 2171.523682
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 65345.179688,
+    "Y": -44554.820313,
+    "Z": -17962.222656,
+    "MapX": 2514.586426,
+    "MapY": 1578.158081
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 66000,
+    "Y": -44778.703125,
+    "Z": -18171.1875,
+    "MapX": 2517.480957,
+    "MapY": 1577.164307
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 68157.46875,
+    "Y": -44228.328125,
+    "Z": -18144.212891,
+    "MapX": 2527.018066,
+    "MapY": 1579.607422
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 71800,
+    "Y": -43954.511719,
+    "Z": -18245.869141,
+    "MapX": 2543.119873,
+    "MapY": 1580.822998
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 72932.960938,
+    "Y": -43462.5625,
+    "Z": -18157.185547,
+    "MapX": 2548.128174,
+    "MapY": 1583.006958
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 75366.445313,
+    "Y": -44544.042969,
+    "Z": -18601.623047,
+    "MapX": 2558.885254,
+    "MapY": 1578.205933
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 76008.757813,
+    "Y": -44765.839844,
+    "Z": -18664.056641,
+    "MapX": 2561.724609,
+    "MapY": 1577.221191
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 141839.78125,
+    "Y": 196017.890625,
+    "Z": -18169.056641,
+    "MapX": 2852.730957,
+    "MapY": 2646.133789
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 192368.171875,
+    "Y": 124131.796875,
+    "Z": -17042.052734,
+    "MapX": 3076.091797,
+    "MapY": 2327.009277
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 141566.171875,
+    "Y": 196545.984375,
+    "Z": -18261.492188,
+    "MapX": 2851.521484,
+    "MapY": 2648.478027
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 144200,
+    "Y": 193889.78125,
+    "Z": -17293.160156,
+    "MapX": 2863.164307,
+    "MapY": 2636.686523
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 142921.984375,
+    "Y": 193751.3125,
+    "Z": -16957.783203,
+    "MapX": 2857.514893,
+    "MapY": 2636.071777
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 176028.140625,
+    "Y": 125231.601563,
+    "Z": -16581.195313,
+    "MapX": 3003.860596,
+    "MapY": 2331.891846
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 178159.859375,
+    "Y": 125764.367188,
+    "Z": -12959.394531,
+    "MapX": 3013.283936,
+    "MapY": 2334.256836
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 178170.390625,
+    "Y": 130770.390625,
+    "Z": -10795.794922,
+    "MapX": 3013.330566,
+    "MapY": 2356.480225
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 180794.75,
+    "Y": 127971.445313,
+    "Z": -11488.176758,
+    "MapX": 3024.931641,
+    "MapY": 2344.054688
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 181479.890625,
+    "Y": 125986.695313,
+    "Z": -14408.323242,
+    "MapX": 3027.960205,
+    "MapY": 2335.243896
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 182140.03125,
+    "Y": 129324.398438,
+    "Z": -11358.816406,
+    "MapX": 3030.878174,
+    "MapY": 2350.061035
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 181519.578125,
+    "Y": 130976.773438,
+    "Z": -11131.742188,
+    "MapX": 3028.135498,
+    "MapY": 2357.396484
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 185084.375,
+    "Y": 126523.46875,
+    "Z": -16509.382813,
+    "MapX": 3043.893799,
+    "MapY": 2337.626709
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 186568,
+    "Y": 127600,
+    "Z": -16293.063477,
+    "MapX": 3050.452148,
+    "MapY": 2342.405762
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 120024.234375,
+    "Y": 177185.15625,
+    "Z": -8201.169922,
+    "MapX": 2756.295166,
+    "MapY": 2562.529541
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 120198.382813,
+    "Y": 177504.53125,
+    "Z": -8169.032227,
+    "MapX": 2757.064941,
+    "MapY": 2563.947266
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 132579.296875,
+    "Y": 186589.25,
+    "Z": -5000.092773,
+    "MapX": 2811.795166,
+    "MapY": 2604.2771
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 142741.296875,
+    "Y": 165350.25,
+    "Z": -8114.847168,
+    "MapX": 2856.716064,
+    "MapY": 2509.990723
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 138028.890625,
+    "Y": 149218.921875,
+    "Z": -13081.057617,
+    "MapX": 2835.884766,
+    "MapY": 2438.378906
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 119580.6875,
+    "Y": 27899.998047,
+    "Z": -16600.044922,
+    "MapX": 2754.334473,
+    "MapY": 1899.807129
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 118723.953125,
+    "Y": 24451.939453,
+    "Z": -14410.584961,
+    "MapX": 2750.547119,
+    "MapY": 1884.500122
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 191564.875,
+    "Y": 11543.90918,
+    "Z": -14901.327148,
+    "MapX": 3072.540771,
+    "MapY": 1827.197388
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 190092.078125,
+    "Y": 11479.245117,
+    "Z": -15020.28125,
+    "MapX": 3066.030273,
+    "MapY": 1826.9104
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 117568.226563,
+    "Y": 22423.210938,
+    "Z": -14308.325195,
+    "MapX": 2745.438232,
+    "MapY": 1875.493896
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 117200,
+    "Y": 24299.998047,
+    "Z": -14766.714844,
+    "MapX": 2743.810791,
+    "MapY": 1883.825562
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 114580.015625,
+    "Y": 22921.947266,
+    "Z": -14153.921875,
+    "MapX": 2732.229004,
+    "MapY": 1877.708008
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 114229.195313,
+    "Y": 23873.859375,
+    "Z": -16896.792969,
+    "MapX": 2730.678223,
+    "MapY": 1881.933838
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 112939.164063,
+    "Y": 23760.162109,
+    "Z": -17136.035156,
+    "MapX": 2724.975586,
+    "MapY": 1881.428955
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 153002.390625,
+    "Y": 88278.757813,
+    "Z": -12856.430664,
+    "MapX": 2902.075195,
+    "MapY": 2167.84668
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 154491.03125,
+    "Y": 88447.03125,
+    "Z": -12710.271484,
+    "MapX": 2908.655762,
+    "MapY": 2168.59375
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 150105.46875,
+    "Y": 91486.132813,
+    "Z": -18798.529297,
+    "MapX": 2889.269531,
+    "MapY": 2182.085205
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 150735.859375,
+    "Y": 93400,
+    "Z": -19354.410156,
+    "MapX": 2892.056152,
+    "MapY": 2190.581543
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 151532.015625,
+    "Y": 91532.007813,
+    "Z": -18712.941406,
+    "MapX": 2895.575439,
+    "MapY": 2182.289063
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 151577.578125,
+    "Y": 92547.429688,
+    "Z": -19038.859375,
+    "MapX": 2895.776855,
+    "MapY": 2186.796875
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 155610.4375,
+    "Y": 87774.703125,
+    "Z": -12199.193359,
+    "MapX": 2913.604248,
+    "MapY": 2165.609131
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 155910.8125,
+    "Y": 86792.859375,
+    "Z": -11995.279297,
+    "MapX": 2914.931885,
+    "MapY": 2161.250488
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 157169.484375,
+    "Y": 89300,
+    "Z": -12445.263672,
+    "MapX": 2920.496094,
+    "MapY": 2172.380371
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 157400,
+    "Y": 94100,
+    "Z": -18544.535156,
+    "MapX": 2921.514893,
+    "MapY": 2193.688965
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 155207.75,
+    "Y": 88464,
+    "Z": -12516.353516,
+    "MapX": 2911.823975,
+    "MapY": 2168.669189
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 160759.4375,
+    "Y": 92959.445313,
+    "Z": -18094.46875,
+    "MapX": 2936.365234,
+    "MapY": 2188.625732
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 161538.59375,
+    "Y": 90972.648438,
+    "Z": -12478.698242,
+    "MapX": 2939.809814,
+    "MapY": 2179.805908
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 162177.546875,
+    "Y": 94277.539063,
+    "Z": -18123.738281,
+    "MapX": 2942.634277,
+    "MapY": 2194.477051
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 160364.453125,
+    "Y": 95408.414063,
+    "Z": -18791.472656,
+    "MapX": 2934.619385,
+    "MapY": 2199.497559
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 161000,
+    "Y": 95159.039063,
+    "Z": -18663.820313,
+    "MapX": 2937.428711,
+    "MapY": 2198.390381
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 122600,
+    "Y": -72555.382813,
+    "Z": -13573.402344,
+    "MapX": 2767.681396,
+    "MapY": 1453.85498
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 121521.640625,
+    "Y": -74021.734375,
+    "Z": -13549.347656,
+    "MapX": 2762.914551,
+    "MapY": 1447.345337
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 122346.46875,
+    "Y": -75900,
+    "Z": -13156.765625,
+    "MapX": 2766.560791,
+    "MapY": 1439.007324
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 121831.273438,
+    "Y": -83960.828125,
+    "Z": -10167.542969,
+    "MapX": 2764.283447,
+    "MapY": 1403.222778
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 120360.1875,
+    "Y": -89561.195313,
+    "Z": -12098.868164,
+    "MapX": 2757.780518,
+    "MapY": 1378.361084
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 116006.453125,
+    "Y": -69823.601563,
+    "Z": -13611.922852,
+    "MapX": 2738.534424,
+    "MapY": 1465.9823
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 110129.484375,
+    "Y": -93472.664063,
+    "Z": -15353.84082,
+    "MapX": 2712.555664,
+    "MapY": 1360.996826
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 111561.765625,
+    "Y": -93451.585938,
+    "Z": -14326.960938,
+    "MapX": 2718.886719,
+    "MapY": 1361.090332
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 112958.085938,
+    "Y": -93482.539063,
+    "Z": -12546.601563,
+    "MapX": 2725.059326,
+    "MapY": 1360.953003
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 112942.851563,
+    "Y": -81213.328125,
+    "Z": -10891.34375,
+    "MapX": 2724.991943,
+    "MapY": 1415.4198
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 114539.65625,
+    "Y": -82033.625,
+    "Z": -10233.380859,
+    "MapX": 2732.050781,
+    "MapY": 1411.778198
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 110378.515625,
+    "Y": -79559.460938,
+    "Z": -14649.699219,
+    "MapX": 2713.65625,
+    "MapY": 1422.761719
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 113135.4375,
+    "Y": -79264.5625,
+    "Z": -10837.000977,
+    "MapX": 2725.843262,
+    "MapY": 1424.070923
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 110800,
+    "Y": -72000,
+    "Z": -15227.344727,
+    "MapX": 2715.519531,
+    "MapY": 1456.320557
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 111249.828125,
+    "Y": -73324.351563,
+    "Z": -15094.881836,
+    "MapX": 2717.507813,
+    "MapY": 1450.441406
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 112609.054688,
+    "Y": -72573.273438,
+    "Z": -14332.238281,
+    "MapX": 2723.516357,
+    "MapY": 1453.775635
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 115752.078125,
+    "Y": -92013.8125,
+    "Z": -12381.90918,
+    "MapX": 2737.410156,
+    "MapY": 1367.473145
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 116500,
+    "Y": -94000,
+    "Z": -13945.314453,
+    "MapX": 2740.716309,
+    "MapY": 1358.655762
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 117602.328125,
+    "Y": -92536.765625,
+    "Z": -13308.433594,
+    "MapX": 2745.589111,
+    "MapY": 1365.151611
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 118700,
+    "Y": -90500,
+    "Z": -12474.219727,
+    "MapX": 2750.441406,
+    "MapY": 1374.193359
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 117383.210938,
+    "Y": -85893.828125,
+    "Z": -9964.46582,
+    "MapX": 2744.620605,
+    "MapY": 1394.641602
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 117939.40625,
+    "Y": -86738.109375,
+    "Z": -9299.822266,
+    "MapX": 2747.079102,
+    "MapY": 1390.893555
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 115332.40625,
+    "Y": -84556.390625,
+    "Z": -11878.326172,
+    "MapX": 2735.554932,
+    "MapY": 1400.578979
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 118176.609375,
+    "Y": -84257.796875,
+    "Z": -11484.620117,
+    "MapX": 2748.12793,
+    "MapY": 1401.904297
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 119200,
+    "Y": -76100,
+    "Z": -12611.71875,
+    "MapX": 2752.651611,
+    "MapY": 1438.119385
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 119560.539063,
+    "Y": -77028.070313,
+    "Z": -12847.808594,
+    "MapX": 2754.245361,
+    "MapY": 1433.99939
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 117900,
+    "Y": -71232.179688,
+    "Z": -13728.369141,
+    "MapX": 2746.905029,
+    "MapY": 1459.729004
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 115377.59375,
+    "Y": -69600,
+    "Z": -13748.90625,
+    "MapX": 2735.754883,
+    "MapY": 1466.974854
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 165774.5,
+    "Y": -67014.125,
+    "Z": -13500.673828,
+    "MapX": 2958.534424,
+    "MapY": 1478.454346
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 167144.421875,
+    "Y": -65701.984375,
+    "Z": -13484.351563,
+    "MapX": 2964.590332,
+    "MapY": 1484.279297
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 170120.46875,
+    "Y": -63509.75,
+    "Z": -14858.885742,
+    "MapX": 2977.74585,
+    "MapY": 1494.011353
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 171541.75,
+    "Y": -63500,
+    "Z": -14285.285156,
+    "MapX": 2984.028564,
+    "MapY": 1494.054688
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 171820.984375,
+    "Y": -64005.695313,
+    "Z": -14198.307617,
+    "MapX": 2985.262939,
+    "MapY": 1491.809692
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 177912.0625,
+    "Y": -61245.839844,
+    "Z": -14484.037109,
+    "MapX": 3012.188477,
+    "MapY": 1504.061523
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 115732.609375,
+    "Y": -50964.351563,
+    "Z": -18888.242188,
+    "MapX": 2737.324219,
+    "MapY": 1549.704224
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 115728.929688,
+    "Y": -50696.304688,
+    "Z": -18932.023438,
+    "MapX": 2737.307861,
+    "MapY": 1550.894165
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 115819.507813,
+    "Y": -50102.460938,
+    "Z": -19129.933594,
+    "MapX": 2737.708252,
+    "MapY": 1553.530396
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 115835.953125,
+    "Y": -49664.945313,
+    "Z": -19245.25,
+    "MapX": 2737.780762,
+    "MapY": 1555.472656
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 140101.09375,
+    "Y": -10136.700195,
+    "Z": -15248.417969,
+    "MapX": 2845.045166,
+    "MapY": 1730.950562
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 140377.15625,
+    "Y": -10529.558594,
+    "Z": -15346.624023,
+    "MapX": 2846.265381,
+    "MapY": 1729.206543
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 140896.59375,
+    "Y": -10981.745117,
+    "Z": -15543.888672,
+    "MapX": 2848.561523,
+    "MapY": 1727.199097
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 139699.90625,
+    "Y": -9720.59082,
+    "Z": -15112.742188,
+    "MapX": 2843.271484,
+    "MapY": 1732.797729
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 139740.875,
+    "Y": -9637.602539,
+    "Z": -15111.970703,
+    "MapX": 2843.452637,
+    "MapY": 1733.166138
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 139778.546875,
+    "Y": -9456.43457,
+    "Z": -15096.161133,
+    "MapX": 2843.619141,
+    "MapY": 1733.970459
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 157388.734375,
+    "Y": -77967.789063,
+    "Z": -14728.136719,
+    "MapX": 2921.465332,
+    "MapY": 1429.827759
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 157536.59375,
+    "Y": -77812.476563,
+    "Z": -14777.916992,
+    "MapX": 2922.118896,
+    "MapY": 1430.517212
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 158868.390625,
+    "Y": -78371.335938,
+    "Z": -14996.095703,
+    "MapX": 2928.005859,
+    "MapY": 1428.036255
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 159141.71875,
+    "Y": -77998.765625,
+    "Z": -14893.789063,
+    "MapX": 2929.214355,
+    "MapY": 1429.690308
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 158919.921875,
+    "Y": -78086.007813,
+    "Z": -15021.676758,
+    "MapX": 2928.233887,
+    "MapY": 1429.302979
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 159549.515625,
+    "Y": -77627,
+    "Z": -14664.503906,
+    "MapX": 2931.016602,
+    "MapY": 1431.340576
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 159710.3125,
+    "Y": -76736.117188,
+    "Z": -14438.581055,
+    "MapX": 2931.727539,
+    "MapY": 1435.29541
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 158677.203125,
+    "Y": -75341.203125,
+    "Z": -14090.899414,
+    "MapX": 2927.160645,
+    "MapY": 1441.488037
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 158636.84375,
+    "Y": -76057.101563,
+    "Z": -14369.181641,
+    "MapX": 2926.982666,
+    "MapY": 1438.309814
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 158750.015625,
+    "Y": -76424.390625,
+    "Z": -14443.604492,
+    "MapX": 2927.482666,
+    "MapY": 1436.679321
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 161918.6875,
+    "Y": -107381.1875,
+    "Z": -17674.144531,
+    "MapX": 2941.489746,
+    "MapY": 1299.252686
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 159882.328125,
+    "Y": -109734.71875,
+    "Z": -17760.236328,
+    "MapX": 2932.488037,
+    "MapY": 1288.804565
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 159819.421875,
+    "Y": -109951.34375,
+    "Z": -17810.613281,
+    "MapX": 2932.209961,
+    "MapY": 1287.842896
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 150879.921875,
+    "Y": -112512.515625,
+    "Z": -17733.626953,
+    "MapX": 2892.692871,
+    "MapY": 1276.473145
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 151267.109375,
+    "Y": -112317.578125,
+    "Z": -17688.908203,
+    "MapX": 2894.404541,
+    "MapY": 1277.338623
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 151626.34375,
+    "Y": -112342.09375,
+    "Z": -17726.275391,
+    "MapX": 2895.992676,
+    "MapY": 1277.229736
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 251835,
+    "Y": 76034.992188,
+    "Z": -17764.458984,
+    "MapX": 3338.965088,
+    "MapY": 2113.493164
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 251547.71875,
+    "Y": 76571.070313,
+    "Z": -17673.339844,
+    "MapX": 3337.695313,
+    "MapY": 2115.872803
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 250756.78125,
+    "Y": 72979.171875,
+    "Z": -18624.378906,
+    "MapX": 3334.198486,
+    "MapY": 2099.927246
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 248680.671875,
+    "Y": 79495.726563,
+    "Z": -11444.97168,
+    "MapX": 3325.021484,
+    "MapY": 2128.856201
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 226018.109375,
+    "Y": 80198.46875,
+    "Z": -11486.228516,
+    "MapX": 3224.841553,
+    "MapY": 2131.976074
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 225396.09375,
+    "Y": 80416.101563,
+    "Z": -11807.091797,
+    "MapX": 3222.092041,
+    "MapY": 2132.942139
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 259443.796875,
+    "Y": 87035.8125,
+    "Z": -14547.420898,
+    "MapX": 3372.599854,
+    "MapY": 2162.329102
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 218168.609375,
+    "Y": 80768.609375,
+    "Z": -17947.191406,
+    "MapX": 3190.142822,
+    "MapY": 2134.506836
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 247604.234375,
+    "Y": 77432.3125,
+    "Z": -11542.348633,
+    "MapX": 3320.263184,
+    "MapY": 2119.696289
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 246535.875,
+    "Y": 76011.992188,
+    "Z": -15723.287109,
+    "MapX": 3315.540283,
+    "MapY": 2113.391113
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 245786.265625,
+    "Y": 77968.132813,
+    "Z": -11466.763672,
+    "MapX": 3312.226563,
+    "MapY": 2122.074707
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 247900,
+    "Y": 73800,
+    "Z": -18391.40625,
+    "MapX": 3321.570557,
+    "MapY": 2103.571289
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 242970.234375,
+    "Y": 78300,
+    "Z": -12768.538086,
+    "MapX": 3299.77832,
+    "MapY": 2123.548096
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 244200,
+    "Y": 73938.007813,
+    "Z": -17434.570313,
+    "MapX": 3305.2146,
+    "MapY": 2104.183838
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 242897.65625,
+    "Y": 73800,
+    "Z": -17085.744141,
+    "MapX": 3299.457275,
+    "MapY": 2103.571289
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 239226.953125,
+    "Y": 78928.53125,
+    "Z": -12256.050781,
+    "MapX": 3283.231201,
+    "MapY": 2126.338379
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 238170.8125,
+    "Y": 80724.5625,
+    "Z": -12897.168945,
+    "MapX": 3278.5625,
+    "MapY": 2134.311523
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 242897.65625,
+    "Y": 73800,
+    "Z": -17085.744141,
+    "MapX": 3299.457275,
+    "MapY": 2103.571289
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 244200,
+    "Y": 73938.007813,
+    "Z": -17434.570313,
+    "MapX": 3305.2146,
+    "MapY": 2104.183838
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 242970.234375,
+    "Y": 78300,
+    "Z": -12768.538086,
+    "MapX": 3299.77832,
+    "MapY": 2123.548096
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 240386.375,
+    "Y": 80400,
+    "Z": -11660.152344,
+    "MapX": 3288.356445,
+    "MapY": 2132.870605
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 243165.546875,
+    "Y": 80765.554688,
+    "Z": -11303.09082,
+    "MapX": 3300.641846,
+    "MapY": 2134.493408
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 247900,
+    "Y": 73800,
+    "Z": -18391.40625,
+    "MapX": 3321.570557,
+    "MapY": 2103.571289
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 245786.265625,
+    "Y": 77968.132813,
+    "Z": -11466.763672,
+    "MapX": 3312.226563,
+    "MapY": 2122.074707
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 246535.875,
+    "Y": 76011.992188,
+    "Z": -15723.287109,
+    "MapX": 3315.540283,
+    "MapY": 2113.391113
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 247604.234375,
+    "Y": 77432.3125,
+    "Z": -11542.348633,
+    "MapX": 3320.263184,
+    "MapY": 2119.696289
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 248680.671875,
+    "Y": 79495.726563,
+    "Z": -11444.97168,
+    "MapX": 3325.021484,
+    "MapY": 2128.856201
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 222558.671875,
+    "Y": 74274.53125,
+    "Z": -17439.21875,
+    "MapX": 3209.549072,
+    "MapY": 2105.677734
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 222342.359375,
+    "Y": 74172.96875,
+    "Z": -17543.519531,
+    "MapX": 3208.593018,
+    "MapY": 2105.227051
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 221861.609375,
+    "Y": 74294.96875,
+    "Z": -17773.914063,
+    "MapX": 3206.467773,
+    "MapY": 2105.768555
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 221266.125,
+    "Y": 74158.296875,
+    "Z": -18081.179688,
+    "MapX": 3203.835205,
+    "MapY": 2105.161865
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 223850.0625,
+    "Y": 72639.71875,
+    "Z": -17339.621094,
+    "MapX": 3215.257568,
+    "MapY": 2098.42041
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 223912.4375,
+    "Y": 72560.9375,
+    "Z": -17349.714844,
+    "MapX": 3215.533447,
+    "MapY": 2098.070801
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 202751.546875,
+    "Y": 121723.359375,
+    "Z": -15699.75,
+    "MapX": 3121.991699,
+    "MapY": 2316.317627
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 202813.46875,
+    "Y": 121517.6875,
+    "Z": -15730.363281,
+    "MapX": 3122.265381,
+    "MapY": 2315.404541
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 202962.28125,
+    "Y": 121304.71875,
+    "Z": -15697.557617,
+    "MapX": 3122.922852,
+    "MapY": 2314.458984
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 202865.203125,
+    "Y": 120768.070313,
+    "Z": -15703.316406,
+    "MapX": 3122.493896,
+    "MapY": 2312.07666
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 202962.46875,
+    "Y": 120634.804688,
+    "Z": -15666.268555,
+    "MapX": 3122.924072,
+    "MapY": 2311.485107
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 213774.6875,
+    "Y": 144210.53125,
+    "Z": -10018.422852,
+    "MapX": 3170.719238,
+    "MapY": 2416.14502
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 213383.171875,
+    "Y": 144029.265625,
+    "Z": -10092.46875,
+    "MapX": 3168.98877,
+    "MapY": 2415.340332
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 213958.34375,
+    "Y": 144773.90625,
+    "Z": -9995.194336,
+    "MapX": 3171.531494,
+    "MapY": 2418.645996
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 213652.90625,
+    "Y": 145853.796875,
+    "Z": -10170.634766,
+    "MapX": 3170.180908,
+    "MapY": 2423.439941
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 248495.484375,
+    "Y": 107673.8125,
+    "Z": -12342.739258,
+    "MapX": 3324.202881,
+    "MapY": 2253.94751
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 247992.828125,
+    "Y": 106666.765625,
+    "Z": -12296.242188,
+    "MapX": 3321.980713,
+    "MapY": 2249.476807
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 247645.34375,
+    "Y": 106262.195313,
+    "Z": -12288.916992,
+    "MapX": 3320.444824,
+    "MapY": 2247.680664
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 254450.28125,
+    "Y": 107579.914063,
+    "Z": -12029.856445,
+    "MapX": 3350.525879,
+    "MapY": 2253.530518
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 254177.484375,
+    "Y": 107688.421875,
+    "Z": -12009.329102,
+    "MapX": 3349.320068,
+    "MapY": 2254.012207
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 251195.078125,
+    "Y": 108240.273438,
+    "Z": -12010.016602,
+    "MapX": 3336.13623,
+    "MapY": 2256.462158
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 251009.328125,
+    "Y": 108244.125,
+    "Z": -12026.149414,
+    "MapX": 3335.315186,
+    "MapY": 2256.479248
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 256667.046875,
+    "Y": 107803.5625,
+    "Z": -12473.574219,
+    "MapX": 3360.325195,
+    "MapY": 2254.523438
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 256694.65625,
+    "Y": 107371.320313,
+    "Z": -11957.356445,
+    "MapX": 3360.447266,
+    "MapY": 2252.604492
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 256840.8125,
+    "Y": 107295.617188,
+    "Z": -11935.234375,
+    "MapX": 3361.093262,
+    "MapY": 2252.268555
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 264106.875,
+    "Y": 99400.992188,
+    "Z": -12015.109375,
+    "MapX": 3393.212891,
+    "MapY": 2217.221924
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 264174.1875,
+    "Y": 99465.117188,
+    "Z": -12024.641602,
+    "MapX": 3393.510498,
+    "MapY": 2217.506592
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 258599.5,
+    "Y": 86170.726563,
+    "Z": -14767.5625,
+    "MapX": 3368.867676,
+    "MapY": 2158.488525
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 258900.390625,
+    "Y": 86028.945313,
+    "Z": -14894.451172,
+    "MapX": 3370.197754,
+    "MapY": 2157.859131
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 259150.890625,
+    "Y": 85964.539063,
+    "Z": -14864.573242,
+    "MapX": 3371.304932,
+    "MapY": 2157.573242
+  },
+  {
+    "Material": "Ore_Coal",
+    "Mesh": "SM_rock_resource_coal_01",
+    "X": 203683.21875,
+    "Y": 14469.930664,
+    "Z": -16511.40625,
+    "MapX": 3126.110107,
+    "MapY": 1840.187012
+  }
+]

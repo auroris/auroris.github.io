@@ -1,0 +1,1586 @@
+[
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -334212.625,
+    "Y": 209864.328125,
+    "Z": -16220.939453,
+    "MapX": 748.339966,
+    "MapY": 2707.602295
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -333062.96875,
+    "Y": 211973.625,
+    "Z": -16598.878906,
+    "MapX": 753.421997,
+    "MapY": 2716.966064
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -332768.25,
+    "Y": 212277.375,
+    "Z": -16655.892578,
+    "MapX": 754.724792,
+    "MapY": 2718.314453
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -330676.75,
+    "Y": 211142.109375,
+    "Z": -16246.341797,
+    "MapX": 763.970276,
+    "MapY": 2713.274658
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -329328.375,
+    "Y": 209169.90625,
+    "Z": -15569.462891,
+    "MapX": 769.930786,
+    "MapY": 2704.519531
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -330815.4375,
+    "Y": 211898.21875,
+    "Z": -16381.691406,
+    "MapX": 763.357239,
+    "MapY": 2716.631348
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -329816.40625,
+    "Y": 207407.828125,
+    "Z": -15575.606445,
+    "MapX": 767.773438,
+    "MapY": 2696.697021
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -331741.125,
+    "Y": 54317.378906,
+    "Z": -13256.166016,
+    "MapX": 759.265198,
+    "MapY": 2017.081787
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -305308.21875,
+    "Y": 72970.835938,
+    "Z": -11561.248047,
+    "MapX": 876.111938,
+    "MapY": 2099.890381
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -306169.5,
+    "Y": 71595.78125,
+    "Z": -11593.455078,
+    "MapX": 872.304688,
+    "MapY": 2093.786133
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -305316.53125,
+    "Y": 72303.640625,
+    "Z": -11551.411133,
+    "MapX": 876.075195,
+    "MapY": 2096.928467
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -333569.25,
+    "Y": 49946.28125,
+    "Z": -13256.539063,
+    "MapX": 751.18396,
+    "MapY": 1997.677246
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -333795.5,
+    "Y": 49503.835938,
+    "Z": -13244.111328,
+    "MapX": 750.183838,
+    "MapY": 1995.713135
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -332760.5,
+    "Y": 43838.609375,
+    "Z": -13050.053711,
+    "MapX": 754.759094,
+    "MapY": 1970.563477
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -332680.3125,
+    "Y": 44949.171875,
+    "Z": -13246.477539,
+    "MapX": 755.113525,
+    "MapY": 1975.493652
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -339781.09375,
+    "Y": 30202.021484,
+    "Z": -10827.788086,
+    "MapX": 723.724487,
+    "MapY": 1910.026367
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -305507.1875,
+    "Y": 26089.513672,
+    "Z": -12527.268555,
+    "MapX": 875.232422,
+    "MapY": 1891.769775
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -305070.125,
+    "Y": 26051.722656,
+    "Z": -12402.213867,
+    "MapX": 877.164429,
+    "MapY": 1891.602051
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -341713.25,
+    "Y": 48763.050781,
+    "Z": -11048.386719,
+    "MapX": 715.183411,
+    "MapY": 1992.424561
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -339695.28125,
+    "Y": 27915.703125,
+    "Z": -11045.879883,
+    "MapX": 724.103882,
+    "MapY": 1899.876831
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -339099.78125,
+    "Y": 30669.337891,
+    "Z": -10788.967773,
+    "MapX": 726.736267,
+    "MapY": 1912.101074
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -340052.03125,
+    "Y": 30164.052734,
+    "Z": -10833.209961,
+    "MapX": 722.526855,
+    "MapY": 1909.85791
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -234520.6875,
+    "Y": 177835.71875,
+    "Z": -16937.923828,
+    "MapX": 1189.028442,
+    "MapY": 2565.41748
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -234501.109375,
+    "Y": 177054.9375,
+    "Z": -16843.074219,
+    "MapX": 1189.11499,
+    "MapY": 2561.951416
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -245566.625,
+    "Y": 21206.068359,
+    "Z": -11506.054688,
+    "MapX": 1140.199829,
+    "MapY": 1870.090576
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -245991.34375,
+    "Y": 21979.849609,
+    "Z": -11513.504883,
+    "MapX": 1138.322388,
+    "MapY": 1873.525635
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -243148.1875,
+    "Y": 19231.167969,
+    "Z": -11785.838867,
+    "MapX": 1150.890625,
+    "MapY": 1861.323486
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -247047.921875,
+    "Y": 19200.759766,
+    "Z": -12386.216797,
+    "MapX": 1133.651733,
+    "MapY": 1861.188477
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -257019.15625,
+    "Y": -60144.484375,
+    "Z": -17391.957031,
+    "MapX": 1089.573975,
+    "MapY": 1508.950684
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -260221.375,
+    "Y": -51448.703125,
+    "Z": -17329.544922,
+    "MapX": 1075.418457,
+    "MapY": 1547.554077
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -255775.609375,
+    "Y": -61452.519531,
+    "Z": -17715.859375,
+    "MapX": 1095.071045,
+    "MapY": 1503.143921
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -186808.984375,
+    "Y": 82500.085938,
+    "Z": -15624.041016,
+    "MapX": 1399.93811,
+    "MapY": 2142.193604
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -186811.046875,
+    "Y": 82124.554688,
+    "Z": -15787.505859,
+    "MapX": 1399.929077,
+    "MapY": 2140.526367
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -112232.4375,
+    "Y": 108874.382813,
+    "Z": -17185.291016,
+    "MapX": 1729.604004,
+    "MapY": 2259.2771
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -112339.421875,
+    "Y": 108826.945313,
+    "Z": -17147.960938,
+    "MapX": 1729.130981,
+    "MapY": 2259.066406
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -117936.914063,
+    "Y": 112194.390625,
+    "Z": -16641.751953,
+    "MapX": 1704.387329,
+    "MapY": 2274.015625
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -108769.414063,
+    "Y": 120217.625,
+    "Z": -17392.041016,
+    "MapX": 1744.912231,
+    "MapY": 2309.633301
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -187619.890625,
+    "Y": -28728.460938,
+    "Z": -16066.567383,
+    "MapX": 1396.353516,
+    "MapY": 1648.416016
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -108030.96875,
+    "Y": -36380.992188,
+    "Z": -18155.521484,
+    "MapX": 1748.176636,
+    "MapY": 1614.444092
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -186988.359375,
+    "Y": -28815.580078,
+    "Z": -16045.145508,
+    "MapX": 1399.145264,
+    "MapY": 1648.029297
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -107920.960938,
+    "Y": -40916.941406,
+    "Z": -18311.251953,
+    "MapX": 1748.662842,
+    "MapY": 1594.307739
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": -108129.5625,
+    "Y": -36293.417969,
+    "Z": -18095.664063,
+    "MapX": 1747.740845,
+    "MapY": 1614.833008
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -184682.015625,
+    "Y": -31819.800781,
+    "Z": -16069.458984,
+    "MapX": 1409.340332,
+    "MapY": 1634.692627
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -154325.84375,
+    "Y": 43315.902344,
+    "Z": -16642.232422,
+    "MapX": 1543.530029,
+    "MapY": 1968.243042
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -153893.375,
+    "Y": 43133.300781,
+    "Z": -16640.947266,
+    "MapX": 1545.44165,
+    "MapY": 1967.432373
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -185357.109375,
+    "Y": -32323.828125,
+    "Z": -15875.40918,
+    "MapX": 1406.356201,
+    "MapY": 1632.4552
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -153400.28125,
+    "Y": 44136.785156,
+    "Z": -16584.339844,
+    "MapX": 1547.621338,
+    "MapY": 1971.887085
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -145218.921875,
+    "Y": 41394.5,
+    "Z": -16565.15625,
+    "MapX": 1583.787109,
+    "MapY": 1959.713257
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -71870.140625,
+    "Y": 174888.03125,
+    "Z": -19976.589844,
+    "MapX": 1908.025635,
+    "MapY": 2552.331787
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -68537.585938,
+    "Y": 168989.765625,
+    "Z": -20190.904297,
+    "MapX": 1922.757202,
+    "MapY": 2526.147705
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -67839.921875,
+    "Y": 169174.890625,
+    "Z": -20271.529297,
+    "MapX": 1925.841187,
+    "MapY": 2526.969482
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -8138.880859,
+    "Y": 145784.28125,
+    "Z": -17210.998047,
+    "MapX": 2189.749756,
+    "MapY": 2423.131348
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -71672.835938,
+    "Y": 175008.8125,
+    "Z": -19945.337891,
+    "MapX": 1908.897827,
+    "MapY": 2552.86792
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -71669.289063,
+    "Y": 170318.0625,
+    "Z": -20179.074219,
+    "MapX": 1908.913574,
+    "MapY": 2532.044434
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -67440.28125,
+    "Y": 169001.9375,
+    "Z": -20331.859375,
+    "MapX": 1927.607788,
+    "MapY": 2526.20166
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -68482.085938,
+    "Y": 174956.796875,
+    "Z": -20137.353516,
+    "MapX": 1923.002563,
+    "MapY": 2552.637207
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -66752.0625,
+    "Y": 174761.9375,
+    "Z": -19997.349609,
+    "MapX": 1930.650024,
+    "MapY": 2551.771973
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -1050.546387,
+    "Y": 139661.171875,
+    "Z": -17278.431641,
+    "MapX": 2221.083984,
+    "MapY": 2395.948975
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -8165.874023,
+    "Y": 145902.78125,
+    "Z": -17156.755859,
+    "MapX": 2189.630371,
+    "MapY": 2423.657471
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -12887.517578,
+    "Y": 135805.546875,
+    "Z": -17038.486328,
+    "MapX": 2168.758301,
+    "MapY": 2378.832764
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -59314.636719,
+    "Y": 66046.117188,
+    "Z": -17483.4375,
+    "MapX": 1963.527344,
+    "MapY": 2069.149414
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -57428.636719,
+    "Y": 66512.101563,
+    "Z": -17534.490234,
+    "MapX": 1971.86438,
+    "MapY": 2071.218018
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -54092.09375,
+    "Y": 62960.480469,
+    "Z": -18974.191406,
+    "MapX": 1986.613525,
+    "MapY": 2055.451172
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -54968.769531,
+    "Y": 62690.875,
+    "Z": -19058.857422,
+    "MapX": 1982.738159,
+    "MapY": 2054.254395
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -63703.6875,
+    "Y": 58610.707031,
+    "Z": -18957.382813,
+    "MapX": 1944.125488,
+    "MapY": 2036.141357
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -64441.980469,
+    "Y": 47234.125,
+    "Z": -18896.748047,
+    "MapX": 1940.861938,
+    "MapY": 1985.637207
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -65328.003906,
+    "Y": 48914.851563,
+    "Z": -18567.568359,
+    "MapX": 1936.94519,
+    "MapY": 1993.098389
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -38039.921875,
+    "Y": 43884.703125,
+    "Z": -19825.40625,
+    "MapX": 2057.572021,
+    "MapY": 1970.768066
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -34726.933594,
+    "Y": 44817.941406,
+    "Z": -18765.244141,
+    "MapX": 2072.217285,
+    "MapY": 1974.911011
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -30873.855469,
+    "Y": 57707.453125,
+    "Z": -17720.607422,
+    "MapX": 2089.25,
+    "MapY": 2032.13147
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -29444.830078,
+    "Y": 48036.617188,
+    "Z": -16833.386719,
+    "MapX": 2095.56665,
+    "MapY": 1989.199707
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -29701.214844,
+    "Y": 47317.496094,
+    "Z": -16810.521484,
+    "MapX": 2094.433594,
+    "MapY": 1986.007324
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -44933,
+    "Y": 64037.378906,
+    "Z": -18772.46875,
+    "MapX": 2027.101318,
+    "MapY": 2060.231934
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -45531.636719,
+    "Y": 61378.429688,
+    "Z": -19253.185547,
+    "MapX": 2024.455078,
+    "MapY": 2048.428223
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -57522.90625,
+    "Y": 43887.234375,
+    "Z": -19124.128906,
+    "MapX": 1971.447632,
+    "MapY": 1970.779297
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -57243.09375,
+    "Y": 44183.09375,
+    "Z": -19194.943359,
+    "MapX": 1972.68457,
+    "MapY": 1972.092773
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -47313.222656,
+    "Y": 29518.46875,
+    "Z": -17660.667969,
+    "MapX": 2016.57959,
+    "MapY": 1906.991943
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -39370.898438,
+    "Y": 31599.003906,
+    "Z": -17205.818359,
+    "MapX": 2051.688477,
+    "MapY": 1916.228149
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -41827.125,
+    "Y": 30760.611328,
+    "Z": -18103.042969,
+    "MapX": 2040.830933,
+    "MapY": 1912.506226
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -50821.480469,
+    "Y": 63928.578125,
+    "Z": -18954.800781,
+    "MapX": 2001.071289,
+    "MapY": 2059.749023
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -55007.527344,
+    "Y": 57706.042969,
+    "Z": -19553.996094,
+    "MapX": 1982.566772,
+    "MapY": 2032.125244
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -66614.171875,
+    "Y": 50687.21875,
+    "Z": -18342.6875,
+    "MapX": 1931.259521,
+    "MapY": 2000.966553
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -69535.765625,
+    "Y": 43641.675781,
+    "Z": -16932.355469,
+    "MapX": 1918.344849,
+    "MapY": 1969.689209
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -68143.992188,
+    "Y": 39420.441406,
+    "Z": -16845.699219,
+    "MapX": 1924.49707,
+    "MapY": 1950.949707
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -39665.0625,
+    "Y": 40177.378906,
+    "Z": -19217.017578,
+    "MapX": 2050.388184,
+    "MapY": 1954.310181
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -29355.509766,
+    "Y": 46449.40625,
+    "Z": -16680.658203,
+    "MapX": 2095.961914,
+    "MapY": 1982.153564
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -34114.085938,
+    "Y": 33780.378906,
+    "Z": -16385.070313,
+    "MapX": 2074.92627,
+    "MapY": 1925.911865
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -30640.982422,
+    "Y": 38010.402344,
+    "Z": -16708.648438,
+    "MapX": 2090.279297,
+    "MapY": 1944.690186
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -44691.261719,
+    "Y": 63807.859375,
+    "Z": -18772.111328,
+    "MapX": 2028.170044,
+    "MapY": 2059.213135
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -42024.023438,
+    "Y": 62202.839844,
+    "Z": -18788.722656,
+    "MapX": 2039.960449,
+    "MapY": 2052.087891
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": -57085.808594,
+    "Y": 44261.199219,
+    "Z": -19250.214844,
+    "MapX": 1973.379761,
+    "MapY": 1972.439453
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": -42495.214844,
+    "Y": -54715.242188,
+    "Z": -17520.234375,
+    "MapX": 2037.877563,
+    "MapY": 1533.052856
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -37933.136719,
+    "Y": -61537.988281,
+    "Z": -18964.939453,
+    "MapX": 2058.044434,
+    "MapY": 1502.764526
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": -32281.720703,
+    "Y": -52567.195313,
+    "Z": -17078.205078,
+    "MapX": 2083.026367,
+    "MapY": 1542.588745
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 83205.273438,
+    "Y": 154280.4375,
+    "Z": -10297.427734,
+    "MapX": 2593.536865,
+    "MapY": 2460.848389
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 83629.210938,
+    "Y": 154523.84375,
+    "Z": -10561.74707,
+    "MapX": 2595.410889,
+    "MapY": 2461.928955
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 76813.164063,
+    "Y": 153028.828125,
+    "Z": -11203.582031,
+    "MapX": 2565.280762,
+    "MapY": 2455.292236
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 83899.515625,
+    "Y": 153223.765625,
+    "Z": -10322.27832,
+    "MapX": 2596.605713,
+    "MapY": 2456.157471
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 83528.0625,
+    "Y": 154506.375,
+    "Z": -10535.160156,
+    "MapX": 2594.963867,
+    "MapY": 2461.851563
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 79397.617188,
+    "Y": 156294.15625,
+    "Z": -11528.898438,
+    "MapX": 2576.705078,
+    "MapY": 2469.787842
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 70004.140625,
+    "Y": 106967.53125,
+    "Z": -12154.975586,
+    "MapX": 2535.181152,
+    "MapY": 2250.812012
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 70189.460938,
+    "Y": 106650.359375,
+    "Z": -12137.480469,
+    "MapX": 2536.000488,
+    "MapY": 2249.404053
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 69556.882813,
+    "Y": 105002.171875,
+    "Z": -12149.086914,
+    "MapX": 2533.204102,
+    "MapY": 2242.087158
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 71383.6875,
+    "Y": 112280.539063,
+    "Z": -12438.530273,
+    "MapX": 2541.279785,
+    "MapY": 2274.397949
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 72000.132813,
+    "Y": 112396.96875,
+    "Z": -12568.68457,
+    "MapX": 2544.004639,
+    "MapY": 2274.915039
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 70539.148438,
+    "Y": 110998.5,
+    "Z": -12282.910156,
+    "MapX": 2537.546387,
+    "MapY": 2268.706543
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 71780.15625,
+    "Y": 111367.140625,
+    "Z": -12463.169922,
+    "MapX": 2543.032227,
+    "MapY": 2270.343262
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 72109.84375,
+    "Y": 112665.625,
+    "Z": -12603.924805,
+    "MapX": 2544.489502,
+    "MapY": 2276.107422
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 44701.476563,
+    "Y": 72324.46875,
+    "Z": -18934.462891,
+    "MapX": 2423.330566,
+    "MapY": 2097.020996
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 42431.464844,
+    "Y": 71069.914063,
+    "Z": -18922.630859,
+    "MapX": 2413.296143,
+    "MapY": 2091.451416
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 81111.40625,
+    "Y": 4780.810059,
+    "Z": -18398.884766,
+    "MapX": 2584.281006,
+    "MapY": 1797.17395
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 80034.070313,
+    "Y": 4195.734863,
+    "Z": -18471.238281,
+    "MapX": 2579.518555,
+    "MapY": 1794.57666
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 81304.835938,
+    "Y": 3011.764893,
+    "Z": -20332.794922,
+    "MapX": 2585.13623,
+    "MapY": 1789.320679
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 79990.273438,
+    "Y": 3716.854248,
+    "Z": -18497.933594,
+    "MapX": 2579.324951,
+    "MapY": 1792.450806
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 83321.898438,
+    "Y": 6986.416504,
+    "Z": -13720.111328,
+    "MapX": 2594.05249,
+    "MapY": 1806.965332
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 81252.3125,
+    "Y": 6116.743164,
+    "Z": -13892.882813,
+    "MapX": 2584.903809,
+    "MapY": 1803.104614
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 81926,
+    "Y": 3309.210205,
+    "Z": -20255.179688,
+    "MapX": 2587.881836,
+    "MapY": 1790.640991
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 13801.925781,
+    "Y": -23587.128906,
+    "Z": -8839.556641,
+    "MapX": 2286.739258,
+    "MapY": 1671.240112
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 11081.486328,
+    "Y": -30673.4375,
+    "Z": -8975.555664,
+    "MapX": 2274.713623,
+    "MapY": 1639.781738
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 177559.515625,
+    "Y": 116873.609375,
+    "Z": -19817.083984,
+    "MapX": 3010.630127,
+    "MapY": 2294.788086
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 177619.9375,
+    "Y": 116851.023438,
+    "Z": -19784.544922,
+    "MapX": 3010.897217,
+    "MapY": 2294.687988
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 171855.140625,
+    "Y": 118761.828125,
+    "Z": -19658.896484,
+    "MapX": 2985.413818,
+    "MapY": 2303.17041
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 170892.8125,
+    "Y": 117501.65625,
+    "Z": -19839.203125,
+    "MapX": 2981.159912,
+    "MapY": 2297.576172
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 183669.71875,
+    "Y": 8636.960938,
+    "Z": -18815.255859,
+    "MapX": 3037.640381,
+    "MapY": 1814.292725
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 182865.59375,
+    "Y": 5655.615234,
+    "Z": -18672.802734,
+    "MapX": 3034.085938,
+    "MapY": 1801.057495
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 167765.9375,
+    "Y": -71511.359375,
+    "Z": -12644.001953,
+    "MapX": 2967.337646,
+    "MapY": 1458.489746
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 164465.9375,
+    "Y": -74622.960938,
+    "Z": -12474.128906,
+    "MapX": 2952.75,
+    "MapY": 1444.676392
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 164996.75,
+    "Y": -77162.953125,
+    "Z": -12292.052734,
+    "MapX": 2955.096436,
+    "MapY": 1433.400635
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 165883.953125,
+    "Y": -78198.695313,
+    "Z": -12324.182617,
+    "MapX": 2959.018066,
+    "MapY": 1428.802612
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 169291.0625,
+    "Y": -77325.335938,
+    "Z": -12538.564453,
+    "MapX": 2974.079346,
+    "MapY": 1432.679688
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 170183.828125,
+    "Y": -10011.539063,
+    "Z": -19909.242188,
+    "MapX": 2978.025635,
+    "MapY": 1731.506226
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 170852.296875,
+    "Y": -10005.792969,
+    "Z": -19921.537109,
+    "MapX": 2980.980957,
+    "MapY": 1731.531738
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 164213.15625,
+    "Y": -9867.865234,
+    "Z": -19908.423828,
+    "MapX": 2951.632324,
+    "MapY": 1732.144043
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 165629.65625,
+    "Y": -8974.762695,
+    "Z": -19910.132813,
+    "MapX": 2957.894043,
+    "MapY": 1736.108765
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 158052.453125,
+    "Y": -14405.996094,
+    "Z": -19676.941406,
+    "MapX": 2924.39917,
+    "MapY": 1711.997803
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 156341.390625,
+    "Y": -13315.302734,
+    "Z": -19740.441406,
+    "MapX": 2916.835205,
+    "MapY": 1716.839844
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 157649.8125,
+    "Y": -13415.691406,
+    "Z": -19644.15625,
+    "MapX": 2922.619385,
+    "MapY": 1716.394165
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 176108.796875,
+    "Y": -23817.816406,
+    "Z": -19716.953125,
+    "MapX": 3004.217285,
+    "MapY": 1670.215942
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 176179.3125,
+    "Y": -27709.574219,
+    "Z": -19748.042969,
+    "MapX": 3004.529053,
+    "MapY": 1652.939331
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 174161.703125,
+    "Y": -33435.292969,
+    "Z": -19733.185547,
+    "MapX": 2995.610107,
+    "MapY": 1627.520996
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 161165.78125,
+    "Y": -19652.525391,
+    "Z": -19488.412109,
+    "MapX": 2938.161377,
+    "MapY": 1688.706909
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 157848.484375,
+    "Y": -16644.041016,
+    "Z": -19760.042969,
+    "MapX": 2923.497559,
+    "MapY": 1702.0625
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 157835.046875,
+    "Y": -17254.197266,
+    "Z": -19764.041016,
+    "MapX": 2923.437988,
+    "MapY": 1699.35376
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_01",
+    "X": 156353.171875,
+    "Y": -7299.751953,
+    "Z": -19718.925781,
+    "MapX": 2916.887451,
+    "MapY": 1743.544678
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 165904.0625,
+    "Y": -78079.234375,
+    "Z": -12339.455078,
+    "MapX": 2959.107178,
+    "MapY": 1429.332886
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 167426.140625,
+    "Y": -78987.679688,
+    "Z": -12339.780273,
+    "MapX": 2965.835449,
+    "MapY": 1425.300049
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 171350.921875,
+    "Y": -75599.9375,
+    "Z": -12483.748047,
+    "MapX": 2983.185059,
+    "MapY": 1440.339355
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Cliff_02",
+    "X": 170533.640625,
+    "Y": -75951.164063,
+    "Z": -12487.336914,
+    "MapX": 2979.572266,
+    "MapY": 1438.780151
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 252999.796875,
+    "Y": 100795.460938,
+    "Z": -10701.301758,
+    "MapX": 3344.114014,
+    "MapY": 2223.412354
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 252838.03125,
+    "Y": 101006.203125,
+    "Z": -10618.619141,
+    "MapX": 3343.398926,
+    "MapY": 2224.3479
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 257329.859375,
+    "Y": 104642.289063,
+    "Z": -11844.31543,
+    "MapX": 3363.255127,
+    "MapY": 2240.489502
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 248596.453125,
+    "Y": 105608.6875,
+    "Z": -11246.243164,
+    "MapX": 3324.64917,
+    "MapY": 2244.779785
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 259824.15625,
+    "Y": -71822.085938,
+    "Z": -11525.632813,
+    "MapX": 3374.281006,
+    "MapY": 1457.110229
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 256707.75,
+    "Y": -72385.632813,
+    "Z": -13669.229492,
+    "MapX": 3360.505127,
+    "MapY": 1454.608643
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 234645.84375,
+    "Y": -70772.265625,
+    "Z": -15489.199219,
+    "MapX": 3262.980469,
+    "MapY": 1461.770874
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 234409.3125,
+    "Y": -70704.0625,
+    "Z": -15458.371094,
+    "MapX": 3261.934814,
+    "MapY": 1462.073608
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 237120.0625,
+    "Y": -63831.875,
+    "Z": -15330.506836,
+    "MapX": 3273.917725,
+    "MapY": 1492.581299
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 265643.125,
+    "Y": -96298.523438,
+    "Z": -16154.625,
+    "MapX": 3400.003906,
+    "MapY": 1348.452026
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_02",
+    "X": 226787.71875,
+    "Y": -62933.863281,
+    "Z": -18199.476563,
+    "MapX": 3228.243652,
+    "MapY": 1496.567871
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 259780.140625,
+    "Y": -71751.546875,
+    "Z": -11527.532227,
+    "MapX": 3374.08667,
+    "MapY": 1457.423462
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 257870.390625,
+    "Y": -72106.664063,
+    "Z": -13519.045898,
+    "MapX": 3365.644531,
+    "MapY": 1455.847046
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 257013.828125,
+    "Y": -72248.421875,
+    "Z": -13648.22168,
+    "MapX": 3361.85791,
+    "MapY": 1455.217651
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 258179.375,
+    "Y": -72612.492188,
+    "Z": -12770.553711,
+    "MapX": 3367.010254,
+    "MapY": 1453.60144
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 236294.671875,
+    "Y": -69383.8125,
+    "Z": -15519.441406,
+    "MapX": 3270.269043,
+    "MapY": 1467.93457
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 236675.421875,
+    "Y": -61932.03125,
+    "Z": -12983.996094,
+    "MapX": 3271.952148,
+    "MapY": 1501.015259
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 236501.5,
+    "Y": -62151.957031,
+    "Z": -13102.072266,
+    "MapX": 3271.18335,
+    "MapY": 1500.03894
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 236999.515625,
+    "Y": -64095.019531,
+    "Z": -15308.975586,
+    "MapX": 3273.384766,
+    "MapY": 1491.413086
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 265656.1875,
+    "Y": -99738.914063,
+    "Z": -16551.757813,
+    "MapX": 3400.061768,
+    "MapY": 1333.179077
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 267056.125,
+    "Y": -97596.445313,
+    "Z": -16610.8125,
+    "MapX": 3406.25,
+    "MapY": 1342.690063
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 267650.09375,
+    "Y": -97101.1875,
+    "Z": -16635.117188,
+    "MapX": 3408.875732,
+    "MapY": 1344.888672
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 266210.09375,
+    "Y": -97774.539063,
+    "Z": -16632.972656,
+    "MapX": 3402.510498,
+    "MapY": 1341.899414
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 227245.328125,
+    "Y": -66934.96875,
+    "Z": -18229.894531,
+    "MapX": 3230.266357,
+    "MapY": 1478.805786
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 227503.65625,
+    "Y": -66150.085938,
+    "Z": -18255.783203,
+    "MapX": 3231.408203,
+    "MapY": 1482.290039
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 226547.421875,
+    "Y": -61611.90625,
+    "Z": -17838.802734,
+    "MapX": 3227.181396,
+    "MapY": 1502.436401
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 225964.40625,
+    "Y": -61394.371094,
+    "Z": -17848.691406,
+    "MapX": 3224.604004,
+    "MapY": 1503.4021
+  },
+  {
+    "Material": "Black_Ice_Highlands",
+    "Mesh": "SM_Highlands_Black_Ice_Grass_01",
+    "X": 225643.8125,
+    "Y": -61072.59375,
+    "Z": -17846.421875,
+    "MapX": 3223.186768,
+    "MapY": 1504.830566
+  }
+]

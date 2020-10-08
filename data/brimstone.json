@@ -1,0 +1,2774 @@
+[
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -330784.71875,
+    "Y": 201388.5625,
+    "Z": -15943.057617,
+    "MapX": 763.493042,
+    "MapY": 2669.97583
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -329339.8125,
+    "Y": 203181.3125,
+    "Z": -15173.475586,
+    "MapX": 769.880249,
+    "MapY": 2677.934326
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -331628.46875,
+    "Y": 198384.796875,
+    "Z": -16303.949219,
+    "MapX": 759.763245,
+    "MapY": 2656.641113
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -330587,
+    "Y": 198473.703125,
+    "Z": -16439.310547,
+    "MapX": 764.367065,
+    "MapY": 2657.035889
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -330464.96875,
+    "Y": 198205.734375,
+    "Z": -16497.546875,
+    "MapX": 764.906494,
+    "MapY": 2655.846191
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -364110.5625,
+    "Y": 191565.78125,
+    "Z": -16252.341797,
+    "MapX": 616.176025,
+    "MapY": 2626.369385
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -363948.59375,
+    "Y": 191956.265625,
+    "Z": -16300.986328,
+    "MapX": 616.892029,
+    "MapY": 2628.103027
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -362961.75,
+    "Y": 192278.46875,
+    "Z": -16212.166016,
+    "MapX": 621.254395,
+    "MapY": 2629.533203
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -370590.53125,
+    "Y": 192814.9375,
+    "Z": -16047.5,
+    "MapX": 587.531311,
+    "MapY": 2631.914795
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -370595.71875,
+    "Y": 192800.515625,
+    "Z": -16041.967773,
+    "MapX": 587.508362,
+    "MapY": 2631.85083
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -370153,
+    "Y": 194743.625,
+    "Z": -15992.754883,
+    "MapX": 589.465454,
+    "MapY": 2640.476807
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -347842.96875,
+    "Y": 202795.703125,
+    "Z": -20649.302734,
+    "MapX": 688.086975,
+    "MapY": 2676.222412
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -347428.25,
+    "Y": 203560.4375,
+    "Z": -20645.191406,
+    "MapX": 689.920227,
+    "MapY": 2679.617432
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -353357.75,
+    "Y": 209146.203125,
+    "Z": -20616.816406,
+    "MapX": 663.708862,
+    "MapY": 2704.414307
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -352458.84375,
+    "Y": 209018.34375,
+    "Z": -20734.353516,
+    "MapX": 667.682495,
+    "MapY": 2703.84668
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -352766,
+    "Y": 207285.359375,
+    "Z": -20695.121094,
+    "MapX": 666.324707,
+    "MapY": 2696.15332
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -353817.71875,
+    "Y": 211367.625,
+    "Z": -20443.478516,
+    "MapX": 661.675598,
+    "MapY": 2714.275879
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -352580.65625,
+    "Y": 201482.59375,
+    "Z": -20494.021484,
+    "MapX": 667.144043,
+    "MapY": 2670.393311
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -231772.796875,
+    "Y": 186032.375,
+    "Z": -17414.617188,
+    "MapX": 1201.175537,
+    "MapY": 2601.804932
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -231530.90625,
+    "Y": 186655.90625,
+    "Z": -17533.310547,
+    "MapX": 1202.244751,
+    "MapY": 2604.572998
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -214058.078125,
+    "Y": 134614.203125,
+    "Z": -9776.598633,
+    "MapX": 1279.483521,
+    "MapY": 2373.543945
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -231737.765625,
+    "Y": 185184.21875,
+    "Z": -17412.441406,
+    "MapX": 1201.330322,
+    "MapY": 2598.039795
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -232713.0625,
+    "Y": 185529.265625,
+    "Z": -17555.238281,
+    "MapX": 1197.019043,
+    "MapY": 2599.571533
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -232657.796875,
+    "Y": 185310.953125,
+    "Z": -17562.447266,
+    "MapX": 1197.263428,
+    "MapY": 2598.602295
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -231560.6875,
+    "Y": 185524.375,
+    "Z": -17364.302734,
+    "MapX": 1202.113037,
+    "MapY": 2599.549805
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -214339.9375,
+    "Y": 137078.34375,
+    "Z": -9726.708984,
+    "MapX": 1278.237549,
+    "MapY": 2384.483154
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -214675.171875,
+    "Y": 135081.921875,
+    "Z": -9757.439453,
+    "MapX": 1276.755615,
+    "MapY": 2375.620361
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -214263.765625,
+    "Y": 135663.546875,
+    "Z": -9761.641602,
+    "MapX": 1278.574219,
+    "MapY": 2378.202393
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -252819.046875,
+    "Y": 22777.236328,
+    "Z": -12597.953125,
+    "MapX": 1108.140503,
+    "MapY": 1877.065674
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -253154.734375,
+    "Y": 22687.279297,
+    "Z": -12591.40332,
+    "MapX": 1106.656494,
+    "MapY": 1876.66626
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -254491.375,
+    "Y": 24640.947266,
+    "Z": -13641.200195,
+    "MapX": 1100.748047,
+    "MapY": 1885.339111
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -254489.109375,
+    "Y": 24354.222656,
+    "Z": -13627.058594,
+    "MapX": 1100.758057,
+    "MapY": 1884.066406
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -253652.234375,
+    "Y": 23808.042969,
+    "Z": -12591.40332,
+    "MapX": 1104.457397,
+    "MapY": 1881.641602
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -248635,
+    "Y": 17330.128906,
+    "Z": -14453.93457,
+    "MapX": 1126.636108,
+    "MapY": 1852.884277
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -252886.453125,
+    "Y": 17915.652344,
+    "Z": -15233.137695,
+    "MapX": 1107.842529,
+    "MapY": 1855.483643
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -238524.5,
+    "Y": 15318.09375,
+    "Z": -12592.439453,
+    "MapX": 1171.32959,
+    "MapY": 1843.952148
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -238530.921875,
+    "Y": 16686.242188,
+    "Z": -12184.355469,
+    "MapX": 1171.30127,
+    "MapY": 1850.025879
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -212654.5625,
+    "Y": 54340.011719,
+    "Z": -11888.166016,
+    "MapX": 1285.687744,
+    "MapY": 2017.182373
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -284421.96875,
+    "Y": 76380.796875,
+    "Z": -12994.835938,
+    "MapX": 968.439697,
+    "MapY": 2115.028076
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -285431.96875,
+    "Y": 75695.382813,
+    "Z": -13007.581055,
+    "MapX": 963.974976,
+    "MapY": 2111.985352
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -286838,
+    "Y": 74861.304688,
+    "Z": -12592.789063,
+    "MapX": 957.759644,
+    "MapY": 2108.282715
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -284121.8125,
+    "Y": 77346.851563,
+    "Z": -12529.926758,
+    "MapX": 969.766479,
+    "MapY": 2119.31665
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -284279.125,
+    "Y": 72923.84375,
+    "Z": -13014.772461,
+    "MapX": 969.071106,
+    "MapY": 2099.681641
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -285103.28125,
+    "Y": 74299.546875,
+    "Z": -12997.013672,
+    "MapX": 965.427979,
+    "MapY": 2105.788818
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -284050.4375,
+    "Y": 79942.179688,
+    "Z": -12286.523438,
+    "MapX": 970.082031,
+    "MapY": 2130.838379
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -254284.53125,
+    "Y": 22868.103516,
+    "Z": -12582.848633,
+    "MapX": 1101.662354,
+    "MapY": 1877.468994
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -259616.84375,
+    "Y": -56495.019531,
+    "Z": -16974.285156,
+    "MapX": 1078.09082,
+    "MapY": 1525.151733
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -259422.71875,
+    "Y": -56229.171875,
+    "Z": -16973.074219,
+    "MapX": 1078.948975,
+    "MapY": 1526.332031
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -260690.296875,
+    "Y": -55218.40625,
+    "Z": -16867.835938,
+    "MapX": 1073.345703,
+    "MapY": 1530.819214
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -259697.75,
+    "Y": -54606.296875,
+    "Z": -20339.373047,
+    "MapX": 1077.733154,
+    "MapY": 1533.536377
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -258108.484375,
+    "Y": -56195.128906,
+    "Z": -20387.201172,
+    "MapX": 1084.758545,
+    "MapY": 1526.483154
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -258350.921875,
+    "Y": -56879.207031,
+    "Z": -20329.855469,
+    "MapX": 1083.686768,
+    "MapY": 1523.446289
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -260259.578125,
+    "Y": -50075.019531,
+    "Z": -17730.933594,
+    "MapX": 1075.249634,
+    "MapY": 1553.652222
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -259994.375,
+    "Y": -51474.503906,
+    "Z": -17417.5,
+    "MapX": 1076.421875,
+    "MapY": 1547.439453
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -260350.15625,
+    "Y": -56311.753906,
+    "Z": -16390.068359,
+    "MapX": 1074.849243,
+    "MapY": 1525.965454
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -185085.03125,
+    "Y": 83108.929688,
+    "Z": -15806.014648,
+    "MapX": 1407.558838,
+    "MapY": 2144.896484
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -182938.390625,
+    "Y": 81540.390625,
+    "Z": -16179.150391,
+    "MapX": 1417.048096,
+    "MapY": 2137.933105
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -183073.328125,
+    "Y": 81536.609375,
+    "Z": -16114.785156,
+    "MapX": 1416.45166,
+    "MapY": 2137.916504
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -182270.96875,
+    "Y": 84856.617188,
+    "Z": -16301.972656,
+    "MapX": 1419.998535,
+    "MapY": 2152.654785
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -182245.140625,
+    "Y": 80508.34375,
+    "Z": -16547.548828,
+    "MapX": 1420.112549,
+    "MapY": 2133.351563
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -181352.328125,
+    "Y": 84874,
+    "Z": -16556.759766,
+    "MapX": 1424.059326,
+    "MapY": 2152.731934
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -175612.6875,
+    "Y": 88124.132813,
+    "Z": -16343.921875,
+    "MapX": 1449.431396,
+    "MapY": 2167.1604
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -181434.328125,
+    "Y": 79700.664063,
+    "Z": -16736.814453,
+    "MapX": 1423.696777,
+    "MapY": 2129.766113
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -178494.75,
+    "Y": 76316.359375,
+    "Z": -16992.982422,
+    "MapX": 1436.691284,
+    "MapY": 2114.742188
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -190464.9375,
+    "Y": 117852.851563,
+    "Z": -14117.814453,
+    "MapX": 1383.776978,
+    "MapY": 2299.135254
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -187690.515625,
+    "Y": 115878.195313,
+    "Z": -14897.500977,
+    "MapX": 1396.04126,
+    "MapY": 2290.369141
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -187698.984375,
+    "Y": 115705.101563,
+    "Z": -14880.451172,
+    "MapX": 1396.003906,
+    "MapY": 2289.600586
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -163333.09375,
+    "Y": 147747.15625,
+    "Z": -18868.302734,
+    "MapX": 1503.713379,
+    "MapY": 2431.845215
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -177587.6875,
+    "Y": 129652.546875,
+    "Z": -12755.922852,
+    "MapX": 1440.700928,
+    "MapY": 2351.517578
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -177415.75,
+    "Y": 129707.859375,
+    "Z": -12737.542969,
+    "MapX": 1441.460938,
+    "MapY": 2351.763184
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -159017.640625,
+    "Y": 145680.359375,
+    "Z": -18948.392578,
+    "MapX": 1522.789795,
+    "MapY": 2422.669922
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -161593.53125,
+    "Y": 145787.203125,
+    "Z": -19351.671875,
+    "MapX": 1511.403076,
+    "MapY": 2423.144287
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -162293,
+    "Y": 143543.578125,
+    "Z": -19023.560547,
+    "MapX": 1508.311035,
+    "MapY": 2413.184326
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -154745.859375,
+    "Y": 142490.3125,
+    "Z": -17931.126953,
+    "MapX": 1541.67334,
+    "MapY": 2408.508545
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -155373.171875,
+    "Y": 143639.34375,
+    "Z": -18194.066406,
+    "MapX": 1538.900269,
+    "MapY": 2413.609375
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -178828.234375,
+    "Y": -26594.277344,
+    "Z": -17067.572266,
+    "MapX": 1435.217041,
+    "MapY": 1657.890259
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -179089.03125,
+    "Y": -26383.458984,
+    "Z": -17205.291016,
+    "MapX": 1434.064209,
+    "MapY": 1658.826172
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -185633.640625,
+    "Y": -27146.869141,
+    "Z": -16383.484375,
+    "MapX": 1405.133789,
+    "MapY": 1655.437256
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -184052.140625,
+    "Y": -25226.179688,
+    "Z": -16854.929688,
+    "MapX": 1412.124756,
+    "MapY": 1663.963745
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -184270.09375,
+    "Y": -25007.945313,
+    "Z": -16658.042969,
+    "MapX": 1411.161377,
+    "MapY": 1664.932617
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -188889.015625,
+    "Y": -31028.476563,
+    "Z": -13294.966797,
+    "MapX": 1390.743408,
+    "MapY": 1638.205688
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -188262.609375,
+    "Y": -31853.583984,
+    "Z": -13273.25,
+    "MapX": 1393.512451,
+    "MapY": 1634.542725
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -160132.21875,
+    "Y": -38426.933594,
+    "Z": -19649.226563,
+    "MapX": 1517.862915,
+    "MapY": 1605.361572
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -186290.546875,
+    "Y": -33340.03125,
+    "Z": -15962.24707,
+    "MapX": 1402.229858,
+    "MapY": 1627.943848
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -167223.796875,
+    "Y": -38583.792969,
+    "Z": -20636.609375,
+    "MapX": 1486.514526,
+    "MapY": 1604.665283
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -169114.375,
+    "Y": -26832.775391,
+    "Z": -20662.785156,
+    "MapX": 1478.157227,
+    "MapY": 1656.831665
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -168015.890625,
+    "Y": -29202.402344,
+    "Z": -20662.761719,
+    "MapX": 1483.013062,
+    "MapY": 1646.312012
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -163724.953125,
+    "Y": -3238.586182,
+    "Z": -20643.699219,
+    "MapX": 1501.981201,
+    "MapY": 1761.573364
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -161967.59375,
+    "Y": -381.564789,
+    "Z": -20669.791016,
+    "MapX": 1509.749512,
+    "MapY": 1774.256592
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -162432.5625,
+    "Y": 868.216614,
+    "Z": -20679.087891,
+    "MapX": 1507.694214,
+    "MapY": 1779.80481
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -154528.21875,
+    "Y": 10818.473633,
+    "Z": -20671.736328,
+    "MapX": 1542.635376,
+    "MapY": 1823.977051
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -159151.921875,
+    "Y": 7325.144531,
+    "Z": -20579.601563,
+    "MapX": 1522.196289,
+    "MapY": 1808.468994
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -162732.3125,
+    "Y": -44662.816406,
+    "Z": -20642.683594,
+    "MapX": 1506.369141,
+    "MapY": 1577.678589
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -167723.296875,
+    "Y": -7892.319824,
+    "Z": -20672.089844,
+    "MapX": 1484.306396,
+    "MapY": 1740.914185
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -158337.3125,
+    "Y": -4675.58252,
+    "Z": -19704.753906,
+    "MapX": 1525.797363,
+    "MapY": 1755.194214
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -171403.734375,
+    "Y": -17582.037109,
+    "Z": -20374.964844,
+    "MapX": 1468.037109,
+    "MapY": 1697.89856
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -164525.015625,
+    "Y": -11534.118164,
+    "Z": -20369.490234,
+    "MapX": 1498.444458,
+    "MapY": 1724.746948
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -180971.1875,
+    "Y": -23679.734375,
+    "Z": -17223.867188,
+    "MapX": 1425.744141,
+    "MapY": 1670.828857
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -184202.875,
+    "Y": -31133.162109,
+    "Z": -16299.948242,
+    "MapX": 1411.458496,
+    "MapY": 1637.740845
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -180379.5,
+    "Y": -31114.810547,
+    "Z": -16808.222656,
+    "MapX": 1428.359741,
+    "MapY": 1637.822266
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -179015.96875,
+    "Y": -29762.210938,
+    "Z": -17153.410156,
+    "MapX": 1434.387207,
+    "MapY": 1643.826904
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -145838.390625,
+    "Y": 35776.199219,
+    "Z": -17193.193359,
+    "MapX": 1581.048706,
+    "MapY": 1934.771973
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -138816.609375,
+    "Y": 44398.496094,
+    "Z": -16764.333984,
+    "MapX": 1612.088501,
+    "MapY": 1973.049072
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -140707.5,
+    "Y": 45521.828125,
+    "Z": -16643.488281,
+    "MapX": 1603.729858,
+    "MapY": 1978.035767
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -146593.65625,
+    "Y": 46492.726563,
+    "Z": -16687.878906,
+    "MapX": 1577.710083,
+    "MapY": 1982.345825
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -149002.8125,
+    "Y": 46616.34375,
+    "Z": -16653.451172,
+    "MapX": 1567.060425,
+    "MapY": 1982.894775
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -154051.671875,
+    "Y": -62200.34375,
+    "Z": -20658.800781,
+    "MapX": 1544.741943,
+    "MapY": 1499.824219
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -152158.796875,
+    "Y": -52691.457031,
+    "Z": -20578.183594,
+    "MapX": 1553.109375,
+    "MapY": 1542.036987
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -155921.390625,
+    "Y": -54353.597656,
+    "Z": -20655.863281,
+    "MapX": 1536.476807,
+    "MapY": 1534.658325
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -64089.308594,
+    "Y": 177010.4375,
+    "Z": -17483.585938,
+    "MapX": 1942.420776,
+    "MapY": 2561.753906
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -74431.140625,
+    "Y": 170236.609375,
+    "Z": -18321.673828,
+    "MapX": 1896.704834,
+    "MapY": 2531.682617
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -61555.457031,
+    "Y": 168291.046875,
+    "Z": -18716.720703,
+    "MapX": 1953.621704,
+    "MapY": 2523.045898
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -73508.539063,
+    "Y": 178204.671875,
+    "Z": -17558.201172,
+    "MapX": 1900.783081,
+    "MapY": 2567.05542
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -72772.640625,
+    "Y": 176507.34375,
+    "Z": -18357.425781,
+    "MapX": 1904.036255,
+    "MapY": 2559.520508
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -74995.0625,
+    "Y": 176458.21875,
+    "Z": -14471.212891,
+    "MapX": 1894.211914,
+    "MapY": 2559.302246
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -75878.632813,
+    "Y": 174277.484375,
+    "Z": -14470.589844,
+    "MapX": 1890.306152,
+    "MapY": 2549.621338
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -74970.320313,
+    "Y": 176322.21875,
+    "Z": -14404.15625,
+    "MapX": 1894.321289,
+    "MapY": 2558.69873
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -75923.523438,
+    "Y": 174039.21875,
+    "Z": -14507.15332,
+    "MapX": 1890.107666,
+    "MapY": 2548.563721
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -73157.65625,
+    "Y": 178469.96875,
+    "Z": -17506.626953,
+    "MapX": 1902.334106,
+    "MapY": 2568.233154
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -72814.648438,
+    "Y": 174929.96875,
+    "Z": -20148.640625,
+    "MapX": 1903.850342,
+    "MapY": 2552.518066
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -73715.953125,
+    "Y": 171593.03125,
+    "Z": -19273.085938,
+    "MapX": 1899.866333,
+    "MapY": 2537.704346
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -54664.519531,
+    "Y": 57235.492188,
+    "Z": -19560.427734,
+    "MapX": 1984.083008,
+    "MapY": 2030.036377
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -53552.179688,
+    "Y": 58069.035156,
+    "Z": -19837.263672,
+    "MapX": 1989.000244,
+    "MapY": 2033.736572
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -60258.164063,
+    "Y": 41744.035156,
+    "Z": -19246.5625,
+    "MapX": 1959.356445,
+    "MapY": 1961.265015
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -67840.5625,
+    "Y": 54658.703125,
+    "Z": -18709.244141,
+    "MapX": 1925.838379,
+    "MapY": 2018.597168
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -67511.515625,
+    "Y": 55187.175781,
+    "Z": -18733.574219,
+    "MapX": 1927.292969,
+    "MapY": 2020.943115
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -60542.878906,
+    "Y": 61841.90625,
+    "Z": -18993.634766,
+    "MapX": 1958.097778,
+    "MapY": 2050.485596
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -60536.933594,
+    "Y": 64740.417969,
+    "Z": -18033.244141,
+    "MapX": 1958.124023,
+    "MapY": 2063.353027
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -60344.003906,
+    "Y": 63458.222656,
+    "Z": -18516.056641,
+    "MapX": 1958.976929,
+    "MapY": 2057.660889
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -57764.679688,
+    "Y": 34640.285156,
+    "Z": -17232.423828,
+    "MapX": 1970.378906,
+    "MapY": 1929.729248
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -57557.773438,
+    "Y": 35124.511719,
+    "Z": -17199.951172,
+    "MapX": 1971.293457,
+    "MapY": 1931.878906
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -57452.457031,
+    "Y": 42201.261719,
+    "Z": -19259.640625,
+    "MapX": 1971.758911,
+    "MapY": 1963.2948
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -56498.832031,
+    "Y": 45852.875,
+    "Z": -19367.712891,
+    "MapX": 1975.974487,
+    "MapY": 1979.505371
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -59441.808594,
+    "Y": 63699.3125,
+    "Z": -18314.519531,
+    "MapX": 1962.965088,
+    "MapY": 2058.731201
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -46777.402344,
+    "Y": 32814.289063,
+    "Z": -18825.726563,
+    "MapX": 2018.94812,
+    "MapY": 1921.623047
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -46737.300781,
+    "Y": 42898.835938,
+    "Z": -19434.083984,
+    "MapX": 2019.125366,
+    "MapY": 1966.391602
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -43642.355469,
+    "Y": 59186.765625,
+    "Z": -19335.101563,
+    "MapX": 2032.806763,
+    "MapY": 2038.698608
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -44112.140625,
+    "Y": 60501.050781,
+    "Z": -19424.146484,
+    "MapX": 2030.72998,
+    "MapY": 2044.533081
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -40201.636719,
+    "Y": 61829,
+    "Z": -18633.816406,
+    "MapX": 2048.016357,
+    "MapY": 2050.428223
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -39472.609375,
+    "Y": 33638.726563,
+    "Z": -17145.130859,
+    "MapX": 2051.23877,
+    "MapY": 1925.283081
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -30505.257813,
+    "Y": 41815.671875,
+    "Z": -16851.050781,
+    "MapX": 2090.879395,
+    "MapY": 1961.583008
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -30495.40625,
+    "Y": 44639.105469,
+    "Z": -17036.917969,
+    "MapX": 2090.922852,
+    "MapY": 1974.117065
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -30337.685547,
+    "Y": 43390.425781,
+    "Z": -16934.580078,
+    "MapX": 2091.619873,
+    "MapY": 1968.57373
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -34838.199219,
+    "Y": 55834.953125,
+    "Z": -18802.736328,
+    "MapX": 2071.725586,
+    "MapY": 2023.818848
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -34334.863281,
+    "Y": 54196.679688,
+    "Z": -19148.314453,
+    "MapX": 2073.950439,
+    "MapY": 2016.546143
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -33359.566406,
+    "Y": 57037.539063,
+    "Z": -18288.832031,
+    "MapX": 2078.261719,
+    "MapY": 2029.157471
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -36475.261719,
+    "Y": 64156.113281,
+    "Z": -18302.328125,
+    "MapX": 2064.48877,
+    "MapY": 2060.759033
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -29440.316406,
+    "Y": 53599.277344,
+    "Z": -18214.21875,
+    "MapX": 2095.586914,
+    "MapY": 2013.894043
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -59161.441406,
+    "Y": 52482.375,
+    "Z": -19707.142578,
+    "MapX": 1964.204468,
+    "MapY": 2008.935791
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -60024.554688,
+    "Y": 46154.542969,
+    "Z": -19090.404297,
+    "MapX": 1960.389038,
+    "MapY": 1980.844482
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -61944.167969,
+    "Y": 45909.097656,
+    "Z": -19076.509766,
+    "MapX": 1951.903442,
+    "MapY": 1979.755005
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -61255.007813,
+    "Y": 45020.613281,
+    "Z": -19106.412109,
+    "MapX": 1954.949951,
+    "MapY": 1975.810791
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -57650.214844,
+    "Y": 36668.21875,
+    "Z": -17958.255859,
+    "MapX": 1970.884766,
+    "MapY": 1938.731934
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -56990.851563,
+    "Y": 39946.65625,
+    "Z": -19184.185547,
+    "MapX": 1973.799561,
+    "MapY": 1953.285889
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -56153.335938,
+    "Y": 38634.222656,
+    "Z": -19267.863281,
+    "MapX": 1977.501831,
+    "MapY": 1947.459473
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -43650.070313,
+    "Y": 35665.003906,
+    "Z": -19379.330078,
+    "MapX": 2032.772583,
+    "MapY": 1934.27832
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -44431.488281,
+    "Y": 42350.496094,
+    "Z": -19689.84375,
+    "MapX": 2029.318237,
+    "MapY": 1963.957275
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -41981.261719,
+    "Y": 45045.410156,
+    "Z": -19617.359375,
+    "MapX": 2040.149536,
+    "MapY": 1975.920898
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -41403.03125,
+    "Y": 43576.253906,
+    "Z": -19825.556641,
+    "MapX": 2042.705566,
+    "MapY": 1969.398804
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -35654.429688,
+    "Y": 47698.570313,
+    "Z": -19291.431641,
+    "MapX": 2068.117188,
+    "MapY": 1987.698975
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -32396.085938,
+    "Y": 48094.835938,
+    "Z": -17406.740234,
+    "MapX": 2082.520752,
+    "MapY": 1989.45813
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -30116.470703,
+    "Y": 56239.6875,
+    "Z": -17910.513672,
+    "MapX": 2092.597656,
+    "MapY": 2025.615601
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -38413.402344,
+    "Y": 50850.867188,
+    "Z": -19486.720703,
+    "MapX": 2055.921143,
+    "MapY": 2001.692993
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -37533.15625,
+    "Y": 50814.40625,
+    "Z": -19648.453125,
+    "MapX": 2059.812256,
+    "MapY": 2001.531128
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -37213.46875,
+    "Y": 52010.015625,
+    "Z": -19524.119141,
+    "MapX": 2061.225586,
+    "MapY": 2006.838867
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -43288.035156,
+    "Y": 56811.917969,
+    "Z": -19446.158203,
+    "MapX": 2034.372925,
+    "MapY": 2028.156006
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -48858.714844,
+    "Y": 63963.550781,
+    "Z": -19077.679688,
+    "MapX": 2009.747681,
+    "MapY": 2059.904297
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -36233.125,
+    "Y": -60855.566406,
+    "Z": -19071.886719,
+    "MapX": 2065.559082,
+    "MapY": 1505.794067
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -33119.507813,
+    "Y": -57595.726563,
+    "Z": -18456.9375,
+    "MapX": 2079.322998,
+    "MapY": 1520.265503
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -37388.910156,
+    "Y": -49641.164063,
+    "Z": -18850.201172,
+    "MapX": 2060.450195,
+    "MapY": 1555.578247
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -41024.550781,
+    "Y": -56563.769531,
+    "Z": -19023.375,
+    "MapX": 2044.37854,
+    "MapY": 1524.846558
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -41239.855469,
+    "Y": -57057.234375,
+    "Z": -18987.830078,
+    "MapX": 2043.427002,
+    "MapY": 1522.655884
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -38065.871094,
+    "Y": -62999.082031,
+    "Z": -19018.539063,
+    "MapX": 2057.45752,
+    "MapY": 1496.27832
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -42086.058594,
+    "Y": -63645.488281,
+    "Z": -17854.515625,
+    "MapX": 2039.686279,
+    "MapY": 1493.408691
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -32738.779297,
+    "Y": -53196.785156,
+    "Z": -18896.181641,
+    "MapX": 2081.005859,
+    "MapY": 1539.793701
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": -34251.710938,
+    "Y": -50335.03125,
+    "Z": -18905.099609,
+    "MapX": 2074.317871,
+    "MapY": 1552.497925
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 38875.417969,
+    "Y": 73228.6875,
+    "Z": -18969.75,
+    "MapX": 2397.57666,
+    "MapY": 2101.034912
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 40328.890625,
+    "Y": 73321.265625,
+    "Z": -18960.287109,
+    "MapX": 2404.001709,
+    "MapY": 2101.445801
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 37412.3125,
+    "Y": 69158.085938,
+    "Z": -18988.347656,
+    "MapX": 2391.108887,
+    "MapY": 2082.964355
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 42058.792969,
+    "Y": 65500.21875,
+    "Z": -19202.248047,
+    "MapX": 2411.648926,
+    "MapY": 2066.726074
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 38533.617188,
+    "Y": 66470.523438,
+    "Z": -18542.544922,
+    "MapX": 2396.065674,
+    "MapY": 2071.033447
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 72893.765625,
+    "Y": 115087.96875,
+    "Z": -12501.549805,
+    "MapX": 2547.954834,
+    "MapY": 2286.861084
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 73474.710938,
+    "Y": 114735.617188,
+    "Z": -12521.757813,
+    "MapX": 2550.522949,
+    "MapY": 2285.296875
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 77565.851563,
+    "Y": 111679.96875,
+    "Z": -11422.268555,
+    "MapX": 2568.60791,
+    "MapY": 2271.731934
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 77623.4375,
+    "Y": 111947.039063,
+    "Z": -11440.728516,
+    "MapX": 2568.862305,
+    "MapY": 2272.91748
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 67211.5625,
+    "Y": 107510.75,
+    "Z": -12152.666992,
+    "MapX": 2522.83667,
+    "MapY": 2253.223633
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 66557.117188,
+    "Y": 107842.234375,
+    "Z": -12287.232422,
+    "MapX": 2519.943848,
+    "MapY": 2254.695068
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 66028.84375,
+    "Y": 107775.148438,
+    "Z": -12412.386719,
+    "MapX": 2517.608398,
+    "MapY": 2254.397217
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 66369.109375,
+    "Y": 112692.851563,
+    "Z": -12834.478516,
+    "MapX": 2519.112793,
+    "MapY": 2276.228516
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 74892.054688,
+    "Y": 74968.460938,
+    "Z": -19145.064453,
+    "MapX": 2556.788574,
+    "MapY": 2108.758301
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 75282.453125,
+    "Y": 70152.976563,
+    "Z": -19131.474609,
+    "MapX": 2558.513916,
+    "MapY": 2087.380859
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 75747.015625,
+    "Y": 69689.65625,
+    "Z": -19068.410156,
+    "MapX": 2560.567627,
+    "MapY": 2085.324219
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 74968.84375,
+    "Y": 68270.828125,
+    "Z": -19083.517578,
+    "MapX": 2557.12793,
+    "MapY": 2079.025391
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 71455.703125,
+    "Y": 66051.523438,
+    "Z": -19071.640625,
+    "MapX": 2541.5979,
+    "MapY": 2069.17334
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 71889.195313,
+    "Y": 66465.734375,
+    "Z": -19137.419922,
+    "MapX": 2543.51416,
+    "MapY": 2071.012207
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 78664.546875,
+    "Y": 68305,
+    "Z": -18409.238281,
+    "MapX": 2573.464844,
+    "MapY": 2079.177246
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 78283.984375,
+    "Y": 66658.96875,
+    "Z": -18563.505859,
+    "MapX": 2571.782471,
+    "MapY": 2071.870117
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 64355.882813,
+    "Y": 74046.765625,
+    "Z": -19149.417969,
+    "MapX": 2510.213135,
+    "MapY": 2104.666504
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 71571.984375,
+    "Y": 85835.15625,
+    "Z": -19117.994141,
+    "MapX": 2542.112061,
+    "MapY": 2156.999023
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 62351.273438,
+    "Y": 87765.171875,
+    "Z": -19125.21875,
+    "MapX": 2501.351807,
+    "MapY": 2165.566895
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 70635.515625,
+    "Y": 112120.875,
+    "Z": -12370.081055,
+    "MapX": 2537.972168,
+    "MapY": 2273.689209
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 70847.820313,
+    "Y": 112927.859375,
+    "Z": -12341.570313,
+    "MapX": 2538.910645,
+    "MapY": 2277.271729
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 79047.632813,
+    "Y": 104019.476563,
+    "Z": -10009.929688,
+    "MapX": 2575.158203,
+    "MapY": 2237.724609
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 80633.414063,
+    "Y": -1691.24292,
+    "Z": -18969.007813,
+    "MapX": 2582.167969,
+    "MapY": 1768.442505
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 81330.921875,
+    "Y": -3133.807617,
+    "Z": -19029.091797,
+    "MapX": 2585.251465,
+    "MapY": 1762.038574
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 85186.195313,
+    "Y": 6743.077148,
+    "Z": -14947.445313,
+    "MapX": 2602.293701,
+    "MapY": 1805.88501
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 86021.328125,
+    "Y": 220.869873,
+    "Z": -18991.046875,
+    "MapX": 2605.985107,
+    "MapY": 1776.93103
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 87886.554688,
+    "Y": 215.371948,
+    "Z": -17879.402344,
+    "MapX": 2614.230469,
+    "MapY": 1776.906616
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 93093.726563,
+    "Y": -5856.588379,
+    "Z": -15979.999023,
+    "MapX": 2637.248779,
+    "MapY": 1749.951294
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 85727.851563,
+    "Y": -6071.40332,
+    "Z": -19013.130859,
+    "MapX": 2604.687988,
+    "MapY": 1748.997681
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 85172.078125,
+    "Y": -6459.356934,
+    "Z": -18378.005859,
+    "MapX": 2602.231201,
+    "MapY": 1747.275391
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 82428.210938,
+    "Y": -3752.013672,
+    "Z": -18961.595703,
+    "MapX": 2590.102051,
+    "MapY": 1759.294189
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 85029.546875,
+    "Y": 1442.97644,
+    "Z": -19003.478516,
+    "MapX": 2601.601318,
+    "MapY": 1782.356201
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 84806.96875,
+    "Y": 7158.750977,
+    "Z": -14943.829102,
+    "MapX": 2600.617188,
+    "MapY": 1807.730347
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 88093.664063,
+    "Y": 3199.880859,
+    "Z": -15209.603516,
+    "MapX": 2615.14624,
+    "MapY": 1790.155762
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 91380.085938,
+    "Y": -4703.980957,
+    "Z": -17519.244141,
+    "MapX": 2629.673828,
+    "MapY": 1755.068115
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 93865.1875,
+    "Y": -6424.379883,
+    "Z": -15995.938477,
+    "MapX": 2640.65918,
+    "MapY": 1747.430664
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 174155.40625,
+    "Y": 119540.265625,
+    "Z": -19902.126953,
+    "MapX": 2995.582031,
+    "MapY": 2306.626221
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 178920.609375,
+    "Y": 114556.9375,
+    "Z": -19473.882813,
+    "MapX": 3016.646729,
+    "MapY": 2284.503662
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 172318.015625,
+    "Y": 118966.929688,
+    "Z": -19825.261719,
+    "MapX": 2987.459961,
+    "MapY": 2304.081055
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 178085.78125,
+    "Y": 112800.367188,
+    "Z": -19686.228516,
+    "MapX": 3012.956299,
+    "MapY": 2276.705811
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 170343.171875,
+    "Y": 119377.085938,
+    "Z": -19206.576172,
+    "MapX": 2978.730225,
+    "MapY": 2305.901855
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 178746.5,
+    "Y": 118162.367188,
+    "Z": -19257.101563,
+    "MapX": 3015.877197,
+    "MapY": 2300.509277
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 178096.390625,
+    "Y": 119457.59375,
+    "Z": -19012.464844,
+    "MapX": 3013.003418,
+    "MapY": 2306.259277
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 178182.3125,
+    "Y": 119180.734375,
+    "Z": -19034.613281,
+    "MapX": 3013.383057,
+    "MapY": 2305.030273
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 178114.421875,
+    "Y": 113149.171875,
+    "Z": -19644.195313,
+    "MapX": 3013.083252,
+    "MapY": 2278.25415
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 169996.296875,
+    "Y": 117130.023438,
+    "Z": -19797.337891,
+    "MapX": 2977.197021,
+    "MapY": 2295.92627
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 126944.75,
+    "Y": 84199.773438,
+    "Z": -19298.013672,
+    "MapX": 2786.887451,
+    "MapY": 2149.739014
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 126225.289063,
+    "Y": 83428.507813,
+    "Z": -19259.431641,
+    "MapX": 2783.707031,
+    "MapY": 2146.314941
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 185966.671875,
+    "Y": 10328.933594,
+    "Z": -18829.470703,
+    "MapX": 3047.793945,
+    "MapY": 1821.803833
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 185812.125,
+    "Y": 10683.905273,
+    "Z": -18872.707031,
+    "MapX": 3047.11084,
+    "MapY": 1823.379639
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 183951.234375,
+    "Y": 1858.110962,
+    "Z": -18764.767578,
+    "MapX": 3038.884766,
+    "MapY": 1784.199219
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 131799.0625,
+    "Y": 93987.625,
+    "Z": -20784.400391,
+    "MapX": 2808.345947,
+    "MapY": 2193.190186
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 130119.023438,
+    "Y": 93786.140625,
+    "Z": -19819.15625,
+    "MapX": 2800.919189,
+    "MapY": 2192.295898
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 134651.09375,
+    "Y": 93277.4375,
+    "Z": -20101.371094,
+    "MapX": 2820.953369,
+    "MapY": 2190.037598
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 134118.203125,
+    "Y": 93160.53125,
+    "Z": -20092.761719,
+    "MapX": 2818.597656,
+    "MapY": 2189.518555
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 135981.84375,
+    "Y": 95544.304688,
+    "Z": -20793.580078,
+    "MapX": 2826.835938,
+    "MapY": 2200.10083
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 131570.640625,
+    "Y": 97277.617188,
+    "Z": -20732.683594,
+    "MapX": 2807.336182,
+    "MapY": 2207.795654
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 172470.421875,
+    "Y": 49431.707031,
+    "Z": -20697.613281,
+    "MapX": 2988.133789,
+    "MapY": 1995.392822
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 171967.828125,
+    "Y": 50359.421875,
+    "Z": -20071.072266,
+    "MapX": 2985.912109,
+    "MapY": 1999.511353
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 172657.578125,
+    "Y": 55063.570313,
+    "Z": -20692.226563,
+    "MapX": 2988.960938,
+    "MapY": 2020.394531
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 172433.421875,
+    "Y": 56566.121094,
+    "Z": -20701.222656,
+    "MapX": 2987.970215,
+    "MapY": 2027.064697
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 172474.78125,
+    "Y": 52583.050781,
+    "Z": -20696.685547,
+    "MapX": 2988.153076,
+    "MapY": 2009.38269
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 173813.890625,
+    "Y": 51509.679688,
+    "Z": -20693.488281,
+    "MapX": 2994.07251,
+    "MapY": 2004.617676
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 174215.8125,
+    "Y": 49031.820313,
+    "Z": -20691.373047,
+    "MapX": 2995.849121,
+    "MapY": 1993.617676
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 183985.84375,
+    "Y": 2635.11084,
+    "Z": -18816.126953,
+    "MapX": 3039.037842,
+    "MapY": 1787.64856
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 184002.15625,
+    "Y": 2083.128906,
+    "Z": -18748.65625,
+    "MapX": 3039.109619,
+    "MapY": 1785.19812
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 184192.53125,
+    "Y": 2261.534668,
+    "Z": -18780.753906,
+    "MapX": 3039.951172,
+    "MapY": 1785.990112
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 130820.578125,
+    "Y": 94584.03125,
+    "Z": -20640.105469,
+    "MapX": 2804.020508,
+    "MapY": 2195.837891
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 134748.0625,
+    "Y": 94601.585938,
+    "Z": -20813.908203,
+    "MapX": 2821.381836,
+    "MapY": 2195.915771
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 133736.59375,
+    "Y": 94420.117188,
+    "Z": -21148.634766,
+    "MapX": 2816.910889,
+    "MapY": 2195.110352
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 135978.03125,
+    "Y": 96885.132813,
+    "Z": -20970.898438,
+    "MapX": 2826.819092,
+    "MapY": 2206.053223
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 136862.515625,
+    "Y": 97381.296875,
+    "Z": -20870.166016,
+    "MapX": 2830.729004,
+    "MapY": 2208.255859
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 136207.703125,
+    "Y": 95417.367188,
+    "Z": -20772.021484,
+    "MapX": 2827.834229,
+    "MapY": 2199.537354
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 135894.90625,
+    "Y": 95602.945313,
+    "Z": -20791.058594,
+    "MapX": 2826.451416,
+    "MapY": 2200.361084
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 174271.890625,
+    "Y": 53378.511719,
+    "Z": -20698.15625,
+    "MapX": 2996.096924,
+    "MapY": 2012.914063
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 174244.890625,
+    "Y": 52764.703125,
+    "Z": -20682.220703,
+    "MapX": 2995.977783,
+    "MapY": 2010.189087
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 183554.03125,
+    "Y": -248.925659,
+    "Z": -18826.023438,
+    "MapX": 3037.128662,
+    "MapY": 1774.845459
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 167718.65625,
+    "Y": -81302.601563,
+    "Z": -12077.976563,
+    "MapX": 2967.128418,
+    "MapY": 1415.023438
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 166345.125,
+    "Y": -81407.859375,
+    "Z": -12085.327148,
+    "MapX": 2961.056885,
+    "MapY": 1414.556152
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 164385.046875,
+    "Y": -79417.382813,
+    "Z": -11940.413086,
+    "MapX": 2952.392334,
+    "MapY": 1423.392578
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 163364.296875,
+    "Y": -78731.539063,
+    "Z": -11969.331055,
+    "MapX": 2947.880371,
+    "MapY": 1426.437134
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 164061.734375,
+    "Y": -77159.828125,
+    "Z": -12506.911133,
+    "MapX": 2950.963379,
+    "MapY": 1433.414551
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 171734.75,
+    "Y": -70915.679688,
+    "Z": -11952.219727,
+    "MapX": 2984.881592,
+    "MapY": 1461.134155
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 170548.015625,
+    "Y": -69784.320313,
+    "Z": -12125.171875,
+    "MapX": 2979.635742,
+    "MapY": 1466.156616
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 167818.953125,
+    "Y": -80962.328125,
+    "Z": -12064.220703,
+    "MapX": 2967.571777,
+    "MapY": 1416.534058
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 166155.09375,
+    "Y": -81522.921875,
+    "Z": -12222.389648,
+    "MapX": 2960.217041,
+    "MapY": 1414.045288
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 171438.765625,
+    "Y": -71204.757813,
+    "Z": -11921.245117,
+    "MapX": 2983.573242,
+    "MapY": 1459.850952
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 172074.09375,
+    "Y": -70080.71875,
+    "Z": -11929.454102,
+    "MapX": 2986.381836,
+    "MapY": 1464.84082
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 254260.75,
+    "Y": 102514.640625,
+    "Z": -10838.717773,
+    "MapX": 3349.688232,
+    "MapY": 2231.044189
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 253881.515625,
+    "Y": 102149.09375,
+    "Z": -10681.853516,
+    "MapX": 3348.011719,
+    "MapY": 2229.421387
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 249965.8125,
+    "Y": 102670.421875,
+    "Z": -9918.648438,
+    "MapX": 3330.702393,
+    "MapY": 2231.73584
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 248821.203125,
+    "Y": 104169.921875,
+    "Z": -11252.103516,
+    "MapX": 3325.642578,
+    "MapY": 2238.392578
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 249112.09375,
+    "Y": 102225.835938,
+    "Z": -10788.634766,
+    "MapX": 3326.928711,
+    "MapY": 2229.762207
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 249856.453125,
+    "Y": 105103.34375,
+    "Z": -10899.818359,
+    "MapX": 3330.218994,
+    "MapY": 2242.536133
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 251294.015625,
+    "Y": 106900.023438,
+    "Z": -11223.255859,
+    "MapX": 3336.573486,
+    "MapY": 2250.512207
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 251701.140625,
+    "Y": 108351.53125,
+    "Z": -12012.231445,
+    "MapX": 3338.373291,
+    "MapY": 2256.956055
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 248960.515625,
+    "Y": 102755.9375,
+    "Z": -10858.665039,
+    "MapX": 3326.258301,
+    "MapY": 2232.115479
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 249909.46875,
+    "Y": 102012.234375,
+    "Z": -10544.279297,
+    "MapX": 3330.453369,
+    "MapY": 2228.813965
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 248621.65625,
+    "Y": 104470.046875,
+    "Z": -11311.65625,
+    "MapX": 3324.760498,
+    "MapY": 2239.724854
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 249825.21875,
+    "Y": 106990.84375,
+    "Z": -11222.734375,
+    "MapX": 3330.081055,
+    "MapY": 2250.915527
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 250473.53125,
+    "Y": 106569.351563,
+    "Z": -11184.273438,
+    "MapX": 3332.946777,
+    "MapY": 2249.044434
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 250872.984375,
+    "Y": 106893.53125,
+    "Z": -11274.746094,
+    "MapX": 3334.712646,
+    "MapY": 2250.483398
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 228731.84375,
+    "Y": -71638.101563,
+    "Z": -17288.294922,
+    "MapX": 3236.837646,
+    "MapY": 1457.927124
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 229477.3125,
+    "Y": -70003.640625,
+    "Z": -17269.640625,
+    "MapX": 3240.132813,
+    "MapY": 1465.182983
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 233645.90625,
+    "Y": -72901.070313,
+    "Z": -17199.277344,
+    "MapX": 3258.560059,
+    "MapY": 1452.320435
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 240361.5625,
+    "Y": -70803.304688,
+    "Z": -17222.683594,
+    "MapX": 3288.246826,
+    "MapY": 1461.632935
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 242220.625,
+    "Y": -70144.71875,
+    "Z": -17212.824219,
+    "MapX": 3296.4646,
+    "MapY": 1464.556641
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 239911.71875,
+    "Y": -67512.882813,
+    "Z": -17204.482422,
+    "MapX": 3286.258301,
+    "MapY": 1476.240234
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 239838.109375,
+    "Y": -67990.671875,
+    "Z": -17212.091797,
+    "MapX": 3285.932861,
+    "MapY": 1474.119141
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 244493,
+    "Y": -65656.898438,
+    "Z": -17208.384766,
+    "MapX": 3306.509766,
+    "MapY": 1484.47937
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 276804.21875,
+    "Y": -94596.265625,
+    "Z": -19100.021484,
+    "MapX": 3449.341797,
+    "MapY": 1356.008789
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 276488.25,
+    "Y": -93128.375,
+    "Z": -19105.705078,
+    "MapX": 3447.944824,
+    "MapY": 1362.525146
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 274387.34375,
+    "Y": -95332.15625,
+    "Z": -18456.447266,
+    "MapX": 3438.657959,
+    "MapY": 1352.741943
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 279221.625,
+    "Y": -96110.257813,
+    "Z": -19103.175781,
+    "MapX": 3460.027832,
+    "MapY": 1349.287842
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 284637.375,
+    "Y": -92763.515625,
+    "Z": -19030.878906,
+    "MapX": 3483.968262,
+    "MapY": 1364.14502
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 284742.3125,
+    "Y": -96024.210938,
+    "Z": -19087.8125,
+    "MapX": 3484.431885,
+    "MapY": 1349.669678
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 263833.28125,
+    "Y": -105896.046875,
+    "Z": -18451.025391,
+    "MapX": 3392.003418,
+    "MapY": 1305.845581
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 263635.59375,
+    "Y": -106436.9375,
+    "Z": -18482.115234,
+    "MapX": 3391.129883,
+    "MapY": 1303.444458
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 96002.109375,
+    "Y": 13734.860352,
+    "Z": -16136.263672,
+    "MapX": 2650.105469,
+    "MapY": 1836.923706
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 95926.1875,
+    "Y": 13463.639648,
+    "Z": -16139.541992,
+    "MapX": 2649.769775,
+    "MapY": 1835.719727
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 95688.429688,
+    "Y": 13979.393555,
+    "Z": -16140.674805,
+    "MapX": 2648.71875,
+    "MapY": 1838.009277
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 32579.679688,
+    "Y": -19468.480469,
+    "Z": -15675.587891,
+    "MapX": 2369.746338,
+    "MapY": 1689.523926
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 32129.902344,
+    "Y": -20017.947266,
+    "Z": -15655.124023,
+    "MapX": 2367.758301,
+    "MapY": 1687.084717
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 97072.742188,
+    "Y": -72455.679688,
+    "Z": -19904.425781,
+    "MapX": 2654.838135,
+    "MapY": 1454.297607
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 97207.109375,
+    "Y": -72387.617188,
+    "Z": -19888.996094,
+    "MapX": 2655.432129,
+    "MapY": 1454.599731
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 96609.148438,
+    "Y": -72504.382813,
+    "Z": -19923.273438,
+    "MapX": 2652.788818,
+    "MapY": 1454.081421
+  },
+  {
+    "Material": "Brimstone_Normal",
+    "Mesh": "SM_cave_stalactite_01_Siptah",
+    "X": 97127.203125,
+    "Y": -72087.078125,
+    "Z": -19926.837891,
+    "MapX": 2655.078613,
+    "MapY": 1455.93396
+  }
+]

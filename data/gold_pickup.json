@@ -1,0 +1,6545 @@
+[
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327974.9375,
+    "Y": 67607.820313,
+    "Z": -12252.280273,
+    "MapX": 775.913696,
+    "MapY": 2076.082275
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327434.53125,
+    "Y": 66976.210938,
+    "Z": -12807.447266,
+    "MapX": 778.30249,
+    "MapY": 2073.27832
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327411.09375,
+    "Y": 66926.054688,
+    "Z": -12827.112305,
+    "MapX": 778.406128,
+    "MapY": 2073.055664
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327370.375,
+    "Y": 66942.34375,
+    "Z": -12835.188477,
+    "MapX": 778.586121,
+    "MapY": 2073.12793
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327368.96875,
+    "Y": 66768.507813,
+    "Z": -12892.859375,
+    "MapX": 778.592346,
+    "MapY": 2072.356201
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327343.53125,
+    "Y": 67012.546875,
+    "Z": -12826.724609,
+    "MapX": 778.704834,
+    "MapY": 2073.439697
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327321.25,
+    "Y": 66913.773438,
+    "Z": -12861.44043,
+    "MapX": 778.803284,
+    "MapY": 2073.001221
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327310.65625,
+    "Y": 67123.5625,
+    "Z": -12814.295898,
+    "MapX": 778.850098,
+    "MapY": 2073.932373
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -327307.46875,
+    "Y": 67050.3125,
+    "Z": -12832.65625,
+    "MapX": 778.864197,
+    "MapY": 2073.607178
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324797.125,
+    "Y": 68056.351563,
+    "Z": -13246.600586,
+    "MapX": 789.961182,
+    "MapY": 2078.073242
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324755.5,
+    "Y": 68289.84375,
+    "Z": -13231.263672,
+    "MapX": 790.145203,
+    "MapY": 2079.109863
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324679.03125,
+    "Y": 68100,
+    "Z": -13246.131836,
+    "MapX": 790.483215,
+    "MapY": 2078.26709
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324609.03125,
+    "Y": 68647.007813,
+    "Z": -13168.90918,
+    "MapX": 790.792664,
+    "MapY": 2080.695557
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324600,
+    "Y": 68500,
+    "Z": -13208.59375,
+    "MapX": 790.832581,
+    "MapY": 2080.042969
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324600,
+    "Y": 68179.835938,
+    "Z": -13246.100586,
+    "MapX": 790.832581,
+    "MapY": 2078.621582
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324545.84375,
+    "Y": 68640.117188,
+    "Z": -13179.919922,
+    "MapX": 791.072021,
+    "MapY": 2080.665039
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324518.1875,
+    "Y": 68310.023438,
+    "Z": -13245.643555,
+    "MapX": 791.194214,
+    "MapY": 2079.199463
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324511.125,
+    "Y": 68551,
+    "Z": -13210.230469,
+    "MapX": 791.225464,
+    "MapY": 2080.269287
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324485.25,
+    "Y": 68495.96875,
+    "Z": -13227.641602,
+    "MapX": 791.339844,
+    "MapY": 2080.024902
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -324108.125,
+    "Y": 69193.539063,
+    "Z": -12995.416992,
+    "MapX": 793.006958,
+    "MapY": 2083.121582
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -233542.515625,
+    "Y": 180916.703125,
+    "Z": -20384.087891,
+    "MapX": 1193.352417,
+    "MapY": 2579.094971
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -233616.359375,
+    "Y": 180940.21875,
+    "Z": -20407.664063,
+    "MapX": 1193.026001,
+    "MapY": 2579.199219
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -233663.203125,
+    "Y": 181100,
+    "Z": -20413.947266,
+    "MapX": 1192.81897,
+    "MapY": 2579.908691
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -233753.53125,
+    "Y": 180907.09375,
+    "Z": -20432.753906,
+    "MapX": 1192.419678,
+    "MapY": 2579.052246
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -233772.640625,
+    "Y": 180966.375,
+    "Z": -20434.943359,
+    "MapX": 1192.335205,
+    "MapY": 2579.31543
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254809.40625,
+    "Y": 118055.1875,
+    "Z": -16238.499023,
+    "MapX": 1099.342041,
+    "MapY": 2300.033447
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254763.3125,
+    "Y": 118289.109375,
+    "Z": -16264.056641,
+    "MapX": 1099.545898,
+    "MapY": 2301.071777
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254692.078125,
+    "Y": 118095.953125,
+    "Z": -16320.324219,
+    "MapX": 1099.86084,
+    "MapY": 2300.214355
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254615.34375,
+    "Y": 118643.117188,
+    "Z": -16332.996094,
+    "MapX": 1100.199951,
+    "MapY": 2302.643555
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254611.96875,
+    "Y": 118500,
+    "Z": -16347.208008,
+    "MapX": 1100.214844,
+    "MapY": 2302.008301
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254600,
+    "Y": 118180.148438,
+    "Z": -16376.242188,
+    "MapX": 1100.267822,
+    "MapY": 2300.588135
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254551.265625,
+    "Y": 118636.257813,
+    "Z": -16373.241211,
+    "MapX": 1100.483154,
+    "MapY": 2302.613037
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254523.453125,
+    "Y": 118309.46875,
+    "Z": -16414.132813,
+    "MapX": 1100.606201,
+    "MapY": 2301.162354
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254516.328125,
+    "Y": 118548.875,
+    "Z": -16401.203125,
+    "MapX": 1100.637695,
+    "MapY": 2302.225098
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254500,
+    "Y": 118493.195313,
+    "Z": -16415.322266,
+    "MapX": 1100.709839,
+    "MapY": 2301.978027
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254159.96875,
+    "Y": 119060.25,
+    "Z": -16610.822266,
+    "MapX": 1102.212891,
+    "MapY": 2304.495117
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254113.625,
+    "Y": 119179.09375,
+    "Z": -16652.025391,
+    "MapX": 1102.417725,
+    "MapY": 2305.022949
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254089.921875,
+    "Y": 119070.335938,
+    "Z": -16663.988281,
+    "MapX": 1102.522583,
+    "MapY": 2304.540039
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254078.9375,
+    "Y": 119343.390625,
+    "Z": -16680.625,
+    "MapX": 1102.571167,
+    "MapY": 2305.752197
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253024.734375,
+    "Y": 121415.5,
+    "Z": -17210.023438,
+    "MapX": 1107.231201,
+    "MapY": 2314.950928
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252965.8125,
+    "Y": 121159.617188,
+    "Z": -17329.138672,
+    "MapX": 1107.491699,
+    "MapY": 2313.814941
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252927.4375,
+    "Y": 121172.5625,
+    "Z": -17356.089844,
+    "MapX": 1107.661377,
+    "MapY": 2313.872559
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252899.078125,
+    "Y": 121257.921875,
+    "Z": -17358.117188,
+    "MapX": 1107.786743,
+    "MapY": 2314.251465
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252838.3125,
+    "Y": 121245.0625,
+    "Z": -17399.234375,
+    "MapX": 1108.05542,
+    "MapY": 2314.194336
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252828.75,
+    "Y": 121300,
+    "Z": -17393.857422,
+    "MapX": 1108.097656,
+    "MapY": 2314.438232
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252720.734375,
+    "Y": 121262.953125,
+    "Z": -17460.490234,
+    "MapX": 1108.575073,
+    "MapY": 2314.273682
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252656.421875,
+    "Y": 121143.578125,
+    "Z": -17498.271484,
+    "MapX": 1108.859375,
+    "MapY": 2313.743652
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252608.8125,
+    "Y": 121159.273438,
+    "Z": -17517.369141,
+    "MapX": 1109.069824,
+    "MapY": 2313.813477
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252556.390625,
+    "Y": 121200,
+    "Z": -17539.054688,
+    "MapX": 1109.301514,
+    "MapY": 2313.994141
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254245.484375,
+    "Y": 16775.271484,
+    "Z": -18353.943359,
+    "MapX": 1101.834961,
+    "MapY": 1850.421021
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254111.578125,
+    "Y": 16788.423828,
+    "Z": -18345.960938,
+    "MapX": 1102.42688,
+    "MapY": 1850.479492
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254025.953125,
+    "Y": 18082.474609,
+    "Z": -16434.3125,
+    "MapX": 1102.80542,
+    "MapY": 1856.224121
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -254025.078125,
+    "Y": 18018.896484,
+    "Z": -16451.662109,
+    "MapX": 1102.809326,
+    "MapY": 1855.941895
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253984.140625,
+    "Y": 16638.423828,
+    "Z": -18395.34375,
+    "MapX": 1102.990234,
+    "MapY": 1849.813477
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253939.15625,
+    "Y": 16960.847656,
+    "Z": -18268.345703,
+    "MapX": 1103.188965,
+    "MapY": 1851.244873
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253898.3125,
+    "Y": 18146.037109,
+    "Z": -16451.640625,
+    "MapX": 1103.369629,
+    "MapY": 1856.506348
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253338.8125,
+    "Y": 17531.998047,
+    "Z": -18040.814453,
+    "MapX": 1105.842773,
+    "MapY": 1853.780396
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253335.171875,
+    "Y": 18190.503906,
+    "Z": -16686.3125,
+    "MapX": 1105.858887,
+    "MapY": 1856.703613
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253290.34375,
+    "Y": 18306.181641,
+    "Z": -16698.974609,
+    "MapX": 1106.057129,
+    "MapY": 1857.217285
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253284.078125,
+    "Y": 18394.970703,
+    "Z": -16690.146484,
+    "MapX": 1106.084839,
+    "MapY": 1857.611328
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -253220.25,
+    "Y": 17579.742188,
+    "Z": -17982.916016,
+    "MapX": 1106.366943,
+    "MapY": 1853.992432
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252092.90625,
+    "Y": 17118.359375,
+    "Z": -17814.449219,
+    "MapX": 1111.350342,
+    "MapY": 1851.944092
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252052.03125,
+    "Y": 17256.636719,
+    "Z": -17719.521484,
+    "MapX": 1111.531006,
+    "MapY": 1852.558105
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252025.5625,
+    "Y": 17210.136719,
+    "Z": -17754.335938,
+    "MapX": 1111.648193,
+    "MapY": 1852.351563
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -252007.875,
+    "Y": 17117.117188,
+    "Z": -17818.527344,
+    "MapX": 1111.726318,
+    "MapY": 1851.938599
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251952.796875,
+    "Y": 17215.576172,
+    "Z": -17751.921875,
+    "MapX": 1111.969727,
+    "MapY": 1852.375732
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251894.90625,
+    "Y": 17045.080078,
+    "Z": -17865.496094,
+    "MapX": 1112.225586,
+    "MapY": 1851.618774
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251638.140625,
+    "Y": 17574.113281,
+    "Z": -17469.71875,
+    "MapX": 1113.360596,
+    "MapY": 1853.967285
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251592.859375,
+    "Y": 17494.521484,
+    "Z": -17536.900391,
+    "MapX": 1113.560791,
+    "MapY": 1853.614014
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251584.0625,
+    "Y": 17715.939453,
+    "Z": -17340.560547,
+    "MapX": 1113.599731,
+    "MapY": 1854.596924
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251575.5625,
+    "Y": 17523.265625,
+    "Z": -17512.044922,
+    "MapX": 1113.637207,
+    "MapY": 1853.741699
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251574.0625,
+    "Y": 17651.052734,
+    "Z": -17400.001953,
+    "MapX": 1113.643921,
+    "MapY": 1854.308838
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251555.28125,
+    "Y": 17446.314453,
+    "Z": -17573.847656,
+    "MapX": 1113.726929,
+    "MapY": 1853.400024
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -251540.609375,
+    "Y": 17336.388672,
+    "Z": -17657.710938,
+    "MapX": 1113.791748,
+    "MapY": 1852.911987
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258211.953125,
+    "Y": -64264.496094,
+    "Z": -16980.355469,
+    "MapX": 1084.301147,
+    "MapY": 1490.660767
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258268.40625,
+    "Y": -64203.574219,
+    "Z": -16962.822266,
+    "MapX": 1084.051514,
+    "MapY": 1490.931274
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258368.984375,
+    "Y": -64357.230469,
+    "Z": -16890.380859,
+    "MapX": 1083.606934,
+    "MapY": 1490.249146
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258433.375,
+    "Y": -64123.789063,
+    "Z": -16918.40625,
+    "MapX": 1083.322266,
+    "MapY": 1491.2854
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258455.765625,
+    "Y": -64199.128906,
+    "Z": -16887.935547,
+    "MapX": 1083.223389,
+    "MapY": 1490.95105
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258520.859375,
+    "Y": -64171.65625,
+    "Z": -16871.697266,
+    "MapX": 1082.935547,
+    "MapY": 1491.072876
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -257839.0625,
+    "Y": -65400,
+    "Z": -17110.644531,
+    "MapX": 1085.949463,
+    "MapY": 1485.619995
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -257900,
+    "Y": -65277.164063,
+    "Z": -17072.589844,
+    "MapX": 1085.680176,
+    "MapY": 1486.165283
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -257980.046875,
+    "Y": -65380.042969,
+    "Z": -17008.089844,
+    "MapX": 1085.326294,
+    "MapY": 1485.708496
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258531.75,
+    "Y": -65400,
+    "Z": -16562.699219,
+    "MapX": 1082.887451,
+    "MapY": 1485.619995
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258556.296875,
+    "Y": -65496.359375,
+    "Z": -16533.607422,
+    "MapX": 1082.779053,
+    "MapY": 1485.192139
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -258595.96875,
+    "Y": -65424.195313,
+    "Z": -16509.880859,
+    "MapX": 1082.603516,
+    "MapY": 1485.512573
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -259849.59375,
+    "Y": -67549.59375,
+    "Z": -14873.038086,
+    "MapX": 1077.062012,
+    "MapY": 1476.077271
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -259885.671875,
+    "Y": -67403,
+    "Z": -14875.069336,
+    "MapX": 1076.902466,
+    "MapY": 1476.727905
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -259900,
+    "Y": -67526.460938,
+    "Z": -14873.070313,
+    "MapX": 1076.839111,
+    "MapY": 1476.179932
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -259929.484375,
+    "Y": -67552.320313,
+    "Z": -14870.018555,
+    "MapX": 1076.70874,
+    "MapY": 1476.065063
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261957.53125,
+    "Y": -58957.53125,
+    "Z": -16403.919922,
+    "MapX": 1067.743774,
+    "MapY": 1514.219971
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262050.171875,
+    "Y": -58900,
+    "Z": -16390.203125,
+    "MapX": 1067.334229,
+    "MapY": 1514.475464
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262068.8125,
+    "Y": -58868.8125,
+    "Z": -16387.048828,
+    "MapX": 1067.251831,
+    "MapY": 1514.613892
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262100,
+    "Y": -58938.578125,
+    "Z": -16378.361328,
+    "MapX": 1067.114014,
+    "MapY": 1514.304199
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262103.921875,
+    "Y": -59003.917969,
+    "Z": -16374.726563,
+    "MapX": 1067.09668,
+    "MapY": 1514.01416
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262127.828125,
+    "Y": -58894.632813,
+    "Z": -16377.292969,
+    "MapX": 1066.990967,
+    "MapY": 1514.499268
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262158.96875,
+    "Y": -58979.542969,
+    "Z": -16370.59375,
+    "MapX": 1066.853271,
+    "MapY": 1514.122314
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262244.9375,
+    "Y": -59044.941406,
+    "Z": -16364.573242,
+    "MapX": 1066.473389,
+    "MapY": 1513.832031
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263384.71875,
+    "Y": -59045.953125,
+    "Z": -13822.583008,
+    "MapX": 1061.434814,
+    "MapY": 1513.827515
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263458.21875,
+    "Y": -58121.132813,
+    "Z": -14699.001953,
+    "MapX": 1061.109985,
+    "MapY": 1517.932983
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263554.5,
+    "Y": -59087.035156,
+    "Z": -13776.142578,
+    "MapX": 1060.684326,
+    "MapY": 1513.645142
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263621.46875,
+    "Y": -59062.707031,
+    "Z": -13767.964844,
+    "MapX": 1060.388428,
+    "MapY": 1513.753052
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263668.84375,
+    "Y": -58899.429688,
+    "Z": -13791.759766,
+    "MapX": 1060.178955,
+    "MapY": 1514.477905
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263774.40625,
+    "Y": -59035.726563,
+    "Z": -13777.224609,
+    "MapX": 1059.71228,
+    "MapY": 1513.872925
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263812.09375,
+    "Y": -58769.96875,
+    "Z": -13774.738281,
+    "MapX": 1059.545654,
+    "MapY": 1515.052612
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263862.65625,
+    "Y": -58815.230469,
+    "Z": -13775.285156,
+    "MapX": 1059.322266,
+    "MapY": 1514.851807
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263895.53125,
+    "Y": -58703.714844,
+    "Z": -13771.426758,
+    "MapX": 1059.176758,
+    "MapY": 1515.346802
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263901.125,
+    "Y": -58496.109375,
+    "Z": -13766.371094,
+    "MapX": 1059.1521,
+    "MapY": 1516.268311
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263961.15625,
+    "Y": -59036.519531,
+    "Z": -13780.334961,
+    "MapX": 1058.886719,
+    "MapY": 1513.869385
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -263990.03125,
+    "Y": -58936.652344,
+    "Z": -13776.887695,
+    "MapX": 1058.759155,
+    "MapY": 1514.312622
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -264041.96875,
+    "Y": -59111.910156,
+    "Z": -13782.654297,
+    "MapX": 1058.529541,
+    "MapY": 1513.534668
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -264822.875,
+    "Y": -57569.730469,
+    "Z": -13958.761719,
+    "MapX": 1055.077637,
+    "MapY": 1520.380981
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260257.734375,
+    "Y": -61223.46875,
+    "Z": -16794.615234,
+    "MapX": 1075.257813,
+    "MapY": 1504.160767
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260300,
+    "Y": -61145.21875,
+    "Z": -16795.931641,
+    "MapX": 1075.070923,
+    "MapY": 1504.508179
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260393.75,
+    "Y": -61109.640625,
+    "Z": -16762.779297,
+    "MapX": 1074.656494,
+    "MapY": 1504.666138
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260390.625,
+    "Y": -61022.042969,
+    "Z": -16786.554688,
+    "MapX": 1074.670288,
+    "MapY": 1505.055054
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260711.1875,
+    "Y": -60684.625,
+    "Z": -16710.986328,
+    "MapX": 1073.253174,
+    "MapY": 1506.552979
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261543.59375,
+    "Y": -62673.867188,
+    "Z": -15651.3125,
+    "MapX": 1069.573608,
+    "MapY": 1497.722046
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261564.828125,
+    "Y": -62564.832031,
+    "Z": -15662.048828,
+    "MapX": 1069.479736,
+    "MapY": 1498.206055
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261577.9375,
+    "Y": -62367.003906,
+    "Z": -15687.683594,
+    "MapX": 1069.421875,
+    "MapY": 1499.084351
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261582.578125,
+    "Y": -62482.570313,
+    "Z": -15670.529297,
+    "MapX": 1069.401367,
+    "MapY": 1498.571411
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261586.734375,
+    "Y": -62300,
+    "Z": -15696.710938,
+    "MapX": 1069.382935,
+    "MapY": 1499.381836
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261595.625,
+    "Y": -62516.226563,
+    "Z": -15663.970703,
+    "MapX": 1069.343628,
+    "MapY": 1498.421997
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261645.078125,
+    "Y": -62445.078125,
+    "Z": -15661.65332,
+    "MapX": 1069.125,
+    "MapY": 1498.737793
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261900,
+    "Y": -62963.359375,
+    "Z": -15539.583008,
+    "MapX": 1067.998047,
+    "MapY": 1496.43689
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -261957.890625,
+    "Y": -62793.058594,
+    "Z": -15526.701172,
+    "MapX": 1067.742188,
+    "MapY": 1497.192993
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262014.71875,
+    "Y": -62894.070313,
+    "Z": -15509.117188,
+    "MapX": 1067.490967,
+    "MapY": 1496.744507
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262035.78125,
+    "Y": -62800.003906,
+    "Z": -15492.048828,
+    "MapX": 1067.397949,
+    "MapY": 1497.162109
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262054.609375,
+    "Y": -62754.609375,
+    "Z": -15481.506836,
+    "MapX": 1067.314697,
+    "MapY": 1497.363525
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -262100,
+    "Y": -62887.4375,
+    "Z": -15475.966797,
+    "MapX": 1067.114014,
+    "MapY": 1496.773926
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -264202.375,
+    "Y": -60718.410156,
+    "Z": -13943.663086,
+    "MapX": 1057.820435,
+    "MapY": 1506.402954
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260434.78125,
+    "Y": -68109.59375,
+    "Z": -14669.605469,
+    "MapX": 1074.475098,
+    "MapY": 1473.591309
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260458.671875,
+    "Y": -68322.5,
+    "Z": -14676.232422,
+    "MapX": 1074.369507,
+    "MapY": 1472.645996
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260503.328125,
+    "Y": -67953.875,
+    "Z": -14705.770508,
+    "MapX": 1074.172119,
+    "MapY": 1474.282471
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260545.28125,
+    "Y": -68376.84375,
+    "Z": -14678.141602,
+    "MapX": 1073.986572,
+    "MapY": 1472.404907
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260547.25,
+    "Y": -68280.546875,
+    "Z": -14671.745117,
+    "MapX": 1073.977905,
+    "MapY": 1472.832275
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260666.484375,
+    "Y": -67362.296875,
+    "Z": -14889.696289,
+    "MapX": 1073.450928,
+    "MapY": 1476.908569
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260734.828125,
+    "Y": -67221.679688,
+    "Z": -14912.641602,
+    "MapX": 1073.148682,
+    "MapY": 1477.532959
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -265192.25,
+    "Y": -60540.652344,
+    "Z": -14014.143555,
+    "MapX": 1053.444702,
+    "MapY": 1507.192017
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -265087.125,
+    "Y": -60688.527344,
+    "Z": -13974.716797,
+    "MapX": 1053.909424,
+    "MapY": 1506.535522
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -266748.96875,
+    "Y": -57099.996094,
+    "Z": -15505.308594,
+    "MapX": 1046.563232,
+    "MapY": 1522.466187
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -266662.09375,
+    "Y": -57148.210938,
+    "Z": -15475.047852,
+    "MapX": 1046.947266,
+    "MapY": 1522.252075
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -266543.53125,
+    "Y": -57067.824219,
+    "Z": -15464.861328,
+    "MapX": 1047.471436,
+    "MapY": 1522.609009
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -266425.1875,
+    "Y": -57208.640625,
+    "Z": -15387.327148,
+    "MapX": 1047.994507,
+    "MapY": 1521.983887
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -265750.71875,
+    "Y": -58165.179688,
+    "Z": -13678.871094,
+    "MapX": 1050.976074,
+    "MapY": 1517.737427
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -265264.5,
+    "Y": -56509.410156,
+    "Z": -15483.260742,
+    "MapX": 1053.125366,
+    "MapY": 1525.088013
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -265152.875,
+    "Y": -56661.824219,
+    "Z": -14993.9375,
+    "MapX": 1053.618774,
+    "MapY": 1524.411377
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -260775,
+    "Y": -67327.90625,
+    "Z": -14868.00293,
+    "MapX": 1072.971191,
+    "MapY": 1477.061401
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -210442.71875,
+    "Y": -88695.078125,
+    "Z": -15306.399414,
+    "MapX": 1295.465088,
+    "MapY": 1382.206055
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -210409.953125,
+    "Y": -88800,
+    "Z": -15361.428711,
+    "MapX": 1295.610107,
+    "MapY": 1381.740112
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -210264.96875,
+    "Y": -88730.125,
+    "Z": -15428.47168,
+    "MapX": 1296.250977,
+    "MapY": 1382.050415
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -210259.71875,
+    "Y": -88855.632813,
+    "Z": -15491.863281,
+    "MapX": 1296.27417,
+    "MapY": 1381.493286
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -210146.90625,
+    "Y": -88744.492188,
+    "Z": -15502.167969,
+    "MapX": 1296.772705,
+    "MapY": 1381.986572
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209515.375,
+    "Y": -89127.695313,
+    "Z": -15871.048828,
+    "MapX": 1299.564453,
+    "MapY": 1380.285522
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209471.09375,
+    "Y": -89211,
+    "Z": -15898.360352,
+    "MapX": 1299.760254,
+    "MapY": 1379.915649
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209391.734375,
+    "Y": -89161.914063,
+    "Z": -15898.254883,
+    "MapX": 1300.111084,
+    "MapY": 1380.133545
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209312.359375,
+    "Y": -89112.351563,
+    "Z": -15898.035156,
+    "MapX": 1300.461914,
+    "MapY": 1380.353516
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209280.421875,
+    "Y": -89094.226563,
+    "Z": -15899.71582,
+    "MapX": 1300.603027,
+    "MapY": 1380.434082
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209252.359375,
+    "Y": -88222.867188,
+    "Z": -15571.543945,
+    "MapX": 1300.727173,
+    "MapY": 1384.302246
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209214.125,
+    "Y": -89244.898438,
+    "Z": -15950.162109,
+    "MapX": 1300.89624,
+    "MapY": 1379.765137
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209168.390625,
+    "Y": -89188.703125,
+    "Z": -15948.311523,
+    "MapX": 1301.098389,
+    "MapY": 1380.014771
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209142.734375,
+    "Y": -89311.304688,
+    "Z": -15980.452148,
+    "MapX": 1301.21167,
+    "MapY": 1379.470337
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209119.390625,
+    "Y": -88208.265625,
+    "Z": -15611.282227,
+    "MapX": 1301.314941,
+    "MapY": 1384.367065
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209075.71875,
+    "Y": -89200,
+    "Z": -15974.988281,
+    "MapX": 1301.508057,
+    "MapY": 1379.964478
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209028.171875,
+    "Y": -86911.226563,
+    "Z": -14986.635742,
+    "MapX": 1301.718262,
+    "MapY": 1390.125122
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -209026.265625,
+    "Y": -86975.65625,
+    "Z": -15029.341797,
+    "MapX": 1301.726563,
+    "MapY": 1389.838989
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208988.0625,
+    "Y": -88355.414063,
+    "Z": -15745.210938,
+    "MapX": 1301.895508,
+    "MapY": 1383.713989
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208946.234375,
+    "Y": -88035.210938,
+    "Z": -15590.439453,
+    "MapX": 1302.080322,
+    "MapY": 1385.135254
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208934.53125,
+    "Y": -88521,
+    "Z": -15851.321289,
+    "MapX": 1302.13208,
+    "MapY": 1382.97876
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208901.90625,
+    "Y": -86852.90625,
+    "Z": -15020.785156,
+    "MapX": 1302.276367,
+    "MapY": 1390.383911
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208346.640625,
+    "Y": -87472.382813,
+    "Z": -15524.408203,
+    "MapX": 1304.730957,
+    "MapY": 1387.633911
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208331.5,
+    "Y": -86810.234375,
+    "Z": -15283.092773,
+    "MapX": 1304.797852,
+    "MapY": 1390.573364
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208285.875,
+    "Y": -86690.109375,
+    "Z": -15256.362305,
+    "MapX": 1304.999512,
+    "MapY": 1391.106567
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208276.53125,
+    "Y": -86600,
+    "Z": -15218.541992,
+    "MapX": 1305.040771,
+    "MapY": 1391.506714
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208232.53125,
+    "Y": -87422.921875,
+    "Z": -15537.829102,
+    "MapX": 1305.235352,
+    "MapY": 1387.853394
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208225.84375,
+    "Y": -86655.804688,
+    "Z": -15263.597656,
+    "MapX": 1305.264893,
+    "MapY": 1391.258911
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208213.90625,
+    "Y": -87328.65625,
+    "Z": -15494.500977,
+    "MapX": 1305.317627,
+    "MapY": 1388.271973
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208211.625,
+    "Y": -86617.867188,
+    "Z": -15252.039063,
+    "MapX": 1305.327759,
+    "MapY": 1391.427246
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208207,
+    "Y": -86690.945313,
+    "Z": -15286.316406,
+    "MapX": 1305.348145,
+    "MapY": 1391.102905
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208187.640625,
+    "Y": -87377.84375,
+    "Z": -15531.458008,
+    "MapX": 1305.433838,
+    "MapY": 1388.053589
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208114.1875,
+    "Y": -86571.648438,
+    "Z": -15265.09668,
+    "MapX": 1305.758545,
+    "MapY": 1391.632568
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208063.4375,
+    "Y": -86615.007813,
+    "Z": -15302.325195,
+    "MapX": 1305.982788,
+    "MapY": 1391.440063
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -208017.9375,
+    "Y": -88581.9375,
+    "Z": -16043.209961,
+    "MapX": 1306.183838,
+    "MapY": 1382.708252
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207959.25,
+    "Y": -88839.960938,
+    "Z": -16130.09668,
+    "MapX": 1306.443359,
+    "MapY": 1381.562744
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207958.0625,
+    "Y": -86743.007813,
+    "Z": -15382.333984,
+    "MapX": 1306.448486,
+    "MapY": 1390.871826
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207921.3125,
+    "Y": -88821.3125,
+    "Z": -16131.352539,
+    "MapX": 1306.611084,
+    "MapY": 1381.64563
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207888.390625,
+    "Y": -88740.148438,
+    "Z": -16114.21582,
+    "MapX": 1306.756592,
+    "MapY": 1382.005859
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207833.296875,
+    "Y": -88752.773438,
+    "Z": -16124.678711,
+    "MapX": 1307.000122,
+    "MapY": 1381.949829
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207819.375,
+    "Y": -88697.21875,
+    "Z": -16110.316406,
+    "MapX": 1307.061768,
+    "MapY": 1382.196411
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207765.578125,
+    "Y": -86728.929688,
+    "Z": -15448.293945,
+    "MapX": 1307.299438,
+    "MapY": 1390.934204
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207752.3125,
+    "Y": -86533.617188,
+    "Z": -15389.066406,
+    "MapX": 1307.358154,
+    "MapY": 1391.801392
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207746,
+    "Y": -86602.257813,
+    "Z": -15417.02832,
+    "MapX": 1307.385986,
+    "MapY": 1391.496704
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207716.609375,
+    "Y": -88734.375,
+    "Z": -16137.020508,
+    "MapX": 1307.515869,
+    "MapY": 1382.031494
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207705.28125,
+    "Y": -86450,
+    "Z": -15377.44043,
+    "MapX": 1307.56604,
+    "MapY": 1392.172485
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207657.953125,
+    "Y": -88849.023438,
+    "Z": -16171.876953,
+    "MapX": 1307.775146,
+    "MapY": 1381.522583
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207600,
+    "Y": -88837.335938,
+    "Z": -16176.729492,
+    "MapX": 1308.031372,
+    "MapY": 1381.574463
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207563.125,
+    "Y": -86667.898438,
+    "Z": -15521.364258,
+    "MapX": 1308.194336,
+    "MapY": 1391.2052
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207549.953125,
+    "Y": -88783.539063,
+    "Z": -16171.797852,
+    "MapX": 1308.252686,
+    "MapY": 1381.813354
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207510.546875,
+    "Y": -88581.929688,
+    "Z": -16126.268555,
+    "MapX": 1308.42688,
+    "MapY": 1382.708252
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207096.9375,
+    "Y": -87885.84375,
+    "Z": -16076.758789,
+    "MapX": 1310.255127,
+    "MapY": 1385.79834
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207055.46875,
+    "Y": -87746.546875,
+    "Z": -16043.625977,
+    "MapX": 1310.438477,
+    "MapY": 1386.416748
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207033.015625,
+    "Y": -87800,
+    "Z": -16074.591797,
+    "MapX": 1310.53772,
+    "MapY": 1386.179565
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -207013.53125,
+    "Y": -87890.109375,
+    "Z": -16104.239258,
+    "MapX": 1310.623779,
+    "MapY": 1385.779419
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206956.234375,
+    "Y": -87787.476563,
+    "Z": -16093.40332,
+    "MapX": 1310.877197,
+    "MapY": 1386.235229
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206900,
+    "Y": -87961.109375,
+    "Z": -16141.669922,
+    "MapX": 1311.125732,
+    "MapY": 1385.464233
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206642.5,
+    "Y": -87434.273438,
+    "Z": -15988.853516,
+    "MapX": 1312.26416,
+    "MapY": 1387.802979
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206600,
+    "Y": -87508.234375,
+    "Z": -16025.666016,
+    "MapX": 1312.451904,
+    "MapY": 1387.474609
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206588.21875,
+    "Y": -87293.210938,
+    "Z": -15970.068359,
+    "MapX": 1312.503906,
+    "MapY": 1388.429199
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206578.625,
+    "Y": -87481.429688,
+    "Z": -16019.198242,
+    "MapX": 1312.546387,
+    "MapY": 1387.59375
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206579.828125,
+    "Y": -87360.0625,
+    "Z": -15982.712891,
+    "MapX": 1312.541016,
+    "MapY": 1388.132446
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206558.171875,
+    "Y": -87558.164063,
+    "Z": -16061.857422,
+    "MapX": 1312.636719,
+    "MapY": 1387.253174
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -206542.484375,
+    "Y": -87665.34375,
+    "Z": -16121.204102,
+    "MapX": 1312.706177,
+    "MapY": 1386.777222
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -153189.21875,
+    "Y": 127617.367188,
+    "Z": -14999.616211,
+    "MapX": 1548.554443,
+    "MapY": 2342.48291
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -153215.734375,
+    "Y": 127666.5,
+    "Z": -14980.308594,
+    "MapX": 1548.437256,
+    "MapY": 2342.701172
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -153232.65625,
+    "Y": 127567.34375,
+    "Z": -14984.614258,
+    "MapX": 1548.362427,
+    "MapY": 2342.260742
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -153333.671875,
+    "Y": 128186.296875,
+    "Z": -14861.942383,
+    "MapX": 1547.915771,
+    "MapY": 2345.008545
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -153351.296875,
+    "Y": 127519.757813,
+    "Z": -14933.003906,
+    "MapX": 1547.837891,
+    "MapY": 2342.049561
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -155753.234375,
+    "Y": 124291.226563,
+    "Z": -15056.75,
+    "MapX": 1537.220215,
+    "MapY": 2327.717285
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -155702.625,
+    "Y": 124144.265625,
+    "Z": -14553.952148,
+    "MapX": 1537.443848,
+    "MapY": 2327.064697
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -155682.53125,
+    "Y": 124209.4375,
+    "Z": -14492.719727,
+    "MapX": 1537.532715,
+    "MapY": 2327.354004
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -155634.25,
+    "Y": 123995.085938,
+    "Z": -15193.397461,
+    "MapX": 1537.746094,
+    "MapY": 2326.402588
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -156989.875,
+    "Y": 126126.90625,
+    "Z": -14623.651367,
+    "MapX": 1531.753662,
+    "MapY": 2335.866211
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -156938.796875,
+    "Y": 126253.21875,
+    "Z": -14539.751953,
+    "MapX": 1531.979492,
+    "MapY": 2336.427002
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -156643.765625,
+    "Y": 125804.835938,
+    "Z": -14538.724609,
+    "MapX": 1533.283569,
+    "MapY": 2334.436523
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -156521.671875,
+    "Y": 125826.132813,
+    "Z": -14440.523438,
+    "MapX": 1533.823242,
+    "MapY": 2334.531006
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154477.3125,
+    "Y": 125785.125,
+    "Z": -14414.106445,
+    "MapX": 1542.860352,
+    "MapY": 2334.349121
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154403,
+    "Y": 125831.382813,
+    "Z": -14470.138672,
+    "MapX": 1543.188965,
+    "MapY": 2334.554443
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154317.96875,
+    "Y": 125878.328125,
+    "Z": -14531.223633,
+    "MapX": 1543.564697,
+    "MapY": 2334.762695
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154285.203125,
+    "Y": 125902.453125,
+    "Z": -14554.245117,
+    "MapX": 1543.709595,
+    "MapY": 2334.869873
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154255.25,
+    "Y": 126771.71875,
+    "Z": -14521.456055,
+    "MapX": 1543.842041,
+    "MapY": 2338.72876
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154221.921875,
+    "Y": 125749.648438,
+    "Z": -14591.118164,
+    "MapX": 1543.989258,
+    "MapY": 2334.19165
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154172.5625,
+    "Y": 125808.015625,
+    "Z": -14625.362305,
+    "MapX": 1544.20752,
+    "MapY": 2334.450684
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154125.390625,
+    "Y": 126780.273438,
+    "Z": -14598.964844,
+    "MapX": 1544.416016,
+    "MapY": 2338.766846
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154031.375,
+    "Y": 128083.257813,
+    "Z": -14408.419922,
+    "MapX": 1544.831665,
+    "MapY": 2344.55127
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -154030.515625,
+    "Y": 128019.679688,
+    "Z": -14431.866211,
+    "MapX": 1544.835449,
+    "MapY": 2344.268799
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -153939.921875,
+    "Y": 126475.054688,
+    "Z": -14743.049805,
+    "MapX": 1545.23584,
+    "MapY": 2337.411865
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -153903.65625,
+    "Y": 128143.398438,
+    "Z": -14479.990234,
+    "MapX": 1545.39624,
+    "MapY": 2344.818115
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -182353.078125,
+    "Y": 68605.578125,
+    "Z": -16181.59082,
+    "MapX": 1419.635498,
+    "MapY": 2080.511719
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -182299.328125,
+    "Y": 68745.734375,
+    "Z": -16275.981445,
+    "MapX": 1419.873047,
+    "MapY": 2081.133789
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -182261.46875,
+    "Y": 68701.007813,
+    "Z": -16249.678711,
+    "MapX": 1420.040527,
+    "MapY": 2080.935059
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -182223.46875,
+    "Y": 68509.148438,
+    "Z": -16125.863281,
+    "MapX": 1420.208496,
+    "MapY": 2080.083496
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -182222.828125,
+    "Y": 68570.820313,
+    "Z": -16166.390625,
+    "MapX": 1420.211182,
+    "MapY": 2080.357178
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -182188.96875,
+    "Y": 68630.359375,
+    "Z": -16207.338867,
+    "MapX": 1420.360962,
+    "MapY": 2080.621582
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -182117.34375,
+    "Y": 68382.65625,
+    "Z": -16055.370117,
+    "MapX": 1420.67749,
+    "MapY": 2079.521973
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -181751.5,
+    "Y": 67900,
+    "Z": -15786.673828,
+    "MapX": 1422.2948,
+    "MapY": 2077.379395
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -181658.546875,
+    "Y": 67841.460938,
+    "Z": -15751.714844,
+    "MapX": 1422.705688,
+    "MapY": 2077.119385
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -181649.421875,
+    "Y": 68035.304688,
+    "Z": -15860.339844,
+    "MapX": 1422.746094,
+    "MapY": 2077.97998
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -181589.875,
+    "Y": 68087.304688,
+    "Z": -15886.185547,
+    "MapX": 1423.009277,
+    "MapY": 2078.210938
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -181548.578125,
+    "Y": 67926.054688,
+    "Z": -15793.238281,
+    "MapX": 1423.191772,
+    "MapY": 2077.495117
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -181428.640625,
+    "Y": 67788.523438,
+    "Z": -15711.139648,
+    "MapX": 1423.721924,
+    "MapY": 2076.884521
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -180256.171875,
+    "Y": 68489.882813,
+    "Z": -15762.518555,
+    "MapX": 1428.904785,
+    "MapY": 2079.998047
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -180200,
+    "Y": 68432.46875,
+    "Z": -15697.556641,
+    "MapX": 1429.153198,
+    "MapY": 2079.743164
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -180139.421875,
+    "Y": 68335.523438,
+    "Z": -15604.228516,
+    "MapX": 1429.421021,
+    "MapY": 2079.312744
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -180130.5,
+    "Y": 68374.289063,
+    "Z": -15626.94043,
+    "MapX": 1429.460449,
+    "MapY": 2079.484863
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -179052.0625,
+    "Y": 68169.8125,
+    "Z": -14959.133789,
+    "MapX": 1434.227661,
+    "MapY": 2078.577148
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -188191.734375,
+    "Y": -26678.1875,
+    "Z": -17548.748047,
+    "MapX": 1393.825684,
+    "MapY": 1657.517822
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -188151.46875,
+    "Y": -26762.255859,
+    "Z": -17516.363281,
+    "MapX": 1394.003662,
+    "MapY": 1657.144653
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -188026.25,
+    "Y": -26800,
+    "Z": -17464.912109,
+    "MapX": 1394.557251,
+    "MapY": 1656.977173
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187969.546875,
+    "Y": -27114.111328,
+    "Z": -17359.347656,
+    "MapX": 1394.807861,
+    "MapY": 1655.582642
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187966.96875,
+    "Y": -27358.8125,
+    "Z": -17269.015625,
+    "MapX": 1394.819336,
+    "MapY": 1654.49646
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187877.703125,
+    "Y": -26739.009766,
+    "Z": -17478.173828,
+    "MapX": 1395.213867,
+    "MapY": 1657.247925
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187862.640625,
+    "Y": -27252.501953,
+    "Z": -17273.089844,
+    "MapX": 1395.280396,
+    "MapY": 1654.968384
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187857.125,
+    "Y": -27141.289063,
+    "Z": -17309.449219,
+    "MapX": 1395.30481,
+    "MapY": 1655.462036
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187843.34375,
+    "Y": -28422.289063,
+    "Z": -16058.953125,
+    "MapX": 1395.365723,
+    "MapY": 1649.775391
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187836.953125,
+    "Y": -27079.609375,
+    "Z": -17320.175781,
+    "MapX": 1395.394043,
+    "MapY": 1655.73584
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187839.15625,
+    "Y": -26601.388672,
+    "Z": -17552,
+    "MapX": 1395.384277,
+    "MapY": 1657.858887
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187786.75,
+    "Y": -26610.292969,
+    "Z": -17537.037109,
+    "MapX": 1395.615967,
+    "MapY": 1657.819336
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187779.0625,
+    "Y": -27278.673828,
+    "Z": -17216.509766,
+    "MapX": 1395.649902,
+    "MapY": 1654.852051
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187752.921875,
+    "Y": -28524.427734,
+    "Z": -16064.537109,
+    "MapX": 1395.765503,
+    "MapY": 1649.321777
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187621.515625,
+    "Y": -28460.568359,
+    "Z": -16070.632813,
+    "MapX": 1396.346436,
+    "MapY": 1649.605347
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187400,
+    "Y": -27388.892578,
+    "Z": -16865.884766,
+    "MapX": 1397.325562,
+    "MapY": 1654.362793
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187390.015625,
+    "Y": -27323.046875,
+    "Z": -16869.173828,
+    "MapX": 1397.369629,
+    "MapY": 1654.655029
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187340.875,
+    "Y": -27528.546875,
+    "Z": -16813.787109,
+    "MapX": 1397.586914,
+    "MapY": 1653.742798
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187333.625,
+    "Y": -27352.152344,
+    "Z": -16849.126953,
+    "MapX": 1397.619019,
+    "MapY": 1654.525879
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187309.828125,
+    "Y": -27479.5,
+    "Z": -16814.205078,
+    "MapX": 1397.724121,
+    "MapY": 1653.960571
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -187300,
+    "Y": -27233.708984,
+    "Z": -16848.9375,
+    "MapX": 1397.767578,
+    "MapY": 1655.051758
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -186659.578125,
+    "Y": -25333.330078,
+    "Z": -17930.058594,
+    "MapX": 1400.598633,
+    "MapY": 1663.488037
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -186654.140625,
+    "Y": -25254.138672,
+    "Z": -17976.832031,
+    "MapX": 1400.622681,
+    "MapY": 1663.839722
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -186379.484375,
+    "Y": -25921.359375,
+    "Z": -17192.509766,
+    "MapX": 1401.83667,
+    "MapY": 1660.877563
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -186330.8125,
+    "Y": -25964.958984,
+    "Z": -17146.066406,
+    "MapX": 1402.05188,
+    "MapY": 1660.684082
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -185429.25,
+    "Y": -26900,
+    "Z": -16410.103516,
+    "MapX": 1406.037354,
+    "MapY": 1656.533203
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -185324.296875,
+    "Y": -27027.585938,
+    "Z": -16440.994141,
+    "MapX": 1406.501221,
+    "MapY": 1655.966675
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -185268.28125,
+    "Y": -26909.5625,
+    "Z": -16462.640625,
+    "MapX": 1406.748779,
+    "MapY": 1656.490723
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -184343.3125,
+    "Y": -25827.019531,
+    "Z": -16705.314453,
+    "MapX": 1410.837646,
+    "MapY": 1661.296387
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -184190.609375,
+    "Y": -25724.652344,
+    "Z": -16760.126953,
+    "MapX": 1411.512695,
+    "MapY": 1661.750854
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -184101.46875,
+    "Y": -25875.740234,
+    "Z": -16787.978516,
+    "MapX": 1411.906738,
+    "MapY": 1661.0802
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -184026.640625,
+    "Y": -25958.017578,
+    "Z": -16813.580078,
+    "MapX": 1412.237549,
+    "MapY": 1660.714844
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -183973.28125,
+    "Y": -25885.636719,
+    "Z": -16834.099609,
+    "MapX": 1412.473389,
+    "MapY": 1661.036255
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -85783.109375,
+    "Y": 171709.1875,
+    "Z": -11559.165039,
+    "MapX": 1846.523193,
+    "MapY": 2538.219971
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -85761.390625,
+    "Y": 171853.53125,
+    "Z": -11533.736328,
+    "MapX": 1846.619385,
+    "MapY": 2538.86084
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -85153.46875,
+    "Y": 173346.53125,
+    "Z": -11583.730469,
+    "MapX": 1849.306641,
+    "MapY": 2545.48877
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84972.59375,
+    "Y": 172268.046875,
+    "Z": -11828.378906,
+    "MapX": 1850.106201,
+    "MapY": 2540.700928
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84966.882813,
+    "Y": 172401.1875,
+    "Z": -11802.5625,
+    "MapX": 1850.13147,
+    "MapY": 2541.291992
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84935.203125,
+    "Y": 172446.546875,
+    "Z": -11825.65918,
+    "MapX": 1850.271606,
+    "MapY": 2541.493408
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84913.3125,
+    "Y": 172471.75,
+    "Z": -11841.138672,
+    "MapX": 1850.368286,
+    "MapY": 2541.605225
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84900,
+    "Y": 172400,
+    "Z": -11843.750977,
+    "MapX": 1850.427124,
+    "MapY": 2541.286621
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84892.070313,
+    "Y": 172597.59375,
+    "Z": -11853.344727,
+    "MapX": 1850.46228,
+    "MapY": 2542.163818
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84885.484375,
+    "Y": 172326.34375,
+    "Z": -11859.726563,
+    "MapX": 1850.491211,
+    "MapY": 2540.959717
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84855.84375,
+    "Y": 172444.15625,
+    "Z": -11871.003906,
+    "MapX": 1850.622314,
+    "MapY": 2541.482666
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -84000,
+    "Y": 171062.578125,
+    "Z": -12337.40918,
+    "MapX": 1854.405518,
+    "MapY": 2535.349609
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83907.695313,
+    "Y": 171506.96875,
+    "Z": -12379.152344,
+    "MapX": 1854.813599,
+    "MapY": 2537.322266
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83900,
+    "Y": 171294.796875,
+    "Z": -12403.703125,
+    "MapX": 1854.847656,
+    "MapY": 2536.380371
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83593.578125,
+    "Y": 174573.515625,
+    "Z": -12270.654297,
+    "MapX": 1856.202148,
+    "MapY": 2550.935547
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83554.789063,
+    "Y": 174502.359375,
+    "Z": -12274.105469,
+    "MapX": 1856.373657,
+    "MapY": 2550.619629
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83527.570313,
+    "Y": 174589.765625,
+    "Z": -12309.388672,
+    "MapX": 1856.493896,
+    "MapY": 2551.007813
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -82969.375,
+    "Y": 174618.515625,
+    "Z": -12537.285156,
+    "MapX": 1858.961426,
+    "MapY": 2551.135254
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -82900,
+    "Y": 174722.65625,
+    "Z": -12546.978516,
+    "MapX": 1859.268066,
+    "MapY": 2551.597656
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -82833.148438,
+    "Y": 174600,
+    "Z": -12561.741211,
+    "MapX": 1859.563599,
+    "MapY": 2551.053223
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83521.304688,
+    "Y": 175838.78125,
+    "Z": -12242.098633,
+    "MapX": 1856.521606,
+    "MapY": 2556.55249
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83452.476563,
+    "Y": 175812.234375,
+    "Z": -12272.816406,
+    "MapX": 1856.825928,
+    "MapY": 2556.43457
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83427.3125,
+    "Y": 175893.53125,
+    "Z": -12223.769531,
+    "MapX": 1856.937134,
+    "MapY": 2556.79541
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83366.992188,
+    "Y": 175646.625,
+    "Z": -12360.591797,
+    "MapX": 1857.203735,
+    "MapY": 2555.699463
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83264.453125,
+    "Y": 175813.59375,
+    "Z": -12315.666992,
+    "MapX": 1857.657104,
+    "MapY": 2556.440674
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -83207.304688,
+    "Y": 175742.40625,
+    "Z": -12366.842773,
+    "MapX": 1857.909546,
+    "MapY": 2556.124756
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40771.324219,
+    "Y": -57321.726563,
+    "Z": -19034.53125,
+    "MapX": 2045.498047,
+    "MapY": 1521.481934
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40732.703125,
+    "Y": -57216.417969,
+    "Z": -19050.65625,
+    "MapX": 2045.668701,
+    "MapY": 1521.949341
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40662.019531,
+    "Y": -57362.019531,
+    "Z": -19046.294922,
+    "MapX": 2045.981201,
+    "MapY": 1521.302979
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40946.855469,
+    "Y": -53519.144531,
+    "Z": -17404.162109,
+    "MapX": 2044.722168,
+    "MapY": 1538.362549
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40917.078125,
+    "Y": -53606.390625,
+    "Z": -17403.675781,
+    "MapX": 2044.85376,
+    "MapY": 1537.975464
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40794.777344,
+    "Y": -53553.046875,
+    "Z": -17403.916016,
+    "MapX": 2045.394287,
+    "MapY": 1538.212036
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40794.40625,
+    "Y": -53655,
+    "Z": -17403.898438,
+    "MapX": 2045.395874,
+    "MapY": 1537.759521
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -40700.976563,
+    "Y": -53562.210938,
+    "Z": -17403.8125,
+    "MapX": 2045.809082,
+    "MapY": 1538.171509
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39614.253906,
+    "Y": -55726.796875,
+    "Z": -19005.914063,
+    "MapX": 2050.612793,
+    "MapY": 1528.562134
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39587.074219,
+    "Y": -55855.496094,
+    "Z": -19042.257813,
+    "MapX": 2050.73291,
+    "MapY": 1527.990845
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39551.765625,
+    "Y": -55990.816406,
+    "Z": -19074.441406,
+    "MapX": 2050.88916,
+    "MapY": 1527.390259
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39542.097656,
+    "Y": -55942.097656,
+    "Z": -19066.736328,
+    "MapX": 2050.931885,
+    "MapY": 1527.606567
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39534.484375,
+    "Y": -55656.640625,
+    "Z": -19010.912109,
+    "MapX": 2050.965332,
+    "MapY": 1528.873779
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39526.164063,
+    "Y": -55974.636719,
+    "Z": -19076.080078,
+    "MapX": 2051.002441,
+    "MapY": 1527.462036
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39497.015625,
+    "Y": -55780.699219,
+    "Z": -19042.646484,
+    "MapX": 2051.131104,
+    "MapY": 1528.322998
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39469.617188,
+    "Y": -55730.886719,
+    "Z": -19034.646484,
+    "MapX": 2051.251953,
+    "MapY": 1528.544189
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": -39884.601563,
+    "Y": -52682.476563,
+    "Z": -18838.119141,
+    "MapX": 2049.417969,
+    "MapY": 1542.076904
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 66417.71875,
+    "Y": 109576.398438,
+    "Z": -12419.31543,
+    "MapX": 2519.327637,
+    "MapY": 2262.393555
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 66457.398438,
+    "Y": 109504.15625,
+    "Z": -12400.844727,
+    "MapX": 2519.50293,
+    "MapY": 2262.072754
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 66481.851563,
+    "Y": 110826.390625,
+    "Z": -12619.331055,
+    "MapX": 2519.611084,
+    "MapY": 2267.942627
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 66550.414063,
+    "Y": 110800.007813,
+    "Z": -12604.643555,
+    "MapX": 2519.914063,
+    "MapY": 2267.825684
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 66575.6875,
+    "Y": 110875.476563,
+    "Z": -12627.823242,
+    "MapX": 2520.025879,
+    "MapY": 2268.160645
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 66638.367188,
+    "Y": 110638.367188,
+    "Z": -12514.868164,
+    "MapX": 2520.302734,
+    "MapY": 2267.10791
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67573.695313,
+    "Y": 111973.695313,
+    "Z": -12511.919922,
+    "MapX": 2524.4375,
+    "MapY": 2273.035889
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67600,
+    "Y": 111922.375,
+    "Z": -12498.787109,
+    "MapX": 2524.553711,
+    "MapY": 2272.808105
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67637.273438,
+    "Y": 111937.273438,
+    "Z": -12493.487305,
+    "MapX": 2524.718506,
+    "MapY": 2272.874268
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67640.757813,
+    "Y": 111761.601563,
+    "Z": -12490.172852,
+    "MapX": 2524.733887,
+    "MapY": 2272.094238
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67662.828125,
+    "Y": 112010.921875,
+    "Z": -12490.332031,
+    "MapX": 2524.831543,
+    "MapY": 2273.201172
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67689.71875,
+    "Y": 111907.59375,
+    "Z": -12489.088867,
+    "MapX": 2524.950195,
+    "MapY": 2272.742432
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67698.171875,
+    "Y": 112119.09375,
+    "Z": -12483.283203,
+    "MapX": 2524.987793,
+    "MapY": 2273.681396
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 67700,
+    "Y": 112047.78125,
+    "Z": -12483.663086,
+    "MapX": 2524.995605,
+    "MapY": 2273.364746
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 69859.101563,
+    "Y": 111250.859375,
+    "Z": -12259.399414,
+    "MapX": 2534.540039,
+    "MapY": 2269.827148
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71191.390625,
+    "Y": 113564.265625,
+    "Z": -12385.669922,
+    "MapX": 2540.429443,
+    "MapY": 2280.096924
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71361.773438,
+    "Y": 113447.125,
+    "Z": -12498.754883,
+    "MapX": 2541.182617,
+    "MapY": 2279.576904
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71484.296875,
+    "Y": 110832.4375,
+    "Z": -12384.245117,
+    "MapX": 2541.724365,
+    "MapY": 2267.969482
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71548.976563,
+    "Y": 110804.53125,
+    "Z": -12384.375,
+    "MapX": 2542.010254,
+    "MapY": 2267.845703
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71578,
+    "Y": 110878,
+    "Z": -12384.375,
+    "MapX": 2542.138428,
+    "MapY": 2268.171875
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71602.859375,
+    "Y": 113102.859375,
+    "Z": -12581.605469,
+    "MapX": 2542.248535,
+    "MapY": 2278.048584
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71636.648438,
+    "Y": 110644.328125,
+    "Z": -12382.229492,
+    "MapX": 2542.397949,
+    "MapY": 2267.134521
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71647.039063,
+    "Y": 113121.617188,
+    "Z": -12605.53125,
+    "MapX": 2542.443848,
+    "MapY": 2278.131836
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71647.640625,
+    "Y": 113282.117188,
+    "Z": -12636.772461,
+    "MapX": 2542.446289,
+    "MapY": 2278.844238
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71672.710938,
+    "Y": 112972.710938,
+    "Z": -12581.383789,
+    "MapX": 2542.557129,
+    "MapY": 2277.470703
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71682.445313,
+    "Y": 113200,
+    "Z": -12639.332031,
+    "MapX": 2542.600098,
+    "MapY": 2278.47998
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71688.945313,
+    "Y": 113055.335938,
+    "Z": -12607.695313,
+    "MapX": 2542.628906,
+    "MapY": 2277.837646
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71742.539063,
+    "Y": 110800.65625,
+    "Z": -12384.824219,
+    "MapX": 2542.865723,
+    "MapY": 2267.828369
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71769.09375,
+    "Y": 112962.945313,
+    "Z": -12613.825195,
+    "MapX": 2542.983154,
+    "MapY": 2277.42749
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71769.09375,
+    "Y": 113052.84375,
+    "Z": -12634.733398,
+    "MapX": 2542.983154,
+    "MapY": 2277.82666
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 71794.414063,
+    "Y": 110737.226563,
+    "Z": -12383.884766,
+    "MapX": 2543.095215,
+    "MapY": 2267.546875
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72024.390625,
+    "Y": 112600,
+    "Z": -12593.540039,
+    "MapX": 2544.111816,
+    "MapY": 2275.816406
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72029.15625,
+    "Y": 112470.523438,
+    "Z": -12577.737305,
+    "MapX": 2544.132813,
+    "MapY": 2275.241455
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72057.570313,
+    "Y": 112497.710938,
+    "Z": -12581.839844,
+    "MapX": 2544.258301,
+    "MapY": 2275.362305
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72067.671875,
+    "Y": 112600,
+    "Z": -12594.554688,
+    "MapX": 2544.303223,
+    "MapY": 2275.816406
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72127.726563,
+    "Y": 112717.4375,
+    "Z": -12611.732422,
+    "MapX": 2544.568604,
+    "MapY": 2276.337646
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72183.835938,
+    "Y": 111054.265625,
+    "Z": -12356.317383,
+    "MapX": 2544.816895,
+    "MapY": 2268.954346
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72222.398438,
+    "Y": 112679.835938,
+    "Z": -12597.519531,
+    "MapX": 2544.987061,
+    "MapY": 2276.170654
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72262.773438,
+    "Y": 110900,
+    "Z": -12324.441406,
+    "MapX": 2545.165527,
+    "MapY": 2268.269531
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72491.03125,
+    "Y": 114709.3125,
+    "Z": -12468.876953,
+    "MapX": 2546.174561,
+    "MapY": 2285.180176
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72518.367188,
+    "Y": 114607.320313,
+    "Z": -12484.735352,
+    "MapX": 2546.29541,
+    "MapY": 2284.727295
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72532.96875,
+    "Y": 114733.125,
+    "Z": -12459.157227,
+    "MapX": 2546.359863,
+    "MapY": 2285.285889
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72569.796875,
+    "Y": 114405.515625,
+    "Z": -12526.193359,
+    "MapX": 2546.522949,
+    "MapY": 2283.831543
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72569.390625,
+    "Y": 114690.835938,
+    "Z": -12463.095703,
+    "MapX": 2546.520996,
+    "MapY": 2285.098145
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72572.765625,
+    "Y": 111972.765625,
+    "Z": -12411.421875,
+    "MapX": 2546.535645,
+    "MapY": 2273.031738
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72597.265625,
+    "Y": 111921.34375,
+    "Z": -12396.839844,
+    "MapX": 2546.644043,
+    "MapY": 2272.803467
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72639.085938,
+    "Y": 111937.914063,
+    "Z": -12380.833984,
+    "MapX": 2546.829102,
+    "MapY": 2272.876953
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72647.523438,
+    "Y": 111757.070313,
+    "Z": -12348.124023,
+    "MapX": 2546.866211,
+    "MapY": 2272.074219
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72666.210938,
+    "Y": 112009.789063,
+    "Z": -12375.727539,
+    "MapX": 2546.948975,
+    "MapY": 2273.196045
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72700.445313,
+    "Y": 111900.445313,
+    "Z": -12352.976563,
+    "MapX": 2547.100098,
+    "MapY": 2272.710693
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72700.585938,
+    "Y": 112119.734375,
+    "Z": -12366.177734,
+    "MapX": 2547.101074,
+    "MapY": 2273.684082
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72700,
+    "Y": 112045.898438,
+    "Z": -12363.447266,
+    "MapX": 2547.098389,
+    "MapY": 2273.356445
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72800,
+    "Y": 111415.703125,
+    "Z": -12208.536133,
+    "MapX": 2547.540527,
+    "MapY": 2270.558838
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72818.671875,
+    "Y": 111392.453125,
+    "Z": -12202.429688,
+    "MapX": 2547.623047,
+    "MapY": 2270.455566
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72844.007813,
+    "Y": 111615.609375,
+    "Z": -12246.84082,
+    "MapX": 2547.734863,
+    "MapY": 2271.446289
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72890.007813,
+    "Y": 111518.828125,
+    "Z": -12211.163086,
+    "MapX": 2547.938477,
+    "MapY": 2271.016602
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72888.960938,
+    "Y": 111413.140625,
+    "Z": -12194.601563,
+    "MapX": 2547.933594,
+    "MapY": 2270.547363
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72900,
+    "Y": 111351.773438,
+    "Z": -12192.537109,
+    "MapX": 2547.982422,
+    "MapY": 2270.274902
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72928.070313,
+    "Y": 111628.070313,
+    "Z": -12234.101563,
+    "MapX": 2548.106445,
+    "MapY": 2271.501465
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72963.257813,
+    "Y": 111263.257813,
+    "Z": -12186.225586,
+    "MapX": 2548.262207,
+    "MapY": 2269.88208
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 72987.335938,
+    "Y": 111316.890625,
+    "Z": -12187.587891,
+    "MapX": 2548.368652,
+    "MapY": 2270.120117
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73004.5,
+    "Y": 111120.742188,
+    "Z": -12178.408203,
+    "MapX": 2548.444336,
+    "MapY": 2269.249512
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73026.28125,
+    "Y": 111449.085938,
+    "Z": -12194.705078,
+    "MapX": 2548.540527,
+    "MapY": 2270.707031
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73052.335938,
+    "Y": 111244.617188,
+    "Z": -12183.041016,
+    "MapX": 2548.655762,
+    "MapY": 2269.799316
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73158.976563,
+    "Y": 111500.695313,
+    "Z": -12199.813477,
+    "MapX": 2549.127197,
+    "MapY": 2270.936035
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73447.75,
+    "Y": 111507.390625,
+    "Z": -12194.775391,
+    "MapX": 2550.403809,
+    "MapY": 2270.96582
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73484.804688,
+    "Y": 111659.84375,
+    "Z": -12195.097656,
+    "MapX": 2550.567627,
+    "MapY": 2271.642578
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73497.492188,
+    "Y": 111470.3125,
+    "Z": -12191.113281,
+    "MapX": 2550.623535,
+    "MapY": 2270.80127
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73602.632813,
+    "Y": 111493,
+    "Z": -12184.944336,
+    "MapX": 2551.088379,
+    "MapY": 2270.901855
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73634.421875,
+    "Y": 111398.71875,
+    "Z": -12179.297852,
+    "MapX": 2551.229004,
+    "MapY": 2270.483398
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 73682.554688,
+    "Y": 111369.164063,
+    "Z": -12174.945313,
+    "MapX": 2551.441895,
+    "MapY": 2270.352051
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88172.609375,
+    "Y": -290.753326,
+    "Z": -15462.643555,
+    "MapX": 2615.495117,
+    "MapY": 1774.65979
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88338.203125,
+    "Y": -317.703308,
+    "Z": -15437.583008,
+    "MapX": 2616.227051,
+    "MapY": 1774.540039
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88343.6875,
+    "Y": -245.961502,
+    "Z": -15432.25,
+    "MapX": 2616.251465,
+    "MapY": 1774.858643
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88607.078125,
+    "Y": -914.549377,
+    "Z": -17800.396484,
+    "MapX": 2617.415527,
+    "MapY": 1771.890503
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88657.179688,
+    "Y": -958.537476,
+    "Z": -17801.191406,
+    "MapX": 2617.637207,
+    "MapY": 1771.695313
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 89580.25,
+    "Y": -1899.242188,
+    "Z": -17831.964844,
+    "MapX": 2621.717529,
+    "MapY": 1767.519165
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 89687.492188,
+    "Y": -2025.784058,
+    "Z": -17825.121094,
+    "MapX": 2622.19165,
+    "MapY": 1766.957397
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 89737.609375,
+    "Y": -1908.486938,
+    "Z": -17811.537109,
+    "MapX": 2622.413086,
+    "MapY": 1767.478149
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86243.9375,
+    "Y": 2320.308838,
+    "Z": -15474.861328,
+    "MapX": 2606.969482,
+    "MapY": 1786.251099
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86266.46875,
+    "Y": 2577.599121,
+    "Z": -15457.12793,
+    "MapX": 2607.068848,
+    "MapY": 1787.393188
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86279.90625,
+    "Y": 2356.091797,
+    "Z": -15471.530273,
+    "MapX": 2607.128418,
+    "MapY": 1786.409912
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86296.398438,
+    "Y": 2446.663086,
+    "Z": -15463.839844,
+    "MapX": 2607.201416,
+    "MapY": 1786.81189
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86347.195313,
+    "Y": 2341.572998,
+    "Z": -15475.924805,
+    "MapX": 2607.425781,
+    "MapY": 1786.345459
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86432.84375,
+    "Y": 2452.867676,
+    "Z": -15462.969727,
+    "MapX": 2607.804443,
+    "MapY": 1786.8396
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86465.132813,
+    "Y": 2239.415771,
+    "Z": -15484.782227,
+    "MapX": 2607.947021,
+    "MapY": 1785.891968
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86515.960938,
+    "Y": 2459.21875,
+    "Z": -15457.883789,
+    "MapX": 2608.171875,
+    "MapY": 1786.867676
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86519.125,
+    "Y": 2329.093018,
+    "Z": -15467.280273,
+    "MapX": 2608.185791,
+    "MapY": 1786.290039
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86532.921875,
+    "Y": 2259.28833,
+    "Z": -15469.614258,
+    "MapX": 2608.246826,
+    "MapY": 1785.980225
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86744.867188,
+    "Y": 1301.549316,
+    "Z": -15424.945313,
+    "MapX": 2609.183594,
+    "MapY": 1781.728394
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86758.265625,
+    "Y": 1568.263306,
+    "Z": -15432.735352,
+    "MapX": 2609.24292,
+    "MapY": 1782.912476
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 86889.179688,
+    "Y": 1448.383667,
+    "Z": -15405.952148,
+    "MapX": 2609.821777,
+    "MapY": 1782.380371
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 87010.679688,
+    "Y": 1496.279175,
+    "Z": -15399.860352,
+    "MapX": 2610.358643,
+    "MapY": 1782.592896
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 87229.109375,
+    "Y": 396.042175,
+    "Z": -16503.130859,
+    "MapX": 2611.324463,
+    "MapY": 1777.70874
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 87469.9375,
+    "Y": 452.704437,
+    "Z": -15471.007813,
+    "MapX": 2612.388916,
+    "MapY": 1777.960205
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 87549.695313,
+    "Y": 109.243896,
+    "Z": -15667.370117,
+    "MapX": 2612.741455,
+    "MapY": 1776.435547
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 87588.257813,
+    "Y": 165.414169,
+    "Z": -15656.318359,
+    "MapX": 2612.911865,
+    "MapY": 1776.684814
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 87956.382813,
+    "Y": 1168.49585,
+    "Z": -15311.355469,
+    "MapX": 2614.539063,
+    "MapY": 1781.137817
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 87968.703125,
+    "Y": 1399.997437,
+    "Z": -15268.967773,
+    "MapX": 2614.593506,
+    "MapY": 1782.165527
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88041.875,
+    "Y": 1299.998413,
+    "Z": -15234.003906,
+    "MapX": 2614.917236,
+    "MapY": 1781.721558
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88061.148438,
+    "Y": 1200.113281,
+    "Z": -15234.000977,
+    "MapX": 2615.002441,
+    "MapY": 1781.278076
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88116.4375,
+    "Y": 1281.538452,
+    "Z": -15193.28418,
+    "MapX": 2615.246582,
+    "MapY": 1781.639648
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88203.523438,
+    "Y": 1191.743652,
+    "Z": -15163.786133,
+    "MapX": 2615.631836,
+    "MapY": 1781.241089
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 88241.242188,
+    "Y": 1264.94043,
+    "Z": -15123.067383,
+    "MapX": 2615.798584,
+    "MapY": 1781.565918
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 89035.140625,
+    "Y": 1113.688354,
+    "Z": -14742.345703,
+    "MapX": 2619.307861,
+    "MapY": 1780.894531
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 89073.609375,
+    "Y": 799.998291,
+    "Z": -15065.692383,
+    "MapX": 2619.477783,
+    "MapY": 1779.501953
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92492.0625,
+    "Y": -5287.565918,
+    "Z": -14893.676758,
+    "MapX": 2634.589111,
+    "MapY": 1752.477417
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92533.15625,
+    "Y": -5265.839355,
+    "Z": -14880.743164,
+    "MapX": 2634.770996,
+    "MapY": 1752.573853
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92569.742188,
+    "Y": -5307.284668,
+    "Z": -14887.256836,
+    "MapX": 2634.932617,
+    "MapY": 1752.389893
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92923.117188,
+    "Y": -5241.068848,
+    "Z": -14805.356445,
+    "MapX": 2636.494629,
+    "MapY": 1752.683838
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92972.4375,
+    "Y": -5582.138184,
+    "Z": -14942.540039,
+    "MapX": 2636.712646,
+    "MapY": 1751.169678
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 93088.484375,
+    "Y": -6264.449219,
+    "Z": -16001.029297,
+    "MapX": 2637.22583,
+    "MapY": 1748.140625
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 93138.109375,
+    "Y": -6318.390625,
+    "Z": -16003.71582,
+    "MapX": 2637.445068,
+    "MapY": 1747.901245
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 93170.023438,
+    "Y": -6189.197266,
+    "Z": -15953.688477,
+    "MapX": 2637.586182,
+    "MapY": 1748.474731
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 93175.734375,
+    "Y": -5435.361328,
+    "Z": -14795.505859,
+    "MapX": 2637.611328,
+    "MapY": 1751.821289
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94205.671875,
+    "Y": -5777.315918,
+    "Z": -14833.913086,
+    "MapX": 2642.164307,
+    "MapY": 1750.303223
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94244.765625,
+    "Y": -5714.428223,
+    "Z": -14832.216797,
+    "MapX": 2642.336914,
+    "MapY": 1750.582397
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94298.554688,
+    "Y": -5871.095215,
+    "Z": -14836.09082,
+    "MapX": 2642.574707,
+    "MapY": 1749.886963
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94305.796875,
+    "Y": -5950.477539,
+    "Z": -14839.917969,
+    "MapX": 2642.606934,
+    "MapY": 1749.534424
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94318.171875,
+    "Y": -5799.794434,
+    "Z": -14835.869141,
+    "MapX": 2642.661621,
+    "MapY": 1750.203369
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94365.421875,
+    "Y": -5798.150391,
+    "Z": -14836.317383,
+    "MapX": 2642.870605,
+    "MapY": 1750.210693
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94361.890625,
+    "Y": -6005.067871,
+    "Z": -14873.603516,
+    "MapX": 2642.854736,
+    "MapY": 1749.292236
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94367.664063,
+    "Y": -6114.883789,
+    "Z": -14919.048828,
+    "MapX": 2642.880371,
+    "MapY": 1748.804688
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94566.914063,
+    "Y": -8700.000977,
+    "Z": -16651.294922,
+    "MapX": 2643.760986,
+    "MapY": 1737.328491
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 94610.1875,
+    "Y": -8800.001953,
+    "Z": -16653.046875,
+    "MapX": 2643.952393,
+    "MapY": 1736.884521
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 90340.125,
+    "Y": -1915.757446,
+    "Z": -15200.485352,
+    "MapX": 2625.07666,
+    "MapY": 1767.445923
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 90393.523438,
+    "Y": -1356.800903,
+    "Z": -14820.25,
+    "MapX": 2625.3125,
+    "MapY": 1769.927246
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 90406.546875,
+    "Y": -1494.536011,
+    "Z": -14830.777344,
+    "MapX": 2625.370117,
+    "MapY": 1769.315796
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 90457.195313,
+    "Y": -1363.672363,
+    "Z": -14815.21875,
+    "MapX": 2625.593994,
+    "MapY": 1769.896729
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 90488.242188,
+    "Y": -1684.998291,
+    "Z": -14898.71875,
+    "MapX": 2625.731201,
+    "MapY": 1768.470215
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 90492.078125,
+    "Y": -1451.160278,
+    "Z": -14817.900391,
+    "MapX": 2625.748291,
+    "MapY": 1769.508301
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 90522.828125,
+    "Y": -1506.201294,
+    "Z": -14818.829102,
+    "MapX": 2625.884277,
+    "MapY": 1769.263916
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 91805.085938,
+    "Y": -1672.42627,
+    "Z": -14816.541016,
+    "MapX": 2631.55249,
+    "MapY": 1768.526123
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 91839.59375,
+    "Y": -1756.373047,
+    "Z": -14827.714844,
+    "MapX": 2631.705078,
+    "MapY": 1768.153442
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 91965.882813,
+    "Y": -1792.771484,
+    "Z": -14859.52832,
+    "MapX": 2632.263184,
+    "MapY": 1767.991821
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92016.5,
+    "Y": -2108.416504,
+    "Z": -14914.328125,
+    "MapX": 2632.487061,
+    "MapY": 1766.590576
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92023.46875,
+    "Y": -2355.472656,
+    "Z": -14893.972656,
+    "MapX": 2632.517822,
+    "MapY": 1765.493896
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92150.523438,
+    "Y": -2076.229004,
+    "Z": -15019.380859,
+    "MapX": 2633.07959,
+    "MapY": 1766.733398
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92183.757813,
+    "Y": -3777.130127,
+    "Z": -14950.637695,
+    "MapX": 2633.226318,
+    "MapY": 1759.182617
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92231.1875,
+    "Y": -4813.955078,
+    "Z": -14833.431641,
+    "MapX": 2633.436035,
+    "MapY": 1754.579834
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92288.71875,
+    "Y": -4952.282715,
+    "Z": -14831.009766,
+    "MapX": 2633.69043,
+    "MapY": 1753.96582
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92324.148438,
+    "Y": -4879.050293,
+    "Z": -14822.311523,
+    "MapX": 2633.846924,
+    "MapY": 1754.290894
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92383.945313,
+    "Y": -3462.766602,
+    "Z": -14889.833984,
+    "MapX": 2634.111328,
+    "MapY": 1760.578247
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92417.78125,
+    "Y": -3580.146729,
+    "Z": -14861.206055,
+    "MapX": 2634.260742,
+    "MapY": 1760.057129
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 92489.5625,
+    "Y": -4907.493164,
+    "Z": -14798.551758,
+    "MapX": 2634.578125,
+    "MapY": 1754.164551
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 178460.375,
+    "Y": 122329.453125,
+    "Z": -17488.841797,
+    "MapX": 3014.612305,
+    "MapY": 2319.008301
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 178432.390625,
+    "Y": 122632.390625,
+    "Z": -17445.447266,
+    "MapX": 3014.488525,
+    "MapY": 2320.353027
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 178424.671875,
+    "Y": 122516.140625,
+    "Z": -17463.761719,
+    "MapX": 3014.45459,
+    "MapY": 2319.836914
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 178415.375,
+    "Y": 122700,
+    "Z": -17436.597656,
+    "MapX": 3014.413574,
+    "MapY": 2320.65332
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 178047.90625,
+    "Y": 122209.929688,
+    "Z": -17528.298828,
+    "MapX": 3012.788818,
+    "MapY": 2318.477539
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177993.65625,
+    "Y": 122100,
+    "Z": -17551.029297,
+    "MapX": 3012.549072,
+    "MapY": 2317.989746
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177976.046875,
+    "Y": 122200,
+    "Z": -17532.966797,
+    "MapX": 3012.471436,
+    "MapY": 2318.433594
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177949.109375,
+    "Y": 122250.820313,
+    "Z": -17524.490234,
+    "MapX": 3012.352295,
+    "MapY": 2318.65918
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177907.984375,
+    "Y": 122113.132813,
+    "Z": -17551.912109,
+    "MapX": 3012.170654,
+    "MapY": 2318.047852
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177443.328125,
+    "Y": 123332.140625,
+    "Z": -17365.175781,
+    "MapX": 3010.116455,
+    "MapY": 2323.459473
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177300,
+    "Y": 123547.757813,
+    "Z": -17333.267578,
+    "MapX": 3009.48291,
+    "MapY": 2324.416748
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177264.65625,
+    "Y": 123395.21875,
+    "Z": -17367.025391,
+    "MapX": 3009.32666,
+    "MapY": 2323.739502
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177261.078125,
+    "Y": 123461.078125,
+    "Z": -17354.525391,
+    "MapX": 3009.310791,
+    "MapY": 2324.031738
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177245.125,
+    "Y": 123269.242188,
+    "Z": -17394.173828,
+    "MapX": 3009.240234,
+    "MapY": 2323.180176
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 177047.375,
+    "Y": 123254.742188,
+    "Z": -17406.126953,
+    "MapX": 3008.366211,
+    "MapY": 2323.115967
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176941.34375,
+    "Y": 123379.820313,
+    "Z": -17395.876953,
+    "MapX": 3007.897705,
+    "MapY": 2323.671143
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176886.46875,
+    "Y": 123424.078125,
+    "Z": -17391.429688,
+    "MapX": 3007.655029,
+    "MapY": 2323.867676
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176817.03125,
+    "Y": 122617.023438,
+    "Z": -17441.771484,
+    "MapX": 3007.3479,
+    "MapY": 2320.284912
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176798.921875,
+    "Y": 123298.914063,
+    "Z": -17350.638672,
+    "MapX": 3007.268066,
+    "MapY": 2323.312012
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176787.375,
+    "Y": 123369.640625,
+    "Z": -17359.800781,
+    "MapX": 3007.217041,
+    "MapY": 2323.625977
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176791.09375,
+    "Y": 122667.414063,
+    "Z": -17431.728516,
+    "MapX": 3007.233398,
+    "MapY": 2320.508545
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176773.515625,
+    "Y": 123336.21875,
+    "Z": -17347.375,
+    "MapX": 3007.155518,
+    "MapY": 2323.477539
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176775.875,
+    "Y": 122570.164063,
+    "Z": -17448.205078,
+    "MapX": 3007.166016,
+    "MapY": 2320.076904
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176723.6875,
+    "Y": 123386.296875,
+    "Z": -17339.753906,
+    "MapX": 3006.935303,
+    "MapY": 2323.699951
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176713.484375,
+    "Y": 123301.914063,
+    "Z": -17316.021484,
+    "MapX": 3006.890381,
+    "MapY": 2323.325195
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176675.03125,
+    "Y": 123190.53125,
+    "Z": -17343.777344,
+    "MapX": 3006.719971,
+    "MapY": 2322.830811
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176662.5625,
+    "Y": 122519.921875,
+    "Z": -17463.148438,
+    "MapX": 3006.665039,
+    "MapY": 2319.85376
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176107.0625,
+    "Y": 123144.523438,
+    "Z": -17458.222656,
+    "MapX": 3004.209473,
+    "MapY": 2322.626465
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 176033.640625,
+    "Y": 124116.601563,
+    "Z": -17414.162109,
+    "MapX": 3003.884766,
+    "MapY": 2326.941895
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 175988.09375,
+    "Y": 123018.984375,
+    "Z": -17527.623047,
+    "MapX": 3003.683838,
+    "MapY": 2322.069336
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 175987.234375,
+    "Y": 123082.5625,
+    "Z": -17510.519531,
+    "MapX": 3003.679932,
+    "MapY": 2322.351563
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 175978.90625,
+    "Y": 124042.40625,
+    "Z": -17423.642578,
+    "MapX": 3003.642822,
+    "MapY": 2326.612549
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 175948.625,
+    "Y": 123191.632813,
+    "Z": -17493.339844,
+    "MapX": 3003.509277,
+    "MapY": 2322.835693
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 175900,
+    "Y": 124126.726563,
+    "Z": -17428.326172,
+    "MapX": 3003.294189,
+    "MapY": 2326.986816
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 175818.484375,
+    "Y": 124278.65625,
+    "Z": -17417.707031,
+    "MapX": 3002.933838,
+    "MapY": 2327.661377
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 175662.078125,
+    "Y": 124176.914063,
+    "Z": -17442.564453,
+    "MapX": 3002.242432,
+    "MapY": 2327.209717
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174907.09375,
+    "Y": 124300,
+    "Z": -17544.765625,
+    "MapX": 2998.905273,
+    "MapY": 2327.756104
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174804.828125,
+    "Y": 124227.546875,
+    "Z": -17569.101563,
+    "MapX": 2998.452881,
+    "MapY": 2327.43457
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174802.484375,
+    "Y": 124461.4375,
+    "Z": -17535.246094,
+    "MapX": 2998.442627,
+    "MapY": 2328.472656
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174800,
+    "Y": 123876.335938,
+    "Z": -17607.873047,
+    "MapX": 2998.431641,
+    "MapY": 2325.875244
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174784.703125,
+    "Y": 124312.664063,
+    "Z": -17561.023438,
+    "MapX": 2998.364014,
+    "MapY": 2327.812256
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174300,
+    "Y": 124320.164063,
+    "Z": -17620.130859,
+    "MapX": 2996.221436,
+    "MapY": 2327.845703
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174476.59375,
+    "Y": 124328.734375,
+    "Z": -17608.167969,
+    "MapX": 2997.002197,
+    "MapY": 2327.883789
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174491.171875,
+    "Y": 124452.109375,
+    "Z": -17588.740234,
+    "MapX": 2997.06665,
+    "MapY": 2328.431396
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174534.078125,
+    "Y": 124298.546875,
+    "Z": -17605.255859,
+    "MapX": 2997.256104,
+    "MapY": 2327.749756
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174587.65625,
+    "Y": 124265.789063,
+    "Z": -17600.886719,
+    "MapX": 2997.49292,
+    "MapY": 2327.604248
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174637.65625,
+    "Y": 124511.789063,
+    "Z": -17561.458984,
+    "MapX": 2997.713867,
+    "MapY": 2328.696289
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174653.6875,
+    "Y": 124430.59375,
+    "Z": -17567.960938,
+    "MapX": 2997.784912,
+    "MapY": 2328.335938
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174704.9375,
+    "Y": 123861.3125,
+    "Z": -17620.980469,
+    "MapX": 2998.011475,
+    "MapY": 2325.808594
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 174754.28125,
+    "Y": 123785.867188,
+    "Z": -17622.640625,
+    "MapX": 2998.229492,
+    "MapY": 2325.473633
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 151805.953125,
+    "Y": 173327.1875,
+    "Z": -15449.701172,
+    "MapX": 2896.786377,
+    "MapY": 2545.402832
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 151842.953125,
+    "Y": 173242.671875,
+    "Z": -15449.169922,
+    "MapX": 2896.949951,
+    "MapY": 2545.027588
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 151970.53125,
+    "Y": 173206.53125,
+    "Z": -15447.853516,
+    "MapX": 2897.513916,
+    "MapY": 2544.867188
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152024.03125,
+    "Y": 172890.171875,
+    "Z": -15468.361328,
+    "MapX": 2897.750244,
+    "MapY": 2543.462646
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152025.9375,
+    "Y": 172651.125,
+    "Z": -15499.880859,
+    "MapX": 2897.758789,
+    "MapY": 2542.401611
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152118.421875,
+    "Y": 173274.25,
+    "Z": -15444.746094,
+    "MapX": 2898.167725,
+    "MapY": 2545.167725
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152124.96875,
+    "Y": 172758.25,
+    "Z": -15493.741211,
+    "MapX": 2898.196777,
+    "MapY": 2542.876953
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152133.734375,
+    "Y": 172866.515625,
+    "Z": -15482.364258,
+    "MapX": 2898.235352,
+    "MapY": 2543.357666
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152151.640625,
+    "Y": 171579.65625,
+    "Z": -17555.425781,
+    "MapX": 2898.314453,
+    "MapY": 2537.64502
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152157.28125,
+    "Y": 172926.125,
+    "Z": -15478.03125,
+    "MapX": 2898.339355,
+    "MapY": 2543.622314
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152158.546875,
+    "Y": 173406.125,
+    "Z": -15441.292969,
+    "MapX": 2898.345215,
+    "MapY": 2545.753174
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152170.28125,
+    "Y": 171227.640625,
+    "Z": -17582.640625,
+    "MapX": 2898.396729,
+    "MapY": 2536.082275
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152187.609375,
+    "Y": 171314.046875,
+    "Z": -17584.601563,
+    "MapX": 2898.473633,
+    "MapY": 2536.46582
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152186.25,
+    "Y": 171386.25,
+    "Z": -17578.974609,
+    "MapX": 2898.467529,
+    "MapY": 2536.786377
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152210.21875,
+    "Y": 173397.015625,
+    "Z": -15442.527344,
+    "MapX": 2898.573486,
+    "MapY": 2545.712891
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152209.375,
+    "Y": 172736.484375,
+    "Z": -15508.333008,
+    "MapX": 2898.569824,
+    "MapY": 2542.780518
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152240.015625,
+    "Y": 171477,
+    "Z": -17593.5,
+    "MapX": 2898.705078,
+    "MapY": 2537.189209
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152244.34375,
+    "Y": 171415.28125,
+    "Z": -17599.951172,
+    "MapX": 2898.724609,
+    "MapY": 2536.915283
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152249.5,
+    "Y": 172591.546875,
+    "Z": -15547.470703,
+    "MapX": 2898.74707,
+    "MapY": 2542.136963
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152300,
+    "Y": 171422.09375,
+    "Z": -17621.541016,
+    "MapX": 2898.970459,
+    "MapY": 2536.945557
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152373.765625,
+    "Y": 171540.09375,
+    "Z": -17642.882813,
+    "MapX": 2899.296387,
+    "MapY": 2537.469238
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152400,
+    "Y": 171423.203125,
+    "Z": -17661.650391,
+    "MapX": 2899.412354,
+    "MapY": 2536.950439
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152466.125,
+    "Y": 172677.796875,
+    "Z": -15564.992188,
+    "MapX": 2899.70459,
+    "MapY": 2542.52002
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152527.15625,
+    "Y": 171312.265625,
+    "Z": -17722.341797,
+    "MapX": 2899.974365,
+    "MapY": 2536.458008
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152581.359375,
+    "Y": 172740.90625,
+    "Z": -15593.516602,
+    "MapX": 2900.214111,
+    "MapY": 2542.800049
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152597.03125,
+    "Y": 172615.625,
+    "Z": -15630.283203,
+    "MapX": 2900.283203,
+    "MapY": 2542.243896
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152601.625,
+    "Y": 172681.40625,
+    "Z": -15615.445313,
+    "MapX": 2900.303711,
+    "MapY": 2542.535889
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152650.09375,
+    "Y": 172657.203125,
+    "Z": -15638.407227,
+    "MapX": 2900.518066,
+    "MapY": 2542.428467
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152676.96875,
+    "Y": 172533.03125,
+    "Z": -15678.810547,
+    "MapX": 2900.636719,
+    "MapY": 2541.877197
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152690.625,
+    "Y": 172770.21875,
+    "Z": -15624.306641,
+    "MapX": 2900.697021,
+    "MapY": 2542.930176
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 153164.765625,
+    "Y": 174707.390625,
+    "Z": -15513.027344,
+    "MapX": 2902.792969,
+    "MapY": 2551.529785
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 153328.265625,
+    "Y": 174678.421875,
+    "Z": -15563.689453,
+    "MapX": 2903.515625,
+    "MapY": 2551.401367
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 153338.203125,
+    "Y": 174751.890625,
+    "Z": -15573.371094,
+    "MapX": 2903.559814,
+    "MapY": 2551.727539
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 153599.203125,
+    "Y": 174081.921875,
+    "Z": -15573.665039,
+    "MapX": 2904.713379,
+    "MapY": 2548.753174
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152042.25,
+    "Y": 176155.96875,
+    "Z": -15444.943359,
+    "MapX": 2897.831055,
+    "MapY": 2557.960449
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152082.09375,
+    "Y": 176171.296875,
+    "Z": -15447.313477,
+    "MapX": 2898.00708,
+    "MapY": 2558.028564
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152113.71875,
+    "Y": 176251.03125,
+    "Z": -15454.533203,
+    "MapX": 2898.146973,
+    "MapY": 2558.382568
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152168.15625,
+    "Y": 176242.078125,
+    "Z": -15455.410156,
+    "MapX": 2898.387451,
+    "MapY": 2558.342773
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152182.453125,
+    "Y": 176295.78125,
+    "Z": -15460.069336,
+    "MapX": 2898.450684,
+    "MapY": 2558.581299
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152284.859375,
+    "Y": 176260.78125,
+    "Z": -15460.28125,
+    "MapX": 2898.903564,
+    "MapY": 2558.425781
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 152398.796875,
+    "Y": 176157.234375,
+    "Z": -15455.413086,
+    "MapX": 2899.407227,
+    "MapY": 2557.966309
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 191414.578125,
+    "Y": 9577.331055,
+    "Z": -15086.762695,
+    "MapX": 3071.876465,
+    "MapY": 1818.467163
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 191454.25,
+    "Y": 9505.095703,
+    "Z": -15083.261719,
+    "MapX": 3072.052002,
+    "MapY": 1818.146484
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 191491.8125,
+    "Y": 9591.813477,
+    "Z": -15075.561523,
+    "MapX": 3072.217773,
+    "MapY": 1818.531494
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192039.140625,
+    "Y": 9614.163086,
+    "Z": -14968.175781,
+    "MapX": 3074.637451,
+    "MapY": 1818.630615
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192118.03125,
+    "Y": 9718.02832,
+    "Z": -14966.703125,
+    "MapX": 3074.98584,
+    "MapY": 1819.091797
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192170.734375,
+    "Y": 9593.956055,
+    "Z": -14942.791992,
+    "MapX": 3075.218994,
+    "MapY": 1818.541016
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192652.09375,
+    "Y": 8612.289063,
+    "Z": -14693.026367,
+    "MapX": 3077.347168,
+    "MapY": 1814.183105
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192700,
+    "Y": 8749.961914,
+    "Z": -14717.961914,
+    "MapX": 3077.558594,
+    "MapY": 1814.794189
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192741.53125,
+    "Y": 8705.363281,
+    "Z": -14699.52832,
+    "MapX": 3077.742188,
+    "MapY": 1814.596191
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192782.46875,
+    "Y": 8516.080078,
+    "Z": -14640.474609,
+    "MapX": 3077.92334,
+    "MapY": 1813.755859
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192782.328125,
+    "Y": 8576.806641,
+    "Z": -14658.054688,
+    "MapX": 3077.922607,
+    "MapY": 1814.025635
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192815.265625,
+    "Y": 8634.56543,
+    "Z": -14666.276367,
+    "MapX": 3078.068115,
+    "MapY": 1814.281982
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192887.109375,
+    "Y": 8384.552734,
+    "Z": -14579.498047,
+    "MapX": 3078.385742,
+    "MapY": 1813.172119
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193117.921875,
+    "Y": 6228.981934,
+    "Z": -14540.373047,
+    "MapX": 3079.406006,
+    "MapY": 1803.602905
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193182.75,
+    "Y": 6188.93457,
+    "Z": -14532.035156,
+    "MapX": 3079.692627,
+    "MapY": 1803.425049
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193250.1875,
+    "Y": 7899.999023,
+    "Z": -14368.732422,
+    "MapX": 3079.990967,
+    "MapY": 1811.020996
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193335.25,
+    "Y": 7856.687988,
+    "Z": -14356.759766,
+    "MapX": 3080.366699,
+    "MapY": 1810.828613
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193351.640625,
+    "Y": 8037.535156,
+    "Z": -14388.664063,
+    "MapX": 3080.439209,
+    "MapY": 1811.631592
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193378.671875,
+    "Y": 6158.259766,
+    "Z": -14492.327148,
+    "MapX": 3080.558838,
+    "MapY": 1803.28894
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193411.90625,
+    "Y": 8089.59082,
+    "Z": -14398.06543,
+    "MapX": 3080.705322,
+    "MapY": 1811.862671
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193432.890625,
+    "Y": 5999.999023,
+    "Z": -14490.183594,
+    "MapX": 3080.79834,
+    "MapY": 1802.586304
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193435.703125,
+    "Y": 5837.378418,
+    "Z": -14497.804688,
+    "MapX": 3080.810791,
+    "MapY": 1801.86438
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193453.0625,
+    "Y": 7932.844727,
+    "Z": -14351.993164,
+    "MapX": 3080.887451,
+    "MapY": 1811.166748
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193481.484375,
+    "Y": 6116.219727,
+    "Z": -14473.134766,
+    "MapX": 3081.013184,
+    "MapY": 1803.102295
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193500,
+    "Y": 6151.980469,
+    "Z": -14468.688477,
+    "MapX": 3081.094971,
+    "MapY": 1803.261108
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193572.71875,
+    "Y": 7796.567871,
+    "Z": -14316.782227,
+    "MapX": 3081.416748,
+    "MapY": 1810.561768
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193573.53125,
+    "Y": 6049.481445,
+    "Z": -14461.433594,
+    "MapX": 3081.419922,
+    "MapY": 1802.805908
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 193669.078125,
+    "Y": 6028.324219,
+    "Z": -14444.893555,
+    "MapX": 3081.842285,
+    "MapY": 1802.712158
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 194232.40625,
+    "Y": 6709.441406,
+    "Z": -14174.587891,
+    "MapX": 3084.33252,
+    "MapY": 1805.735718
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 194260.28125,
+    "Y": 6860.687988,
+    "Z": -14129.701172,
+    "MapX": 3084.455811,
+    "MapY": 1806.407227
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 191882.5625,
+    "Y": 10531.800781,
+    "Z": -14920.617188,
+    "MapX": 3073.945068,
+    "MapY": 1822.704346
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 191907.109375,
+    "Y": 10399.535156,
+    "Z": -14954.759766,
+    "MapX": 3074.053711,
+    "MapY": 1822.117188
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 191980.71875,
+    "Y": 10531.791992,
+    "Z": -14915.294922,
+    "MapX": 3074.379395,
+    "MapY": 1822.704346
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 191982.765625,
+    "Y": 10582.765625,
+    "Z": -14908.619141,
+    "MapX": 3074.388184,
+    "MapY": 1822.930664
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192037.546875,
+    "Y": 10585.425781,
+    "Z": -14903.381836,
+    "MapX": 3074.630371,
+    "MapY": 1822.942383
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192048.8125,
+    "Y": 10448.328125,
+    "Z": -14926.325195,
+    "MapX": 3074.680176,
+    "MapY": 1822.33374
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 192748.765625,
+    "Y": 10966.34375,
+    "Z": -15003.027344,
+    "MapX": 3077.77417,
+    "MapY": 1824.633423
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195034.046875,
+    "Y": 7268.084961,
+    "Z": -13462.018555,
+    "MapX": 3087.876465,
+    "MapY": 1808.215698
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195042.59375,
+    "Y": 7399.998047,
+    "Z": -13439.441406,
+    "MapX": 3087.914307,
+    "MapY": 1808.801392
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195074.296875,
+    "Y": 7448.754395,
+    "Z": -13429.916016,
+    "MapX": 3088.054443,
+    "MapY": 1809.0177
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195100,
+    "Y": 7475.233887,
+    "Z": -13423.416992,
+    "MapX": 3088.167969,
+    "MapY": 1809.135254
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195108.90625,
+    "Y": 7405.239258,
+    "Z": -13427.501953,
+    "MapX": 3088.207031,
+    "MapY": 1808.824585
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195120.1875,
+    "Y": 7595.79834,
+    "Z": -13423.84668,
+    "MapX": 3088.25708,
+    "MapY": 1809.670532
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195130.078125,
+    "Y": 7330.072754,
+    "Z": -13434.811523,
+    "MapX": 3088.300781,
+    "MapY": 1808.490967
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 195166.625,
+    "Y": 7442.814941,
+    "Z": -13407.905273,
+    "MapX": 3088.462402,
+    "MapY": 1808.991333
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112400,
+    "Y": -88833.632813,
+    "Z": -10905.836914,
+    "MapX": 2722.592285,
+    "MapY": 1381.590942
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 114852.898438,
+    "Y": -91612.273438,
+    "Z": -12031.610352,
+    "MapX": 2733.435303,
+    "MapY": 1369.255615
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 114851.523438,
+    "Y": -91657.304688,
+    "Z": -12031.520508,
+    "MapX": 2733.429199,
+    "MapY": 1369.055664
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 114794.179688,
+    "Y": -91555.890625,
+    "Z": -12014.518555,
+    "MapX": 2733.175781,
+    "MapY": 1369.505981
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 114733.773438,
+    "Y": -91501.890625,
+    "Z": -11991.148438,
+    "MapX": 2732.908936,
+    "MapY": 1369.745728
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 114248.96875,
+    "Y": -93151.03125,
+    "Z": -12471.347656,
+    "MapX": 2730.765625,
+    "MapY": 1362.424683
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 114224.53125,
+    "Y": -93300,
+    "Z": -12466.185547,
+    "MapX": 2730.657715,
+    "MapY": 1361.763306
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113576.414063,
+    "Y": -92196.953125,
+    "Z": -12141.598633,
+    "MapX": 2727.79248,
+    "MapY": 1366.660156
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113503.179688,
+    "Y": -93846.757813,
+    "Z": -12513.041016,
+    "MapX": 2727.468994,
+    "MapY": 1359.336182
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113481.351563,
+    "Y": -93880.40625,
+    "Z": -12520.536133,
+    "MapX": 2727.372314,
+    "MapY": 1359.186768
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113462.5,
+    "Y": -92054.8125,
+    "Z": -12120.711914,
+    "MapX": 2727.289063,
+    "MapY": 1367.291016
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113416.585938,
+    "Y": -91900,
+    "Z": -12079.358398,
+    "MapX": 2727.086182,
+    "MapY": 1367.978394
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113377.914063,
+    "Y": -93838.3125,
+    "Z": -12531.708008,
+    "MapX": 2726.915039,
+    "MapY": 1359.373535
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113357.085938,
+    "Y": -91952.257813,
+    "Z": -12147.967773,
+    "MapX": 2726.823242,
+    "MapY": 1367.746338
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 113256.476563,
+    "Y": -92090.609375,
+    "Z": -12298.792969,
+    "MapX": 2726.378174,
+    "MapY": 1367.13208
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112885.992188,
+    "Y": -91600,
+    "Z": -12114.830078,
+    "MapX": 2724.740723,
+    "MapY": 1369.310181
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112813.867188,
+    "Y": -91359.375,
+    "Z": -11984.010742,
+    "MapX": 2724.421875,
+    "MapY": 1370.378418
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112781.546875,
+    "Y": -91400,
+    "Z": -11998.422852,
+    "MapX": 2724.278809,
+    "MapY": 1370.197998
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112790.953125,
+    "Y": -91467.140625,
+    "Z": -12033.897461,
+    "MapX": 2724.320557,
+    "MapY": 1369.900024
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112738.195313,
+    "Y": -91287.523438,
+    "Z": -11967.320313,
+    "MapX": 2724.087402,
+    "MapY": 1370.697266
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112701.226563,
+    "Y": -91243.5625,
+    "Z": -11954.980469,
+    "MapX": 2723.923828,
+    "MapY": 1370.892456
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112659.664063,
+    "Y": -91374.460938,
+    "Z": -12030.640625,
+    "MapX": 2723.740234,
+    "MapY": 1370.311279
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 112123.976563,
+    "Y": -90266.164063,
+    "Z": -11499.651367,
+    "MapX": 2721.37207,
+    "MapY": 1375.231445
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 111500,
+    "Y": -90398.539063,
+    "Z": -12133.170898,
+    "MapX": 2718.61377,
+    "MapY": 1374.643921
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 111460.476563,
+    "Y": -90490.03125,
+    "Z": -12212.217773,
+    "MapX": 2718.439209,
+    "MapY": 1374.237671
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 167239.3125,
+    "Y": -64610.550781,
+    "Z": -14956.870117,
+    "MapX": 2965.009521,
+    "MapY": 1489.12439
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 167400,
+    "Y": -64736.949219,
+    "Z": -14804.810547,
+    "MapX": 2965.719971,
+    "MapY": 1488.563477
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 167472.5,
+    "Y": -64552.355469,
+    "Z": -14862.102539,
+    "MapX": 2966.040527,
+    "MapY": 1489.382935
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 167551.8125,
+    "Y": -64895.703125,
+    "Z": -14647.464844,
+    "MapX": 2966.391113,
+    "MapY": 1487.858643
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 167600,
+    "Y": -64840.839844,
+    "Z": -14645.701172,
+    "MapX": 2966.604004,
+    "MapY": 1488.102173
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 167956.90625,
+    "Y": -63843.09375,
+    "Z": -15026.429688,
+    "MapX": 2968.181641,
+    "MapY": 1492.531494
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 168054.25,
+    "Y": -63803.027344,
+    "Z": -15024.322266,
+    "MapX": 2968.612061,
+    "MapY": 1492.709351
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 168200,
+    "Y": -63822.050781,
+    "Z": -14999.223633,
+    "MapX": 2969.256348,
+    "MapY": 1492.624878
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 168234.90625,
+    "Y": -63740.976563,
+    "Z": -15022.317383,
+    "MapX": 2969.4104,
+    "MapY": 1492.984863
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 168925.078125,
+    "Y": -64065.164063,
+    "Z": -14831.140625,
+    "MapX": 2972.46167,
+    "MapY": 1491.545776
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 168950.15625,
+    "Y": -63949.839844,
+    "Z": -14889.508789,
+    "MapX": 2972.572266,
+    "MapY": 1492.057617
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 168977.140625,
+    "Y": -64074.007813,
+    "Z": -14817.701172,
+    "MapX": 2972.69165,
+    "MapY": 1491.50647
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169032.75,
+    "Y": -63896.429688,
+    "Z": -14902.138672,
+    "MapX": 2972.9375,
+    "MapY": 1492.294678
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169035.0625,
+    "Y": -64064.941406,
+    "Z": -14811.97168,
+    "MapX": 2972.947754,
+    "MapY": 1491.546631
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169079.9375,
+    "Y": -64220.0625,
+    "Z": -14691.545898,
+    "MapX": 2973.14624,
+    "MapY": 1490.858032
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169090.875,
+    "Y": -64103.382813,
+    "Z": -14774.259766,
+    "MapX": 2973.194336,
+    "MapY": 1491.375977
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169455.078125,
+    "Y": -63289.292969,
+    "Z": -14966.973633,
+    "MapX": 2974.804199,
+    "MapY": 1494.98999
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169456.40625,
+    "Y": -63382.398438,
+    "Z": -14946.584961,
+    "MapX": 2974.810059,
+    "MapY": 1494.57666
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169500,
+    "Y": -62953.105469,
+    "Z": -15044.172852,
+    "MapX": 2975.00293,
+    "MapY": 1496.482544
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169542.5,
+    "Y": -63326.042969,
+    "Z": -14951.995117,
+    "MapX": 2975.190918,
+    "MapY": 1494.826904
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169568.609375,
+    "Y": -63113.75,
+    "Z": -14997.041016,
+    "MapX": 2975.306396,
+    "MapY": 1495.769287
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169826.296875,
+    "Y": -63345.574219,
+    "Z": -14933.835938,
+    "MapX": 2976.445557,
+    "MapY": 1494.740234
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 169851,
+    "Y": -63511.40625,
+    "Z": -14900.081055,
+    "MapX": 2976.554688,
+    "MapY": 1494.004028
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170100,
+    "Y": -65326.785156,
+    "Z": -13868.569336,
+    "MapX": 2977.655273,
+    "MapY": 1485.944946
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170035.21875,
+    "Y": -62738.945313,
+    "Z": -15018.865234,
+    "MapX": 2977.369141,
+    "MapY": 1497.433228
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170042.671875,
+    "Y": -62600.746094,
+    "Z": -15045.970703,
+    "MapX": 2977.401855,
+    "MapY": 1498.046631
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170074.359375,
+    "Y": -62555.488281,
+    "Z": -15050.664063,
+    "MapX": 2977.541992,
+    "MapY": 1498.247559
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170100.984375,
+    "Y": -62531.449219,
+    "Z": -15051.583984,
+    "MapX": 2977.659668,
+    "MapY": 1498.35437
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170106.796875,
+    "Y": -62600,
+    "Z": -15035.923828,
+    "MapX": 2977.685547,
+    "MapY": 1498.049927
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170116.890625,
+    "Y": -62405.851563,
+    "Z": -15077.813477,
+    "MapX": 2977.729736,
+    "MapY": 1498.911865
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170124.578125,
+    "Y": -62675.421875,
+    "Z": -15019.700195,
+    "MapX": 2977.763916,
+    "MapY": 1497.715088
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170162.859375,
+    "Y": -62564.667969,
+    "Z": -15036.53125,
+    "MapX": 2977.93335,
+    "MapY": 1498.206787
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 170956.625,
+    "Y": -64115.574219,
+    "Z": -14114.996094,
+    "MapX": 2981.441895,
+    "MapY": 1491.322021
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171010.203125,
+    "Y": -63942.679688,
+    "Z": -14166.229492,
+    "MapX": 2981.678711,
+    "MapY": 1492.089478
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171039.5625,
+    "Y": -64041.699219,
+    "Z": -14129.648438,
+    "MapX": 2981.808594,
+    "MapY": 1491.649902
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171098.34375,
+    "Y": -63501.664063,
+    "Z": -14313.426758,
+    "MapX": 2982.068604,
+    "MapY": 1494.047241
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171108.375,
+    "Y": -63710.96875,
+    "Z": -14238.017578,
+    "MapX": 2982.112793,
+    "MapY": 1493.118042
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171140.34375,
+    "Y": -63821.152344,
+    "Z": -14192.858398,
+    "MapX": 2982.254395,
+    "MapY": 1492.628906
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171200,
+    "Y": -63778.476563,
+    "Z": -14196.96582,
+    "MapX": 2982.517822,
+    "MapY": 1492.818359
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171223.703125,
+    "Y": -64035.773438,
+    "Z": -14134.842773,
+    "MapX": 2982.622559,
+    "MapY": 1491.676147
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171238.5,
+    "Y": -64095.445313,
+    "Z": -14130.118164,
+    "MapX": 2982.688232,
+    "MapY": 1491.411255
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171250.3125,
+    "Y": -63772.882813,
+    "Z": -14192.21582,
+    "MapX": 2982.740234,
+    "MapY": 1492.843262
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171333.5625,
+    "Y": -63900.203125,
+    "Z": -14162.763672,
+    "MapX": 2983.108154,
+    "MapY": 1492.278076
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171379.96875,
+    "Y": -64060.867188,
+    "Z": -14147.40918,
+    "MapX": 2983.313477,
+    "MapY": 1491.564819
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171411.234375,
+    "Y": -63074.308594,
+    "Z": -14508.750977,
+    "MapX": 2983.45166,
+    "MapY": 1495.944458
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171447.859375,
+    "Y": -64085.519531,
+    "Z": -14152.357422,
+    "MapX": 2983.613525,
+    "MapY": 1491.455322
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171475.375,
+    "Y": -62893.152344,
+    "Z": -14579.726563,
+    "MapX": 2983.735107,
+    "MapY": 1496.748535
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171530.46875,
+    "Y": -63731.425781,
+    "Z": -14218.042969,
+    "MapX": 2983.97876,
+    "MapY": 1493.027222
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171530.71875,
+    "Y": -63700,
+    "Z": -14223.490234,
+    "MapX": 2983.97998,
+    "MapY": 1493.166748
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171564.890625,
+    "Y": -63135.109375,
+    "Z": -14460.081055,
+    "MapX": 2984.130859,
+    "MapY": 1495.674316
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171600,
+    "Y": -63077.621094,
+    "Z": -14481.491211,
+    "MapX": 2984.285889,
+    "MapY": 1495.929688
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171616.59375,
+    "Y": -64045.300781,
+    "Z": -14177.380859,
+    "MapX": 2984.359619,
+    "MapY": 1491.633789
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171637.78125,
+    "Y": -63754.703125,
+    "Z": -14232.307617,
+    "MapX": 2984.452881,
+    "MapY": 1492.92395
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171650.640625,
+    "Y": -63729.484375,
+    "Z": -14238.949219,
+    "MapX": 2984.509766,
+    "MapY": 1493.035767
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171650.140625,
+    "Y": -63626.632813,
+    "Z": -14256.926758,
+    "MapX": 2984.507568,
+    "MapY": 1493.492432
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 171655.90625,
+    "Y": -63581.589844,
+    "Z": -14268.073242,
+    "MapX": 2984.533203,
+    "MapY": 1493.692383
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242562.71875,
+    "Y": 101969.382813,
+    "Z": -11792.15625,
+    "MapX": 3297.977051,
+    "MapY": 2228.623535
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242588.390625,
+    "Y": 101916.828125,
+    "Z": -11777.006836,
+    "MapX": 3298.090332,
+    "MapY": 2228.390381
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242627.46875,
+    "Y": 101933.625,
+    "Z": -11803.87207,
+    "MapX": 3298.263428,
+    "MapY": 2228.464844
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242632.828125,
+    "Y": 101753.820313,
+    "Z": -11725.490234,
+    "MapX": 3298.286865,
+    "MapY": 2227.666748
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242654.84375,
+    "Y": 102003.414063,
+    "Z": -11852.677734,
+    "MapX": 3298.384277,
+    "MapY": 2228.774658
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242678.734375,
+    "Y": 101898.5625,
+    "Z": -11801.657227,
+    "MapX": 3298.489746,
+    "MapY": 2228.309326
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242688.484375,
+    "Y": 102112.96875,
+    "Z": -11943.678711,
+    "MapX": 3298.532959,
+    "MapY": 2229.26123
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242690.015625,
+    "Y": 102036.015625,
+    "Z": -11894.363281,
+    "MapX": 3298.539795,
+    "MapY": 2228.919434
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242834.921875,
+    "Y": 101611.914063,
+    "Z": -11799.229492,
+    "MapX": 3299.180176,
+    "MapY": 2227.036621
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242875.625,
+    "Y": 101518.546875,
+    "Z": -11791.242188,
+    "MapX": 3299.360107,
+    "MapY": 2226.622314
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242879.96875,
+    "Y": 101412.539063,
+    "Z": -11769.462891,
+    "MapX": 3299.379395,
+    "MapY": 2226.151611
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 242977.6875,
+    "Y": 101315.234375,
+    "Z": -11837.050781,
+    "MapX": 3299.811279,
+    "MapY": 2225.719727
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243040.015625,
+    "Y": 101240.015625,
+    "Z": -11874.705078,
+    "MapX": 3300.086914,
+    "MapY": 2225.385742
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243150.578125,
+    "Y": 101498.429688,
+    "Z": -12038.49707,
+    "MapX": 3300.575684,
+    "MapY": 2226.532959
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243448.671875,
+    "Y": 101500,
+    "Z": -12141.954102,
+    "MapX": 3301.893311,
+    "MapY": 2226.540039
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243462.96875,
+    "Y": 100810.601563,
+    "Z": -11877.986328,
+    "MapX": 3301.956543,
+    "MapY": 2223.479492
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243484.34375,
+    "Y": 101657.148438,
+    "Z": -12187.120117,
+    "MapX": 3302.05127,
+    "MapY": 2227.237549
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243499.890625,
+    "Y": 101464.453125,
+    "Z": -12123.455078,
+    "MapX": 3302.119629,
+    "MapY": 2226.382324
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243609.28125,
+    "Y": 101487.867188,
+    "Z": -12107.632813,
+    "MapX": 3302.603271,
+    "MapY": 2226.486084
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243636.265625,
+    "Y": 101394.65625,
+    "Z": -12075.004883,
+    "MapX": 3302.722412,
+    "MapY": 2226.072266
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243684.875,
+    "Y": 101362.765625,
+    "Z": -12054.036133,
+    "MapX": 3302.9375,
+    "MapY": 2225.930664
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243722.625,
+    "Y": 101535.921875,
+    "Z": -12087.669922,
+    "MapX": 3303.104248,
+    "MapY": 2226.699463
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243733.6875,
+    "Y": 101500,
+    "Z": -12077.279297,
+    "MapX": 3303.15332,
+    "MapY": 2226.540039
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 243835.40625,
+    "Y": 101335.40625,
+    "Z": -12014.112305,
+    "MapX": 3303.602783,
+    "MapY": 2225.809326
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 244369.640625,
+    "Y": 103879.296875,
+    "Z": -12324.907227,
+    "MapX": 3305.964355,
+    "MapY": 2237.102539
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 244570.015625,
+    "Y": 101298.875,
+    "Z": -11685.349609,
+    "MapX": 3306.850098,
+    "MapY": 2225.646973
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 244608.5,
+    "Y": 101192.757813,
+    "Z": -11643.013672,
+    "MapX": 3307.020264,
+    "MapY": 2225.176025
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 244756.328125,
+    "Y": 101256.335938,
+    "Z": -11591.583984,
+    "MapX": 3307.673584,
+    "MapY": 2225.458252
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 244752.46875,
+    "Y": 101136.046875,
+    "Z": -11565.399414,
+    "MapX": 3307.656982,
+    "MapY": 2224.924316
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 245035.390625,
+    "Y": 102256.320313,
+    "Z": -11819.664063,
+    "MapX": 3308.907227,
+    "MapY": 2229.897461
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 245040.765625,
+    "Y": 102405.40625,
+    "Z": -11887.580078,
+    "MapX": 3308.931152,
+    "MapY": 2230.559326
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 245108.625,
+    "Y": 102403.03125,
+    "Z": -11885.53418,
+    "MapX": 3309.230957,
+    "MapY": 2230.548828
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 245134.203125,
+    "Y": 102312.3125,
+    "Z": -11828.948242,
+    "MapX": 3309.344238,
+    "MapY": 2230.145996
+  },
+  {
+    "Material": "Gold_Pickup",
+    "Mesh": "SM_rock_smallGold",
+    "X": 245166.109375,
+    "Y": 102438.8125,
+    "Z": -11873.400391,
+    "MapX": 3309.485352,
+    "MapY": 2230.70752
+  }
+]

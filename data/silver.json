@@ -1,0 +1,1595 @@
+[
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -224695.84375,
+    "Y": 160724.609375,
+    "Z": -13339.598633,
+    "MapX": 1232.459229,
+    "MapY": 2489.456055
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -224838.265625,
+    "Y": 160582.953125,
+    "Z": -13317.27832,
+    "MapX": 1231.82959,
+    "MapY": 2488.827148
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -224222.515625,
+    "Y": 158954.46875,
+    "Z": -13363.137695,
+    "MapX": 1234.551514,
+    "MapY": 2481.5979
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -227750.5625,
+    "Y": 160202.03125,
+    "Z": -13996.819336,
+    "MapX": 1218.955811,
+    "MapY": 2487.13623
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -227442.296875,
+    "Y": 159512.859375,
+    "Z": -12403.961914,
+    "MapX": 1220.318481,
+    "MapY": 2484.07666
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -262200,
+    "Y": 108640.34375,
+    "Z": -13773.328125,
+    "MapX": 1066.671875,
+    "MapY": 2258.238281
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -262100,
+    "Y": 108541.585938,
+    "Z": -13791.786133,
+    "MapX": 1067.114014,
+    "MapY": 2257.799805
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -261900,
+    "Y": 108595.28125,
+    "Z": -13863.739258,
+    "MapX": 1067.998047,
+    "MapY": 2258.038086
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -261704.328125,
+    "Y": 107500,
+    "Z": -13610.871094,
+    "MapX": 1068.863037,
+    "MapY": 2253.175781
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -260665.21875,
+    "Y": 109287.007813,
+    "Z": -14197.779297,
+    "MapX": 1073.456543,
+    "MapY": 2261.108887
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -260324.09375,
+    "Y": 108775.898438,
+    "Z": -14068.242188,
+    "MapX": 1074.964355,
+    "MapY": 2258.839844
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -260235.125,
+    "Y": 108500,
+    "Z": -13989.673828,
+    "MapX": 1075.357666,
+    "MapY": 2257.615234
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -259200,
+    "Y": 108000,
+    "Z": -13721.095703,
+    "MapX": 1079.933472,
+    "MapY": 2255.395508
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -258762.3125,
+    "Y": 109182.210938,
+    "Z": -14074.4375,
+    "MapX": 1081.868286,
+    "MapY": 2260.643555
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -257350.78125,
+    "Y": 24049.224609,
+    "Z": -16989.919922,
+    "MapX": 1088.10791,
+    "MapY": 1882.71228
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -256935.171875,
+    "Y": 21033.419922,
+    "Z": -17386.351563,
+    "MapX": 1089.945068,
+    "MapY": 1869.324219
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -256846.234375,
+    "Y": 20853.761719,
+    "Z": -17387.232422,
+    "MapX": 1090.338257,
+    "MapY": 1868.526611
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -255800,
+    "Y": 21977.457031,
+    "Z": -16492.769531,
+    "MapX": 1094.963135,
+    "MapY": 1873.515137
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -253730.96875,
+    "Y": 20675.230469,
+    "Z": -13796.654297,
+    "MapX": 1104.109375,
+    "MapY": 1867.734131
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -253551.828125,
+    "Y": 20695.375,
+    "Z": -13745.357422,
+    "MapX": 1104.901123,
+    "MapY": 1867.823486
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -253451.15625,
+    "Y": 20892.115234,
+    "Z": -13719.391602,
+    "MapX": 1105.346191,
+    "MapY": 1868.696899
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -253244.234375,
+    "Y": 20945.496094,
+    "Z": -13655.735352,
+    "MapX": 1106.260986,
+    "MapY": 1868.933838
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -254387.09375,
+    "Y": 25712.900391,
+    "Z": -13438.862305,
+    "MapX": 1101.208984,
+    "MapY": 1890.0979
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -254055.171875,
+    "Y": 25170.261719,
+    "Z": -13266.643555,
+    "MapX": 1102.67627,
+    "MapY": 1887.688965
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -261190.328125,
+    "Y": -33990.324219,
+    "Z": -14950.077148,
+    "MapX": 1071.135254,
+    "MapY": 1625.057129
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -147179.96875,
+    "Y": 141300,
+    "Z": -15802.811523,
+    "MapX": 1575.118286,
+    "MapY": 2403.224365
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -147722.234375,
+    "Y": 141377.765625,
+    "Z": -15847.838867,
+    "MapX": 1572.721191,
+    "MapY": 2403.56958
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -147826.890625,
+    "Y": 141173.109375,
+    "Z": -15923.125977,
+    "MapX": 1572.258667,
+    "MapY": 2402.661133
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -147835.546875,
+    "Y": 140964.453125,
+    "Z": -15983.142578,
+    "MapX": 1572.220337,
+    "MapY": 2401.734619
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -148270.703125,
+    "Y": 140929.296875,
+    "Z": -16061.766602,
+    "MapX": 1570.296753,
+    "MapY": 2401.578613
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -148323.578125,
+    "Y": 141027.890625,
+    "Z": -16049.551758,
+    "MapX": 1570.062988,
+    "MapY": 2402.016357
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -148518.9375,
+    "Y": 142781.0625,
+    "Z": -15726.744141,
+    "MapX": 1569.199463,
+    "MapY": 2409.799316
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -150117.5,
+    "Y": 143277.34375,
+    "Z": -16109.496094,
+    "MapX": 1562.133057,
+    "MapY": 2412.002441
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -150595,
+    "Y": 141943.21875,
+    "Z": -16266.795898,
+    "MapX": 1560.022217,
+    "MapY": 2406.079834
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -150770.78125,
+    "Y": 141965.265625,
+    "Z": -16311.458008,
+    "MapX": 1559.245117,
+    "MapY": 2406.177734
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -151748.046875,
+    "Y": 142826.71875,
+    "Z": -16563.130859,
+    "MapX": 1554.925171,
+    "MapY": 2410.001953
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -151565.40625,
+    "Y": 142687.65625,
+    "Z": -16515.816406,
+    "MapX": 1555.732422,
+    "MapY": 2409.384521
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -151164.453125,
+    "Y": 142035.546875,
+    "Z": -16416.166016,
+    "MapX": 1557.504883,
+    "MapY": 2406.489746
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -187870.921875,
+    "Y": 81429.078125,
+    "Z": -16053.541992,
+    "MapX": 1395.243896,
+    "MapY": 2137.438965
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -186949.015625,
+    "Y": 81044.953125,
+    "Z": -16188.791016,
+    "MapX": 1399.319092,
+    "MapY": 2135.733887
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -186860.375,
+    "Y": 80862.960938,
+    "Z": -16260.30957,
+    "MapX": 1399.710938,
+    "MapY": 2134.925781
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -186863.15625,
+    "Y": 81402.734375,
+    "Z": -16031.993164,
+    "MapX": 1399.69873,
+    "MapY": 2137.322021
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -186271.03125,
+    "Y": 80873.460938,
+    "Z": -16311.704102,
+    "MapX": 1402.316162,
+    "MapY": 2134.972412
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -186147.234375,
+    "Y": 80996.875,
+    "Z": -16294.058594,
+    "MapX": 1402.863403,
+    "MapY": 2135.520264
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -185817.984375,
+    "Y": 81993.539063,
+    "Z": -15959.371094,
+    "MapX": 1404.318848,
+    "MapY": 2139.944824
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -185627.453125,
+    "Y": 81800,
+    "Z": -16043.950195,
+    "MapX": 1405.161133,
+    "MapY": 2139.085693
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -185265.3125,
+    "Y": 81758.625,
+    "Z": -16105.439453,
+    "MapX": 1406.761963,
+    "MapY": 2138.901855
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -184888.28125,
+    "Y": 81830.953125,
+    "Z": -16129.329102,
+    "MapX": 1408.428711,
+    "MapY": 2139.223145
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -184198.609375,
+    "Y": -32001.644531,
+    "Z": -16221.638672,
+    "MapX": 1411.477295,
+    "MapY": 1633.885376
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -183984.28125,
+    "Y": -31895.714844,
+    "Z": -16295.007813,
+    "MapX": 1412.424805,
+    "MapY": 1634.355591
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -183812.203125,
+    "Y": -34112.199219,
+    "Z": -17420.333984,
+    "MapX": 1413.185425,
+    "MapY": 1624.516113
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -183766.796875,
+    "Y": -30800,
+    "Z": -16408.03125,
+    "MapX": 1413.38623,
+    "MapY": 1639.219849
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -183751.15625,
+    "Y": -34006.726563,
+    "Z": -17415.884766,
+    "MapX": 1413.455322,
+    "MapY": 1624.984253
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -182783.515625,
+    "Y": -30472.806641,
+    "Z": -16705.667969,
+    "MapX": 1417.732666,
+    "MapY": 1640.672363
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -182700,
+    "Y": -30671.917969,
+    "Z": -16728.591797,
+    "MapX": 1418.101929,
+    "MapY": 1639.788574
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -182367.625,
+    "Y": -30967.632813,
+    "Z": -16861.767578,
+    "MapX": 1419.571167,
+    "MapY": 1638.47583
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -182362.234375,
+    "Y": -30695.111328,
+    "Z": -16845.023438,
+    "MapX": 1419.594971,
+    "MapY": 1639.685547
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -120189.90625,
+    "Y": 42090.277344,
+    "Z": -16826.044922,
+    "MapX": 1694.427979,
+    "MapY": 1962.802002
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -198076.03125,
+    "Y": -67430.546875,
+    "Z": -16618.849609,
+    "MapX": 1350.13208,
+    "MapY": 1476.605591
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -195700,
+    "Y": -66502.703125,
+    "Z": -16282.137695,
+    "MapX": 1360.635376,
+    "MapY": 1480.724731
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -194915.640625,
+    "Y": -66815.640625,
+    "Z": -16275.592773,
+    "MapX": 1364.102661,
+    "MapY": 1479.335449
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -194769.71875,
+    "Y": -66845.164063,
+    "Z": -16248.325195,
+    "MapX": 1364.747803,
+    "MapY": 1479.204468
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -92041.8125,
+    "Y": 159705.59375,
+    "Z": -15985.005859,
+    "MapX": 1818.856689,
+    "MapY": 2484.932373
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -91924.867188,
+    "Y": 158634.734375,
+    "Z": -16209.801758,
+    "MapX": 1819.373657,
+    "MapY": 2480.178467
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -91861.414063,
+    "Y": 159504.65625,
+    "Z": -15988.181641,
+    "MapX": 1819.654175,
+    "MapY": 2484.040283
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -90954.5625,
+    "Y": 158651.140625,
+    "Z": -15935.003906,
+    "MapX": 1823.662842,
+    "MapY": 2480.251221
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -90685.117188,
+    "Y": 158956.671875,
+    "Z": -15777.067383,
+    "MapX": 1824.853882,
+    "MapY": 2481.607666
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -90678.679688,
+    "Y": 158500,
+    "Z": -15893.619141,
+    "MapX": 1824.882446,
+    "MapY": 2479.580322
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -90276.671875,
+    "Y": 156379.890625,
+    "Z": -16179.492188,
+    "MapX": 1826.659424,
+    "MapY": 2470.168457
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -531.030151,
+    "Y": 108774.367188,
+    "Z": -17158.076172,
+    "MapX": 2223.380371,
+    "MapY": 2258.833008
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -596.437073,
+    "Y": 108500.085938,
+    "Z": -17087.21875,
+    "MapX": 2223.091309,
+    "MapY": 2257.615479
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -600.495117,
+    "Y": 108642.34375,
+    "Z": -17128.476563,
+    "MapX": 2223.073242,
+    "MapY": 2258.24707
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -49053.003906,
+    "Y": -48153.003906,
+    "Z": -19243.017578,
+    "MapX": 2008.888794,
+    "MapY": 1562.184692
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -49024.992188,
+    "Y": -48354.847656,
+    "Z": -19194.654297,
+    "MapX": 2009.012695,
+    "MapY": 1561.288574
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -48914.8125,
+    "Y": -48114.8125,
+    "Z": -19221.009766,
+    "MapX": 2009.499756,
+    "MapY": 1562.354126
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -47916.347656,
+    "Y": -48687.175781,
+    "Z": -19046.707031,
+    "MapX": 2013.913452,
+    "MapY": 1559.813232
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": -46995.371094,
+    "Y": -47799.449219,
+    "Z": -17568.314453,
+    "MapX": 2017.984497,
+    "MapY": 1563.75415
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 84345.671875,
+    "Y": 104311.1875,
+    "Z": -9706.623047,
+    "MapX": 2598.578125,
+    "MapY": 2239.019775
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 84888.382813,
+    "Y": 104388.382813,
+    "Z": -9655.556641,
+    "MapX": 2600.977051,
+    "MapY": 2239.362305
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 82098.007813,
+    "Y": 108354.625,
+    "Z": -9731.920898,
+    "MapX": 2588.64209,
+    "MapY": 2256.969727
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 82144.390625,
+    "Y": 108233.226563,
+    "Z": -9754.808594,
+    "MapX": 2588.847168,
+    "MapY": 2256.430664
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 82836.820313,
+    "Y": 108653.140625,
+    "Z": -9516.264648,
+    "MapX": 2591.908203,
+    "MapY": 2258.294922
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 82931.242188,
+    "Y": 108556.695313,
+    "Z": -9519.077148,
+    "MapX": 2592.325684,
+    "MapY": 2257.866699
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 83136.53125,
+    "Y": 108607.078125,
+    "Z": -9438.494141,
+    "MapX": 2593.233154,
+    "MapY": 2258.090332
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 83770.554688,
+    "Y": 105720.992188,
+    "Z": -9648.261719,
+    "MapX": 2596.035889,
+    "MapY": 2245.27832
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 4404.607422,
+    "Y": 110848.601563,
+    "Z": -17555.964844,
+    "MapX": 2245.198242,
+    "MapY": 2268.04126
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 4209.685547,
+    "Y": 110743.375,
+    "Z": -17496.929688,
+    "MapX": 2244.33667,
+    "MapY": 2267.574219
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 4155.038086,
+    "Y": 110946.546875,
+    "Z": -17567.677734,
+    "MapX": 2244.095215,
+    "MapY": 2268.476074
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 82244.46875,
+    "Y": 3344.464844,
+    "Z": -20256.855469,
+    "MapX": 2589.289551,
+    "MapY": 1790.797607
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 82137.90625,
+    "Y": 3121.977783,
+    "Z": -20310.240234,
+    "MapX": 2588.818604,
+    "MapY": 1789.809937
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 81222.132813,
+    "Y": 799.998047,
+    "Z": -20529.144531,
+    "MapX": 2584.770508,
+    "MapY": 1779.501953
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 80938.65625,
+    "Y": 791.422546,
+    "Z": -18895.679688,
+    "MapX": 2583.51709,
+    "MapY": 1779.463867
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 81018.484375,
+    "Y": 1068.127075,
+    "Z": -18839.78125,
+    "MapX": 2583.870117,
+    "MapY": 1780.692261
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 99657.554688,
+    "Y": 43789.160156,
+    "Z": -11818.095703,
+    "MapX": 2666.264404,
+    "MapY": 1970.343994
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 99743.898438,
+    "Y": 43510.210938,
+    "Z": -11873.299805,
+    "MapX": 2666.645996,
+    "MapY": 1969.105713
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 100526.484375,
+    "Y": 44169.066406,
+    "Z": -11932.936523,
+    "MapX": 2670.105469,
+    "MapY": 1972.030396
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 18007.003906,
+    "Y": 39397.847656,
+    "Z": -16564.095703,
+    "MapX": 2305.327637,
+    "MapY": 1950.849609
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 16867.4375,
+    "Y": 32777.191406,
+    "Z": -16782.972656,
+    "MapX": 2300.290527,
+    "MapY": 1921.458496
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 17534.222656,
+    "Y": 33104.664063,
+    "Z": -16727.78125,
+    "MapX": 2303.237793,
+    "MapY": 1922.912109
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 18380.179688,
+    "Y": 33200.382813,
+    "Z": -16660.648438,
+    "MapX": 2306.977539,
+    "MapY": 1923.337158
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 18579.361328,
+    "Y": 33305.425781,
+    "Z": -16588.953125,
+    "MapX": 2307.85791,
+    "MapY": 1923.803467
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 169401.296875,
+    "Y": 116915.789063,
+    "Z": -18927.708984,
+    "MapX": 2974.56665,
+    "MapY": 2294.975342
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 172222.59375,
+    "Y": 120866.929688,
+    "Z": -18354.798828,
+    "MapX": 2987.03833,
+    "MapY": 2312.515625
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 172459.046875,
+    "Y": 121121.148438,
+    "Z": -18209.582031,
+    "MapX": 2988.083496,
+    "MapY": 2313.644287
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177136.515625,
+    "Y": 121913.882813,
+    "Z": -17588.806641,
+    "MapX": 3008.760254,
+    "MapY": 2317.163574
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177200.875,
+    "Y": 122040.8125,
+    "Z": -17549.306641,
+    "MapX": 3009.044922,
+    "MapY": 2317.726807
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 188400,
+    "Y": 6062.395996,
+    "Z": -14991.884766,
+    "MapX": 3058.550537,
+    "MapY": 1802.863281
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 188173.90625,
+    "Y": 6119.456055,
+    "Z": -15069.527344,
+    "MapX": 3057.551025,
+    "MapY": 1803.116577
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 188049.421875,
+    "Y": 6105.14502,
+    "Z": -15099.975586,
+    "MapX": 3057.000977,
+    "MapY": 1803.052979
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 186373.828125,
+    "Y": 3070.161377,
+    "Z": -14866.378906,
+    "MapX": 3049.59375,
+    "MapY": 1789.579834
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 186759.5,
+    "Y": 3147.609863,
+    "Z": -14868.822266,
+    "MapX": 3051.298584,
+    "MapY": 1789.923706
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 188069.625,
+    "Y": 3613.753418,
+    "Z": -14914.078125,
+    "MapX": 3057.090088,
+    "MapY": 1791.993042
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 188014.265625,
+    "Y": 5982.980957,
+    "Z": -15096.40918,
+    "MapX": 3056.845215,
+    "MapY": 1802.510742
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 105962.539063,
+    "Y": 48262.539063,
+    "Z": -12468.949219,
+    "MapX": 2694.135498,
+    "MapY": 1990.202637
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 108051.601563,
+    "Y": 51273.535156,
+    "Z": -13009.00293,
+    "MapX": 2703.370117,
+    "MapY": 2003.569336
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 109699.148438,
+    "Y": 51377.878906,
+    "Z": -13924.680664,
+    "MapX": 2710.653076,
+    "MapY": 2004.032471
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 176778.328125,
+    "Y": -61600,
+    "Z": -14393.258789,
+    "MapX": 3007.176758,
+    "MapY": 1502.489258
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177034.65625,
+    "Y": -61834.808594,
+    "Z": -14188.572266,
+    "MapX": 3008.309814,
+    "MapY": 1501.446899
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177086.3125,
+    "Y": -62213.695313,
+    "Z": -14044.533203,
+    "MapX": 3008.53833,
+    "MapY": 1499.764893
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177118.5,
+    "Y": -63446.125,
+    "Z": -13404.96875,
+    "MapX": 3008.680664,
+    "MapY": 1494.293701
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177200,
+    "Y": -62240.535156,
+    "Z": -13982.37207,
+    "MapX": 3009.041016,
+    "MapY": 1499.645752
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177219.78125,
+    "Y": -61798.121094,
+    "Z": -14152.229492,
+    "MapX": 3009.128174,
+    "MapY": 1501.609741
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 177289.953125,
+    "Y": -63435.566406,
+    "Z": -13402.486328,
+    "MapX": 3009.438477,
+    "MapY": 1494.340576
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 178456.796875,
+    "Y": -61003.527344,
+    "Z": -14634.001953,
+    "MapX": 3014.59668,
+    "MapY": 1505.137207
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 174242.953125,
+    "Y": -74291.4375,
+    "Z": -12238.000977,
+    "MapX": 2995.969238,
+    "MapY": 1446.148193
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 174411.8125,
+    "Y": -74290.6875,
+    "Z": -12162.950195,
+    "MapX": 2996.715576,
+    "MapY": 1446.151489
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 170325.578125,
+    "Y": -79522.03125,
+    "Z": -12665.526367,
+    "MapX": 2978.652344,
+    "MapY": 1422.927856
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 170582.53125,
+    "Y": -79556.65625,
+    "Z": -12739.679688,
+    "MapX": 2979.788086,
+    "MapY": 1422.77417
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 170448.015625,
+    "Y": -79602.679688,
+    "Z": -12717.214844,
+    "MapX": 2979.193604,
+    "MapY": 1422.569824
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 170769.96875,
+    "Y": -78718.546875,
+    "Z": -12482.612305,
+    "MapX": 2980.616943,
+    "MapY": 1426.494751
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 170790.515625,
+    "Y": -78931.296875,
+    "Z": -12546.011719,
+    "MapX": 2980.707764,
+    "MapY": 1425.550293
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 165929.703125,
+    "Y": -79520.28125,
+    "Z": -11867.875977,
+    "MapX": 2959.220459,
+    "MapY": 1422.935669
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 163378.921875,
+    "Y": -75603.820313,
+    "Z": -12001.862305,
+    "MapX": 2947.944824,
+    "MapY": 1440.322144
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 167727.3125,
+    "Y": -70440.5,
+    "Z": -12645.615234,
+    "MapX": 2967.166748,
+    "MapY": 1463.243652
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 167834.546875,
+    "Y": -70413.71875,
+    "Z": -12598.433594,
+    "MapX": 2967.641113,
+    "MapY": 1463.362427
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 256729.921875,
+    "Y": 105941.46875,
+    "Z": -11833.53125,
+    "MapX": 3360.603271,
+    "MapY": 2246.256836
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 256165.578125,
+    "Y": 107275.375,
+    "Z": -10945.847656,
+    "MapX": 3358.108398,
+    "MapY": 2252.178711
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 256358.40625,
+    "Y": 103058.398438,
+    "Z": -11219.119141,
+    "MapX": 3358.960693,
+    "MapY": 2233.458252
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 254743.328125,
+    "Y": 108507.726563,
+    "Z": -13315.017578,
+    "MapX": 3351.821289,
+    "MapY": 2257.649414
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 251921.96875,
+    "Y": 109767.171875,
+    "Z": -13459.765625,
+    "MapX": 3339.349854,
+    "MapY": 2263.240479
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 251746.609375,
+    "Y": 109700,
+    "Z": -13403.634766,
+    "MapX": 3338.574463,
+    "MapY": 2262.942383
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 260863.921875,
+    "Y": 94354.085938,
+    "Z": -11318.487305,
+    "MapX": 3378.877686,
+    "MapY": 2194.817139
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 260953,
+    "Y": 91853.007813,
+    "Z": -12702.235352,
+    "MapX": 3379.27124,
+    "MapY": 2183.713867
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 260964.875,
+    "Y": 91665.875,
+    "Z": -12745.317383,
+    "MapX": 3379.32373,
+    "MapY": 2182.883301
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261076.140625,
+    "Y": 91900,
+    "Z": -12692.446289,
+    "MapX": 3379.81543,
+    "MapY": 2183.922607
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261425.515625,
+    "Y": 93200,
+    "Z": -12257.280273,
+    "MapX": 3381.360107,
+    "MapY": 2189.693848
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261649.703125,
+    "Y": 93324.859375,
+    "Z": -12200.28125,
+    "MapX": 3382.35083,
+    "MapY": 2190.248047
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261718.1875,
+    "Y": 92632.289063,
+    "Z": -12431.154297,
+    "MapX": 3382.653564,
+    "MapY": 2187.17334
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261758.765625,
+    "Y": 92956.703125,
+    "Z": -12326.137695,
+    "MapX": 3382.833008,
+    "MapY": 2188.61377
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261861.34375,
+    "Y": 92556.023438,
+    "Z": -12428.03418,
+    "MapX": 3383.286621,
+    "MapY": 2186.834961
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262100,
+    "Y": 93356.859375,
+    "Z": -12149.419922,
+    "MapX": 3384.341553,
+    "MapY": 2190.390137
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262137.859375,
+    "Y": 91918.59375,
+    "Z": -12564.755859,
+    "MapX": 3384.509033,
+    "MapY": 2184.005127
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262144,
+    "Y": 93235.078125,
+    "Z": -12182.798828,
+    "MapX": 3384.535889,
+    "MapY": 2189.849365
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262200,
+    "Y": 92044.945313,
+    "Z": -12507.364258,
+    "MapX": 3384.783691,
+    "MapY": 2184.565918
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262834.5,
+    "Y": 93654.46875,
+    "Z": -12004.824219,
+    "MapX": 3387.588379,
+    "MapY": 2191.711182
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262867.28125,
+    "Y": 92226.90625,
+    "Z": -12339.655273,
+    "MapX": 3387.733154,
+    "MapY": 2185.374023
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262929.40625,
+    "Y": 93555.867188,
+    "Z": -12016.043945,
+    "MapX": 3388.007813,
+    "MapY": 2191.273438
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 263300,
+    "Y": 92515.179688,
+    "Z": -12221.630859,
+    "MapX": 3389.645996,
+    "MapY": 2186.653564
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 264325.375,
+    "Y": 94315.210938,
+    "Z": -11926.202148,
+    "MapX": 3394.178955,
+    "MapY": 2194.644531
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 260206.34375,
+    "Y": 98148.804688,
+    "Z": -11284.474609,
+    "MapX": 3375.970703,
+    "MapY": 2211.663086
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 260952.171875,
+    "Y": 99104.382813,
+    "Z": -11611.542969,
+    "MapX": 3379.267822,
+    "MapY": 2215.905029
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 260975.953125,
+    "Y": 97076.703125,
+    "Z": -11283.424805,
+    "MapX": 3379.372803,
+    "MapY": 2206.903564
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261017.84375,
+    "Y": 95549.03125,
+    "Z": -11351.004883,
+    "MapX": 3379.557861,
+    "MapY": 2200.121826
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261177.078125,
+    "Y": 97282.4375,
+    "Z": -11282.261719,
+    "MapX": 3380.261719,
+    "MapY": 2207.816895
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261245.40625,
+    "Y": 95682.539063,
+    "Z": -11388.334961,
+    "MapX": 3380.563721,
+    "MapY": 2200.714355
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261528.8125,
+    "Y": 95900,
+    "Z": -11442.134766,
+    "MapX": 3381.81665,
+    "MapY": 2201.679932
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 261700,
+    "Y": 98700,
+    "Z": -11671.09375,
+    "MapX": 3382.573242,
+    "MapY": 2214.109863
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262016.5625,
+    "Y": 98166.09375,
+    "Z": -11296.553711,
+    "MapX": 3383.972656,
+    "MapY": 2211.739746
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262071.640625,
+    "Y": 97809.328125,
+    "Z": -11275.419922,
+    "MapX": 3384.216064,
+    "MapY": 2210.156006
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262185.78125,
+    "Y": 97785.789063,
+    "Z": -11276.867188,
+    "MapX": 3384.720459,
+    "MapY": 2210.051514
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 262223.8125,
+    "Y": 95223.820313,
+    "Z": -11553.498047,
+    "MapX": 3384.888672,
+    "MapY": 2198.677979
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 263461.09375,
+    "Y": 98994.492188,
+    "Z": -11671.636719,
+    "MapX": 3390.358398,
+    "MapY": 2215.417236
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 264646.3125,
+    "Y": 97988.328125,
+    "Z": -10200.34375,
+    "MapX": 3395.597656,
+    "MapY": 2210.950684
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 265810.21875,
+    "Y": 99343.335938,
+    "Z": -12051.376953,
+    "MapX": 3400.742676,
+    "MapY": 2216.96582
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 265824.53125,
+    "Y": 99193.273438,
+    "Z": -12014.78418,
+    "MapX": 3400.805664,
+    "MapY": 2216.299805
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 266338.84375,
+    "Y": 98855.75,
+    "Z": -12045.169922,
+    "MapX": 3403.07959,
+    "MapY": 2214.80127
+  },
+  {
+    "Material": "Ore_Silver",
+    "Mesh": "SM_rock_resource_Silver_01",
+    "X": 266443.9375,
+    "Y": 97775.664063,
+    "Z": -11199.707031,
+    "MapX": 3403.543945,
+    "MapY": 2210.006348
+  }
+]
